@@ -27,81 +27,102 @@
     <script type="text/babel">
 
     // TODO: metadata on how to unlock the achievements
-    const relevantAchievements = [
+    const BOOKS = [
+      {
+        "name": "Book 01",
+        "type": "book",
+        "text": "The text of the book."
+      },
+      {
+        "name": "Book 02",
+        "type": "book",
+        "text": "The text of the book."
+      },
+      {
+        "name": "Book A",
+        "type": "book",
+        "text": "More book text."
+      },
+      {
+        "name": "Book B",
+        "type": "book",
+        "text": "More book text."
+      },
+      {
+        "name": "Book C",
+        "type": "paged",
+        "text": [
+          {
+            "description": "Book C, Vol. 1",
+            "page": 1,
+            "text": "The text of the first page."
+          },
+          {
+            "description": "Book C, Vol. 2",
+            "page": 2,
+            "text": "More book text from the second page."
+          }
+        ]
+      },
+      {
+        "name": "Paged Book A",
+        "type": "paged",
+        "text": [
+          {
+            "text": "The text of the first page.",
+            "page": 1
+          },
+          {
+            "text": "More book text from the second page.",
+            "page": 2
+          }
+        ]
+      }
+    ];
+    const ACHIEVEMENTS = [
       {
         "achievementId": 1,
         "name": "An Achievement",
-        "collectionType": "books",
         "bits": [
           {
             "type": "Achievement"
           },
           {
-            "type": "Item",
             "id": 102,
-            "name": "Book 01",
-            "text": "The text of the book."
+            "book": "Book 01"
           },
           {
-            "type": "Item",
             "id": 103,
-            "name": "Book A",
-            "text": "More book text."
+            "book": "Book A"
           },
         ]
       },
       {
         "achievementId": 2,
         "name": "Another Achievement",
-        "collectionType": "books",
         "bits": [
           {
-            "type": "Achievement"
-          },
-          {
-            "type": "Item",
             "id": 104,
-            "name": "Book 02",
-            "text": "The text of the book."
+            "book": "Book 02"
           },
           {
-            "type": "Item",
             "id": 105,
-            "name": "Book B",
-            "text": "More book text."
+            "book": "Book B"
           },
         ]
       },
       {
         "achievementId": 3,
         "name": "Yet Another Achievement",
-        "collectionType": "pages",
         "bits": [
           {
-            "type": "Achievement"
-          },
-          {
-            "type": "Item",
             "id": 106,
-            "name": "Book C, Vol. 1",
+            "book": "Book C",
             "page": 1
           },
           {
-            "type": "Item",
             "id": 107,
-            "name": "Book C, Vol. 2",
-            "page": 2
-          },
-        ],
-        "pages": [
-          {
-            "name": "Book C, Vol. 1",
-            "text": "The text of the first page.",
-            "page": 1
-          },
-          {
-            "name": "Book C, Vol. 2",
-            "text": "More book text from the second page.",
+            "book": "Book C",
             "page": 2
           },
         ]
@@ -109,153 +130,121 @@
       {
         "achievementId": 4,
         "name": "YAA",
-        "collectionType": "pages",
         "bits": [
           {
             "type": "Achievement"
           },
           {
-            "type": "Item",
             "id": 108,
-            "name": "Paged Book A",
+            "book": "Paged Book A",
             "page": 1
           },
           {
-            "type": "Item",
             "id": 109,
-            "name": "Paged Book A",
-            "page": 2
-          },
-        ],
-        "pages": [
-          {
-            "name": "Paged Book A",
-            "text": "The text of the first page.",
-            "page": 1
-          },
-          {
-            "name": "Paged Book A",
-            "text": "More book text from the second page.",
+            "book": "Paged Book A",
             "page": 2
           },
         ]
       },
     ];
 
+    const testAchievementData = [
+      {
+        bits: [],
+        current: 3,
+        done: true,
+        id: 1,
+        max: 3
+      },
+      {
+        bits: [1],
+        current: 1,
+        done: false,
+        id: 2,
+        max: 2
+      },
+      {
+        bits: [],
+        current: 2,
+        done: true,
+        id: 3,
+        max: 2
+      },
+      {
+        bits: [2],
+        current: 3,
+        done: false,
+        id: 4,
+        max: 3
+      },
+    ];
+
       function mapAchievementsToBooks(progression) {
-        return relevantAchievements.map(achievement => {
-          var progress = progression
-            .filter(x => (x["id"] == achievement["achievementId"]))
-            .shift();
-          switch (achievement["collectionType"]) {
-            case "books":
-              return achievement["bits"]
-                .filter(x => x["type"] == "Item")
-                .map((x, index) => {
-                  var status = "locked";
-                  if (progress == null) {
-                    status = "locked";
-                  } else if (progress["done"]) {
-                    status = "complete";
-                  } else if (progress["bits"].includes(index + 1)) {
-                    status = "complete";
+        var achievements = {};
+        ACHIEVEMENTS.forEach(x => achievements[x.achievementId] = x);
+
+        var books = {};
+        var output = [];
+        BOOKS.forEach(x => {
+          const book = {...x, status: "locked"};
+          output.push(book);
+          books[x.name] = book;
+        });
+        // TODO: book, paged, collation (multiple disparate things)
+
+        progression.forEach(progress => {
+          var achievement = achievements[progress.id];
+          achievement["bits"]
+            .map((bit, index) => {
+              var isDone = progress["done"] || progress["bits"].includes(index + 1);
+              if (isDone) {
+                var bookName = bit["book"];
+                if (bookName) {
+                  if (bit["page"]) {
+                    books[bookName].text.find(x => x.page == bit.page).isUnlocked = true;
+                  } else {
+                    books[bookName].status = "complete";
                   }
-
-                  return {
-                    name: x.name,
-                    status: status,
-                    data: x,
-                    type: x["collectionType"]
-                  };
-                });
-              break;
-            case "pages":
-              var status = "locked";
-              var bits = null;
-              var count = null;
-
-              if (progress == null) {
-                // skip
-              } else if (progress["done"]) {
-                status = "complete";
-              } else if (progress["current"] > 0) {
-                status = "partial";
-                bits = progress["bits"];
+                }
               }
+            });
+            if (progress.done && achievement.unlockOnCompletion) {
+              achievement.unlockOnCompletion.forEach(bit => {
+                var bookName = bit["book"];
+                books[bookName].text.find(x => x.page == bit.page).isUnlocked = true;
+              });
+            }
+        });
 
-              var book = {
-                name: achievement.name,
-                status: status,
-                bits: bits,
-                data: achievement,
-                type: achievement["collectionType"]
-              };
-              return book;
-              break;
-            default:
-              // Hm....
+        output.forEach(book => {
+          if (book.type == "paged") {
+            const unlockedPages = book.text.filter(x => x.isUnlocked).length;
+            const isComplete = unlockedPages > 0
+            if (unlockedPages == 0) {
+              // remain locked
+            } else if (unlockedPages == book.text.length) {
+              book.status = "complete";
+            } else {
+              book.status = "partial";
+            }
+          } else if (book.type == "book-paged") {
+            if (book.status == "complete") {
+              book.text.forEach(x => x.isUnlocked = true);
+            }
           }
-          return [{"name": "something broke"}];
-        }).flat(1);
-      }
-
-      class Book extends React.Component {
-        constructor(props) {
-          super(props);
-          this.state = props.value;
-          this.onClick = props.onClick;
-        }
-
-        render() {
-          var context = "light";
-          switch (this.state.status) {
-            case "partial":
-              context = "secondary";
-              break;
-            case "complete":
-              context = "primary";
-              break;
-          }
-          // TODO set active somehow?
-          return (
-            <a href="#" className={"list-group-item-" + context + " list-group-item d-flex justify-content-between align-items-center"}
-                onClick={this.onClick}>
-              {this.state.name}
-              {(this.state.status == "partial") &&
-                <span className="badge badge-warning badge-pill">
-                  {this.state.bits.length}
-                </span>
-              }
-            </a>
-          );
-        }
+        });
+        return output;
       }
 
       class BookPreview extends React.Component {
         render() {
-          var book = this.props.value;
-          var text = "";
-          var title = "";
-          if (book) {
-            title = book.name;
-            switch (book.status) {
-            case "locked":
-              text = "You have yet to acquire this book.";
-              break;
-            case "partial":
-              text = "This shouldn't happen; this is really only applicable for pages...";
-              break;
-            case "complete":
-              text = book.data.text;
-              break;
-            }
-          }
+          const book = this.props.value;
           return (
             <div className="col-sm-8">
               <div className="card">
                 <div className="preview card-body">
-                  <h4 className="card-title">{title}</h4>
-                  {text}
+                  <h4 className="card-title">{book.name}</h4>
+                  {book.text}
                 </div>
               </div>
             </div>
@@ -263,103 +252,62 @@
         }
       }
 
-      class PagedBookPreview extends React.Component {
-        constructor(props) {
-          super(props);
-          this.state = {page: 1};
-          // TODO page should reset when the book changes
-          this.handlePrev = this.handlePrev.bind(this);
-          this.handleNext = this.handleNext.bind(this);
-        }
-
-        isPrevDisabled() {
-          return !this.props.book || this.props.book.status == "locked" || this.state.page == 1;
-        }
-
-        isNextDisabled() {
-          var max = this.props.book.data.pages.length;
-          return !this.props.book || this.props.book.status == "locked" || this.state.page >= max;
-        }
-
-        handlePrev() {
-          this.updatePage(this.state.page - 1);
-        }
-
-        handleNext() {
-          this.updatePage(this.state.page + 1);
-        }
-
-        updatePage(newPage) {
-          if (this.props.book) {
-            var max = this.props.book.data.pages.length;
-            if (newPage < 1) {
-              newPage = 1;
-            } else if (newPage > max) {
-              newPage = max;
-            }
-            this.setState({page: newPage});
-          }
-        }
+      class LockedBookPreview extends React.Component {
 
         render() {
           var book = this.props.book;
-          var text = "";
-          var title = "";
-          var isUnlocked = false;
-          if (book) {
-            title = book.name;
-            switch (book.status) {
-            case "locked":
-              text = "You have yet to acquire this book.";
-              break;
-            case "partial":
-              if (book.bits.includes(this.state.page)) {
-                isUnlocked = true;
-              } else {
-                text = "Page Missing";
-              }
-              break;
-            case "complete":
-              isUnlocked = true;
-              break;
-            }
+          return (
+            <div className="col-sm-8">
+              <div className="card border-warning">
+                <div className="card-body text-warning">
+                  <h4 className="card-title">{book.name}</h4>
+                  You have yet to acquire this book.
+                </div>
+              </div>
+            </div>
+          );
+        }
+
+      }
+
+      class PagedBookPreview extends React.Component {
+
+        render() {
+          var book = this.props.book;
+          if (!book) {
+            return ("Uh-oh");
           }
-          // TODO what to do with description?
-          if (isUnlocked) {
-            text = book.data.pages[this.state.page-1].text;
-          }
+
           return (
             <div className="col-sm-8">
               <div className="card">
-                <div className="card-header container">
-                  <div className="row">
-                    <div className="col-sm-5 text-right">
-                    <button
-                      type="button"
-                      className="btn btn-sm btn-secondary"
-                      disabled={this.isPrevDisabled()}
-                      onClick={this.handlePrev}>
-                      &larr;
-                    </button>
-                    </div>
-                    <div className="col-sm-2 text-center">
-                    {this.state.page}
-                    </div>
-                    <div className="col-sm-5 text-left">
-                    <button
-                      type="button"
-                      className="btn btn-sm btn-secondary"
-                      disabled={this.isNextDisabled()}
-                      onClick={this.handleNext}>
-                      &rarr;
-                    </button>
-                    </div>
-                  </div>
+                <div className="card-body">
+                  <h4 className="card-title">{book.name}</h4>
+                  {book.text.map(page => (
+                    <Page page={page} key={page.page} />
+                  ))}
                 </div>
-                <div className="preview card-body">
-                  <h4 className="card-title">{title}</h4>
-                  {text}
-                </div>
+              </div>
+            </div>
+          );
+        }
+      }
+
+      class Page extends React.Component {
+        render() {
+          var text = "Page Missing";
+          var style = "warning";
+          if (this.props.page.isUnlocked) {
+            text = this.props.page.text;
+            style = "primary";
+          }
+          return (
+            <div className={"card mb-3 border-" + style}>
+              {this.props.page.description &&
+                <div className="card-header">{this.props.page.description}</div>
+              }
+              <div className="preview card-body">
+                {text}
               </div>
             </div>
           );
@@ -419,51 +367,20 @@
         }
       }
 
-      const testAchievementData = [
-          {
-            bits: [],
-            current: 2,
-            done: true,
-            id: 1,
-            max: 2
-          },
-          {
-            bits: [1],
-            current: 1,
-            done: false,
-            id: 2,
-            max: 2
-          },
-          {
-            bits: [],
-            current: 2,
-            done: true,
-            id: 3,
-            max: 2
-          },
-          {
-            bits: [1],
-            current: 1,
-            done: false,
-            id: 4,
-            max: 2
-          },
-        ];
-
       class Shelf extends React.Component {
         constructor(props) {
           super(props);
           this.apiKey = props.apiKey;
+
           this.state = {
             achievements: [], isLoaded: false,
-            //achievements: testAchievementData, isLoaded: true,
             error: null,
             preview: null
           };
         }
         componentDidMount() {
           if (this.apiKey == 'UNLOCK_ALL') {
-            const allUnlocked = relevantAchievements.map(x => {
+            const allUnlocked = ACHIEVEMENTS.map(x => {
                 return {
                   bits: [],
                   current: x.bits.length,
@@ -490,9 +407,9 @@
             });
             return;
           }
-          // TODO wrap this in an API-centric class/module
+          // TODO move this to a GW2 API class?
           var url = "https://api.guildwars2.com/v2/account/achievements?"
-            + "ids=" + relevantAchievements.map(x => x["achievementId"]).join(",")
+            + "ids=" + ACHIEVEMENTS.map(x => x["achievementId"]).join(",")
             + "&access_token=" + this.apiKey;
           fetch(url)
             .then(res => res.json())
@@ -514,19 +431,28 @@
               }
             )
         }
-        /**
-        */
         
         renderPreview() {
           var book = this.state.preview;
-          if (book && book.type == "pages") {
+          if (!book) {
+            return;
+          }
+
+          if (book.status == "locked") {
+            return (
+              <LockedBookPreview book={book} />
+            );
+          }
+
+          if (book.type == "paged" || book.type == "book-paged") {
             return (
               <PagedBookPreview book={book} />
             );
+          } else {
+            return (
+              <BookPreview value={book} />
+            );
           }
-          return (
-            <BookPreview value={book} />
-          );
         }
         
         previewBook(book) {
@@ -552,7 +478,7 @@
             return (
               <div className="codex container">
                 <div className="row">
-                  <h2>Shelf</h2>
+                  <h2>Tyrian Bookshelf</h2>
                 </div>
                 <div className="row">
                 <div className="col-sm-4">
@@ -567,6 +493,39 @@
               </div>
             );
           }
+        }
+      }
+
+      class Book extends React.Component {
+        constructor(props) {
+          super(props);
+          this.state = props.value;
+          this.onClick = props.onClick;
+        }
+
+        render() {
+          var context = "light";
+          switch (this.state.status) {
+            case "partial":
+              context = "secondary";
+              break;
+            case "complete":
+              context = "primary";
+              break;
+          }
+
+          // TODO set active highlight somehow?
+          return (
+            <a href="#" className={"list-group-item-" + context + " list-group-item d-flex justify-content-between align-items-center"}
+                onClick={this.onClick}>
+              {this.state.name}
+              {(this.state.status == "partial") &&
+                <span className="badge badge-warning badge-pill">
+                  {this.state.text.filter(x => !x.isUnlocked).length}
+                </span>
+              }
+            </a>
+          );
         }
       }
 

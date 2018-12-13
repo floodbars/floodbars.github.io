@@ -5,6 +5,8 @@
     <title>Tyrian Bookshelf</title>
     <script src="https://unpkg.com/react@16/umd/react.development.js"></script>
     <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
     
     <!-- Don't use this in production: -->
     <script src="https://unpkg.com/babel-standalone@6.15.0/babel.min.js"></script>
@@ -21,8 +23,9 @@
     </style>
   </head>
   <body>
-    <div id="root"></div>
+    <div id="root" class="container"></div>
     <script type="text/babel">
+
     // TODO: metadata on how to unlock the achievements
     const relevantAchievements = [
       {
@@ -49,7 +52,7 @@
       },
       {
         "achievementId": 2,
-        "name": "An Achievement",
+        "name": "Another Achievement",
         "collectionType": "books",
         "bits": [
           {
@@ -66,6 +69,74 @@
             "id": 105,
             "name": "Book B",
             "text": "More book text."
+          },
+        ]
+      },
+      {
+        "achievementId": 3,
+        "name": "Yet Another Achievement",
+        "collectionType": "pages",
+        "bits": [
+          {
+            "type": "Achievement"
+          },
+          {
+            "type": "Item",
+            "id": 106,
+            "name": "Book C, Vol. 1",
+            "page": 1
+          },
+          {
+            "type": "Item",
+            "id": 107,
+            "name": "Book C, Vol. 2",
+            "page": 2
+          },
+        ],
+        "pages": [
+          {
+            "name": "Book C, Vol. 1",
+            "text": "The text of the first page.",
+            "page": 1
+          },
+          {
+            "name": "Book C, Vol. 2",
+            "text": "More book text from the second page.",
+            "page": 2
+          },
+        ]
+      },
+      {
+        "achievementId": 4,
+        "name": "YAA",
+        "collectionType": "pages",
+        "bits": [
+          {
+            "type": "Achievement"
+          },
+          {
+            "type": "Item",
+            "id": 108,
+            "name": "Paged Book A",
+            "page": 1
+          },
+          {
+            "type": "Item",
+            "id": 109,
+            "name": "Paged Book A",
+            "page": 2
+          },
+        ],
+        "pages": [
+          {
+            "name": "Paged Book A",
+            "text": "The text of the first page.",
+            "page": 1
+          },
+          {
+            "name": "Paged Book A",
+            "text": "More book text from the second page.",
+            "page": 2
           },
         ]
       },
@@ -100,8 +171,8 @@
               break;
             case "pages":
               var status = "locked";
-              var completion = "";
               var bits = null;
+              var count = null;
 
               if (progress == null) {
                 // skip
@@ -109,12 +180,11 @@
                 status = "complete";
               } else if (progress["current"] > 0) {
                 status = "partial";
-                completion = " [" + progress["current"] + "/" + progress["max"] + "]";
                 bits = progress["bits"];
               }
 
               var book = {
-                name: achievement.name + completion,
+                name: achievement.name,
                 status: status,
                 bits: bits,
                 data: achievement,
@@ -136,13 +206,27 @@
           this.onClick = props.onClick;
         }
 
-        render() { 
+        render() {
+          var context = "light";
+          switch (this.state.status) {
+            case "partial":
+              context = "secondary";
+              break;
+            case "complete":
+              context = "primary";
+              break;
+          }
+          // TODO set active somehow?
           return (
-            <li className={this.state.status} onClick={this.onClick}>
-              <span className="book">
-                {this.state.name}
-              </span>
-            </li>
+            <a href="#" className={"list-group-item-" + context + " list-group-item d-flex justify-content-between align-items-center"}
+                onClick={this.onClick}>
+              {this.state.name}
+              {(this.state.status == "partial") &&
+                <span className="badge badge-warning badge-pill">
+                  {this.state.bits.length}
+                </span>
+              }
+            </a>
           );
         }
       }
@@ -167,11 +251,12 @@
             }
           }
           return (
-            <div>
-              <h2>Preview</h2>
-              <h3>{title}</h3>
-              <div className="preview">
-                {text}
+            <div className="col-sm-8">
+              <div className="card">
+                <div className="preview card-body">
+                  <h4 className="card-title">{title}</h4>
+                  {text}
+                </div>
               </div>
             </div>
           );
@@ -182,17 +267,18 @@
         constructor(props) {
           super(props);
           this.state = {page: 1};
+          // TODO page should reset when the book changes
           this.handlePrev = this.handlePrev.bind(this);
           this.handleNext = this.handleNext.bind(this);
         }
 
         isPrevDisabled() {
-          return !this.props.book || this.state.page == 1;
+          return !this.props.book || this.props.book.status == "locked" || this.state.page == 1;
         }
 
         isNextDisabled() {
           var max = this.props.book.data.pages.length;
-          return !this.props.book || this.state.page >= max;
+          return !this.props.book || this.props.book.status == "locked" || this.state.page >= max;
         }
 
         handlePrev() {
@@ -243,24 +329,37 @@
             text = book.data.pages[this.state.page-1].text;
           }
           return (
-            <div>
-              <h2>Preview</h2>
-              <h3>{title}</h3>
-              <center>
-                <button
-                  disabled={this.isPrevDisabled()}
-                  onClick={this.handlePrev}>
-                  &lt;
-                </button>
-                {this.state.page}
-                <button
-                  disabled={this.isNextDisabled()}
-                  onClick={this.handleNext}>
-                  &gt;
-                </button>
-              </center>
-              <div className="preview">
-                {text}
+            <div className="col-sm-8">
+              <div className="card">
+                <div className="card-header container">
+                  <div className="row">
+                    <div className="col-sm-5 text-right">
+                    <button
+                      type="button"
+                      className="btn btn-sm btn-secondary"
+                      disabled={this.isPrevDisabled()}
+                      onClick={this.handlePrev}>
+                      &larr;
+                    </button>
+                    </div>
+                    <div className="col-sm-2 text-center">
+                    {this.state.page}
+                    </div>
+                    <div className="col-sm-5 text-left">
+                    <button
+                      type="button"
+                      className="btn btn-sm btn-secondary"
+                      disabled={this.isNextDisabled()}
+                      onClick={this.handleNext}>
+                      &rarr;
+                    </button>
+                    </div>
+                  </div>
+                </div>
+                <div className="preview card-body">
+                  <h4 className="card-title">{title}</h4>
+                  {text}
+                </div>
               </div>
             </div>
           );
@@ -282,15 +381,18 @@
             <div>
               <h1>Codex</h1>
               <form onSubmit={this.handleSubmit}>
-                <label htmlFor="new-todo">
+                <div className="form-group">
+                <label htmlFor="api-key">
                   API Key
                 </label>
                 <input
-                  id="new-todo"
+                  id="api-key"
+                  className="form-control"
                   onChange={this.handleChange}
                   value={this.state.apiKey}
                 />
-                <button>
+                </div>
+                <button type="submit" className="btn btn-primary">
                   Load
                 </button>
               </form>
@@ -299,7 +401,7 @@
         }
 
         handleChange(e) {
-          this.setState({ text: e.target.value });
+          this.setState({ apiKey: e.target.value });
         }
 
         handleSubmit(e) {
@@ -332,6 +434,20 @@
             id: 2,
             max: 2
           },
+          {
+            bits: [],
+            current: 2,
+            done: true,
+            id: 3,
+            max: 2
+          },
+          {
+            bits: [1],
+            current: 1,
+            done: false,
+            id: 4,
+            max: 2
+          },
         ];
 
       class Shelf extends React.Component {
@@ -339,14 +455,41 @@
           super(props);
           this.apiKey = props.apiKey;
           this.state = {
-            //achievements: [], isLoaded: false,
-            achievements: testAchievementData, isLoaded: true,
+            achievements: [], isLoaded: false,
+            //achievements: testAchievementData, isLoaded: true,
             error: null,
             preview: null
           };
         }
-        /**
         componentDidMount() {
+          if (this.apiKey == 'UNLOCK_ALL') {
+            const allUnlocked = relevantAchievements.map(x => {
+                return {
+                  bits: [],
+                  current: x.bits.length,
+                  done: true,
+                  id: x.achievementId,
+                  max: x.bits.length
+                }
+              });
+            this.setState({
+              achievements: allUnlocked,
+              isLoaded: true
+            });
+            return;
+          } else if (this.apiKey == 'UNLOCK_NONE') {
+            this.setState({
+              achievements: [],
+              isLoaded: true
+            });
+            return;
+          } else if (this.apiKey == 'UNLOCK_SOME') {
+            this.setState({
+              achievements: testAchievementData,
+              isLoaded: true
+            });
+            return;
+          }
           // TODO wrap this in an API-centric class/module
           var url = "https://api.guildwars2.com/v2/account/achievements?"
             + "ids=" + relevantAchievements.map(x => x["achievementId"]).join(",")
@@ -371,6 +514,7 @@
               }
             )
         }
+        /**
         */
         
         renderPreview() {
@@ -406,16 +550,20 @@
             var books = mapAchievementsToBooks(achievements);
             books.sort((x, y) => x["name"].localeCompare(y["name"]));
             return (
-              <div className="codex">
-                <div>
+              <div className="codex container">
+                <div className="row">
                   <h2>Shelf</h2>
-                  <ul>
+                </div>
+                <div className="row">
+                <div className="col-sm-4">
+                  <div className="list-group mh-100">
                     {books.map(book => (
                       <Book key={book.name} value={book} onClick={() => this.previewBook(book)} />
                     ))}
-                  </ul>
+                  </div>
                 </div>
                 {this.renderPreview()}
+              </div>
               </div>
             );
           }

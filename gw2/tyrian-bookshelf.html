@@ -20,10 +20,14 @@
       div.preview {
         white-space: pre-wrap;
       }
+      #root {
+        height: 100vh;
+        overflow-y: hidden;
+      }
     </style>
   </head>
   <body>
-    <div id="root" class="container"></div>
+    <div id="root" class="container-fluid mh-100"></div>
     <script type="text/babel">
 
     // TODO: metadata on how to unlock the achievements
@@ -242,12 +246,10 @@
         render() {
           const book = this.props.value;
           return (
-            <div className="col-sm-8">
-              <div className="card">
-                <div className="preview card-body">
-                  <h4 className="card-title">{book.name}</h4>
-                  {book.text}
-                </div>
+            <div className="card">
+              <div className="preview card-body">
+                <h4 className="card-title">{book.name}</h4>
+                {book.text}
               </div>
             </div>
           );
@@ -255,7 +257,6 @@
       }
 
       class PagedBookPreview extends React.Component {
-
         render() {
           var book = this.props.book;
           if (!book) {
@@ -263,14 +264,12 @@
           }
 
           return (
-            <div className="col-sm-8">
-              <div className="card">
-                <div className="card-body">
-                  <h4 className="card-title">{book.name}</h4>
-                  {book.text.map(page => (
-                    <Page page={page} key={page.page} />
-                  ))}
-                </div>
+            <div className="card">
+              <div className="card-body">
+                <h4 className="card-title">{book.name}</h4>
+                {book.text.map(page => (
+                  <Page page={page} key={page.page} />
+                ))}
               </div>
             </div>
           );
@@ -282,12 +281,10 @@
         render() {
           var book = this.props.book;
           return (
-            <div className="col-sm-8">
-              <div className="card border-warning">
-                <div className="card-body text-warning">
-                  <h4 className="card-title">{book.name}</h4>
-                  You have yet to acquire this book.
-                </div>
+            <div className="card border-warning">
+              <div className="card-body text-warning">
+                <h4 className="card-title">{book.name}</h4>
+                You have yet to acquire this book.
               </div>
             </div>
           );
@@ -509,19 +506,21 @@
             var books = mapAchievementsToBooks(achievements);
             books.sort((x, y) => x["name"].localeCompare(y["name"]));
             return (
-              <div className="codex container">
+              <div className="codex container-fluid h-100">
                 <div className="row">
                   <h2>Tyrian Bookshelf</h2>
                 </div>
-                <div className="row">
-                <div className="col-sm-4">
-                  <div className="list-group mh-100">
+                <div className="row" style={{height: "90%"}}>
+                <div className="col-sm-4 h-100" style={{overflowY: "auto"}}>
+                  <div className="list-group">
                     {books.map(book => (
                       <Book key={book.name} value={book} onClick={() => this.previewBook(book)} />
                     ))}
                   </div>
                 </div>
-                {this.renderPreview()}
+                <div className="col-sm-8 h-100" style={{overflowY: "auto"}}>
+                  {this.renderPreview()}
+                </div>
               </div>
               </div>
             );

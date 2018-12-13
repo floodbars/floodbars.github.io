@@ -148,37 +148,6 @@
       },
     ];
 
-    const testAchievementData = [
-      {
-        bits: [],
-        current: 3,
-        done: true,
-        id: 1,
-        max: 3
-      },
-      {
-        bits: [1],
-        current: 1,
-        done: false,
-        id: 2,
-        max: 2
-      },
-      {
-        bits: [],
-        current: 2,
-        done: true,
-        id: 3,
-        max: 2
-      },
-      {
-        bits: [2],
-        current: 3,
-        done: false,
-        id: 4,
-        max: 3
-      },
-    ];
-
       function mapAchievementsToBooks(progression) {
         var achievements = {};
         ACHIEVEMENTS.forEach(x => achievements[x.achievementId] = x);
@@ -236,6 +205,39 @@
         return output;
       }
 
+      class Book extends React.Component {
+        constructor(props) {
+          super(props);
+          this.state = props.value;
+          this.onClick = props.onClick;
+        }
+
+        render() {
+          var context = "light";
+          switch (this.state.status) {
+            case "partial":
+              context = "secondary";
+              break;
+            case "complete":
+              context = "primary";
+              break;
+          }
+
+          // TODO set active highlight somehow?
+          return (
+            <a href="#" className={"list-group-item-" + context + " list-group-item d-flex justify-content-between align-items-center"}
+                onClick={this.onClick}>
+              {this.state.name}
+              {(this.state.status == "partial") &&
+                <span className="badge badge-warning badge-pill">
+                  {this.state.text.filter(x => !x.isUnlocked).length}
+                </span>
+              }
+            </a>
+          );
+        }
+      }
+
       class BookPreview extends React.Component {
         render() {
           const book = this.props.value;
@@ -250,24 +252,6 @@
             </div>
           );
         }
-      }
-
-      class LockedBookPreview extends React.Component {
-
-        render() {
-          var book = this.props.book;
-          return (
-            <div className="col-sm-8">
-              <div className="card border-warning">
-                <div className="card-body text-warning">
-                  <h4 className="card-title">{book.name}</h4>
-                  You have yet to acquire this book.
-                </div>
-              </div>
-            </div>
-          );
-        }
-
       }
 
       class PagedBookPreview extends React.Component {
@@ -291,6 +275,24 @@
             </div>
           );
         }
+      }
+
+      class LockedBookPreview extends React.Component {
+
+        render() {
+          var book = this.props.book;
+          return (
+            <div className="col-sm-8">
+              <div className="card border-warning">
+                <div className="card-body text-warning">
+                  <h4 className="card-title">{book.name}</h4>
+                  You have yet to acquire this book.
+                </div>
+              </div>
+            </div>
+          );
+        }
+
       }
 
       class Page extends React.Component {
@@ -367,13 +369,45 @@
         }
       }
 
+      const testAchievementData = [
+          {
+            bits: [],
+            current: 3,
+            done: true,
+            id: 1,
+            max: 3
+          },
+          {
+            bits: [1],
+            current: 1,
+            done: false,
+            id: 2,
+            max: 2
+          },
+          {
+            bits: [],
+            current: 2,
+            done: true,
+            id: 3,
+            max: 2
+          },
+          {
+            bits: [2],
+            current: 3,
+            done: false,
+            id: 4,
+            max: 3
+          },
+        ];
+
       class Shelf extends React.Component {
         constructor(props) {
           super(props);
           this.apiKey = props.apiKey;
 
           this.state = {
-            achievements: [], isLoaded: false,
+            achievements: [],
+            isLoaded: false,
             error: null,
             preview: null
           };
@@ -407,7 +441,7 @@
             });
             return;
           }
-          // TODO move this to a GW2 API class?
+          // TODO wrap this in an API-centric class/module
           var url = "https://api.guildwars2.com/v2/account/achievements?"
             + "ids=" + ACHIEVEMENTS.map(x => x["achievementId"]).join(",")
             + "&access_token=" + this.apiKey;
@@ -472,7 +506,6 @@
           } else if (!isLoaded) {
             return <div>Loading...</div>;
           } else {
-            // TODO map achievement ids to books
             var books = mapAchievementsToBooks(achievements);
             books.sort((x, y) => x["name"].localeCompare(y["name"]));
             return (
@@ -493,39 +526,6 @@
               </div>
             );
           }
-        }
-      }
-
-      class Book extends React.Component {
-        constructor(props) {
-          super(props);
-          this.state = props.value;
-          this.onClick = props.onClick;
-        }
-
-        render() {
-          var context = "light";
-          switch (this.state.status) {
-            case "partial":
-              context = "secondary";
-              break;
-            case "complete":
-              context = "primary";
-              break;
-          }
-
-          // TODO set active highlight somehow?
-          return (
-            <a href="#" className={"list-group-item-" + context + " list-group-item d-flex justify-content-between align-items-center"}
-                onClick={this.onClick}>
-              {this.state.name}
-              {(this.state.status == "partial") &&
-                <span className="badge badge-warning badge-pill">
-                  {this.state.text.filter(x => !x.isUnlocked).length}
-                </span>
-              }
-            </a>
-          );
         }
       }
 

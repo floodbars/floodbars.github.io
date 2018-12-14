@@ -1,0 +1,1349 @@
+[
+  {
+    "achievementId": 4387,
+    "name": "Readathon",
+    "bits": [
+      {
+        "authorComment": "The incomplete book gizmo."
+      },
+      {
+        "id": 88712,
+        "book": "A Brief History of Cantha"
+      },
+      {
+        "id": 88658,
+        "book": "A Choya's Friends"
+      },
+      {
+        "id": 88614,
+        "book": "A Primer, by Archon Iberu"
+      },
+      {
+        "id": 88702,
+        "book": "How to Grow a Choya"
+      },
+      {
+        "id": 88800,
+        "book": "Humans of Elona"
+      },
+      {
+        "id": 88852,
+        "book": "Let's Hug Koss"
+      },
+      {
+        "id": 88484,
+        "book": "Star Chart Basics"
+      },
+      {
+        "id": 88656,
+        "book": "The Grace of Melandru"
+      },
+      {
+        "id": 88961,
+        "book": "The Magic Sand Lion"
+      },
+      {
+        "id": 88695,
+        "book": "The Terrible Choya"
+      },
+      {
+        "id": 88911,
+        "book": "The Very Hungry Dolyak"
+      },
+      {
+        "id": 88753,
+        "book": "You and Your Springer"
+      },
+      {
+        "id": 88939,
+        "book": "Your Awakened Ancestor and You"
+      }
+    ]
+  },
+  {
+    "achievementId": 4027,
+    "name": "Library Detective",
+    "bits": [
+        {
+          "id": 86142,
+          "book": "Koss on Koss (Extended Edition)"
+        },
+        {
+          "id": 86353,
+          "book": "Everyone's a Corsair: A Guidebook"
+        },
+        {
+          "id": 86229,
+          "book": "The Battle of Sorrow's Furnace"
+        },
+        {
+          "id": 85975,
+          "book": "The Great Joko, Hero of Tyria"
+        },
+        {
+          "id": 85648,
+          "book": "Awakening of the Heart"
+        },
+        {
+          "id": 85901,
+          "book": "101 Things the Mordant Crescent Doesn't Want You to Know!"
+        },
+        {
+          "id": 85675,
+          "book": "Mysteries of the Night Sky"
+        }
+    ]
+  },
+  {
+    "achievementId": 3625,
+    "name": "Lost Lore of Crystal Oasis",
+    "bits": [
+      {
+        "id": 83194,
+        "book": "Garden of the Gods",
+        "page": 1
+      },
+      {
+        "id": 84310,
+        "book": "Garden of the Gods",
+        "page": 2
+      },
+      {
+        "id": 83864,
+        "book": "Garden of the Gods",
+        "page": 3
+      },
+      {
+        "id": 84521,
+        "book": "Garden of the Gods",
+        "page": 4
+      },
+      {
+        "id": 83111,
+        "book": "Garden of the Gods",
+        "page": 5
+      },
+      {
+        "id": 84542,
+        "book": "Garden of the Gods",
+        "page": 6
+      },
+      {
+        "id": 82481,
+        "book": "Garden of the Gods",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "achievementId": 3594,
+    "name": "Lost Lore of Desert Highlands",
+    "bits": [
+      {
+        "id": 84318,
+        "book": "Book of Vlast",
+        "page": 1
+      },
+      {
+        "id": 83625,
+        "book": "Book of Vlast",
+        "page": 2
+      },
+      {
+        "id": 82144,
+        "book": "Book of Vlast",
+        "page": 3
+      },
+      {
+        "id": 82908,
+        "book": "Book of Vlast",
+        "page": 4
+      },
+      {
+        "id": 83568,
+        "book": "Book of Vlast",
+        "page": 5
+      },
+      {
+        "id": 84126,
+        "book": "Book of Vlast",
+        "page": 6
+      },
+      {
+        "id": 83694,
+        "book": "Book of Vlast",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "achievementId": 3632,
+    "name": "Lost Lore of Elon Riverlands",
+    "bits": [
+      {
+        "id": 83651,
+        "book": "The Legacy",
+        "page": 1
+      },
+      {
+        "id": 82623,
+        "book": "The Legacy",
+        "page": 2
+      },
+      {
+        "id": 82741,
+        "book": "The Legacy",
+        "page": 3
+      },
+      {
+        "id": 84256,
+        "book": "The Legacy",
+        "page": 4
+      },
+      {
+        "id": 82328,
+        "book": "The Legacy",
+        "page": 5
+      },
+      {
+        "id": 84038,
+        "book": "The Legacy",
+        "page": 6
+      },
+      {
+        "id": 83645,
+        "book": "The Legacy",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "achievementId": 3633,
+    "name": "Lost Lore of the Desolation",
+    "bits": [
+      {
+        "id": 83033,
+        "book": "Order of Whispers Mission Dispatches",
+        "page": 1
+      },
+      {
+        "id": 82369,
+        "book": "Order of Whispers Mission Dispatches",
+        "page": 2
+      },
+      {
+        "id": 82213,
+        "book": "Order of Whispers Mission Dispatches",
+        "page": 3
+      },
+      {
+        "id": 83606,
+        "book": "Order of Whispers Mission Dispatches",
+        "page": 4
+      },
+      {
+        "id": 84213,
+        "book": "Order of Whispers Mission Dispatches",
+        "page": 5
+      },
+      {
+        "id": 83054,
+        "book": "Order of Whispers Mission Dispatches",
+        "page": 6
+      },
+      {
+        "id": 82826,
+        "book": "Order of Whispers Mission Dispatches",
+        "page": 7
+      }
+    ],
+    "unlockOnCompletion": [
+      {
+        "book": "Order of Whispers Mission Dispatches",
+        "page": 8
+      },
+      {
+        "book": "Order of Whispers Mission Dispatches",
+        "page": 9
+      },
+      {
+        "book": "Order of Whispers Mission Dispatches",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "achievementId": 3555,
+    "name": "Lost Lore of the Domain of Vabbi",
+    "bits": [
+      {
+        "id": 84242,
+        "book": "Intelligence Report: Palawa Joko I",
+        "page": 1
+      },
+      {
+        "id": 82575,
+        "book": "Intelligence Report: Palawa Joko I",
+        "page": 2
+      },
+      {
+        "id": 82140,
+        "book": "Intelligence Report: Palawa Joko I",
+        "page": 3
+      },
+      {
+        "id": 83692,
+        "book": "Intelligence Report: Palawa Joko I",
+        "page": 4
+      },
+      {
+        "id": 83959,
+        "book": "Intelligence Report: Palawa Joko I",
+        "page": 5
+      },
+      {
+        "id": 84697,
+        "book": "Intelligence Report: Palawa Joko I",
+        "page": 6
+      },
+      {
+        "id": 84354,
+        "book": "Intelligence Report: Palawa Joko I",
+        "page": 7
+      }
+    ],
+    "unlockOnCompletion": [
+      {
+        "book": "Intelligence Report: Palawa Joko I",
+        "page": 8
+      },
+      {
+        "book": "Intelligence Report: Palawa Joko I",
+        "page": 9
+      },
+      {
+        "book": "Intelligence Report: Palawa Joko I",
+        "page": 10
+      },
+      {
+        "book": "Intelligence Report: Palawa Joko I",
+        "page": 11
+      }
+    ]
+  },
+  {
+    "achievementId": 3548,
+    "name": "Collapse of the White Mantle",
+    "bits": [
+      {
+        "id": 81813,
+        "book": "Collapse of the White Mantle",
+        "page": 1
+      },
+      {
+        "id": 81829,
+        "book": "Collapse of the White Mantle",
+        "page": 2
+      },
+      {
+        "id": 82009,
+        "book": "Collapse of the White Mantle",
+        "page": 3
+      },
+      {
+        "id": 81630,
+        "book": "Collapse of the White Mantle",
+        "page": 4
+      },
+      {
+        "id": 82032,
+        "book": "Collapse of the White Mantle",
+        "page": 5
+      },
+      {
+        "id": 81822,
+        "book": "Collapse of the White Mantle",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "achievementId": 3520,
+    "name": "Storyteller: Abaddon",
+    "bits": [
+      {
+        "id": 81800,
+        "book": "Parable of Abaddon",
+        "page": 1
+      },
+      {
+        "id": 81828,
+        "book": "Parable of Abaddon",
+        "page": 2
+      },
+      {
+        "id": 82048,
+        "book": "Parable of Abaddon",
+        "page": 3
+      },
+      {
+        "id": 81970,
+        "book": "Parable of Abaddon",
+        "page": 4
+      },
+      {
+        "id": 81999,
+        "book": "Parable of Abaddon",
+        "page": 5
+      },
+      {
+        "id": 81680,
+        "book": "Parable of Abaddon",
+        "page": 6
+      },
+      {
+        "id": 81846,
+        "book": "Parable of Abaddon",
+        "page": 7
+      },
+      {
+        "id": 81665,
+        "book": "Parable of Abaddon",
+        "page": 8
+      },
+      {
+        "id": 81625,
+        "book": "Parable of Abaddon",
+        "page": 9
+      },
+      {
+        "id": 81913,
+        "book": "Parable of Abaddon",
+        "page": 10
+      },
+      {
+        "id": 81629,
+        "book": "Parable of Abaddon",
+        "page": 11
+      },
+      {
+        "id": 81622,
+        "name": "Cipher of Abaddon",
+        "notes": "Theoretically, without this item, the other pages say \"The writing on this tablet is indecipherable. It seems to move and twist, making it impossible to read.\""
+      }
+    ]
+  },
+  {
+    "achievementId": 3518,
+    "name": "Storyteller: Balthazar",
+    "bits": [
+      {
+        "id": 82068,
+        "book": "Parable of Balthazar",
+        "page": 1
+      },
+      {
+        "id": 81885,
+        "book": "Parable of Balthazar",
+        "page": 2
+      },
+      {
+        "id": 81685,
+        "book": "Parable of Balthazar",
+        "page": 3
+      },
+      {
+        "id": 81805,
+        "book": "Parable of Balthazar",
+        "page": 4
+      },
+      {
+        "id": 81969,
+        "book": "Parable of Balthazar",
+        "page": 5
+      },
+      {
+        "id": 82038,
+        "book": "Parable of Balthazar",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "achievementId": 3542,
+    "name": "Storyteller: Dwayna",
+    "bits": [
+      {
+        "id": 81748,
+        "book": "Parable of Dwayna",
+        "page": 1
+      },
+      {
+        "id": 81765,
+        "book": "Parable of Dwayna",
+        "page": 2
+      },
+      {
+        "id": 82043,
+        "book": "Parable of Dwayna",
+        "page": 3
+      },
+      {
+        "id": 82063,
+        "book": "Parable of Dwayna",
+        "page": 4
+      },
+      {
+        "id": 81848,
+        "book": "Parable of Dwayna",
+        "page": 5
+      },
+      {
+        "id": 81833,
+        "book": "Parable of Dwayna",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "achievementId": 3527,
+    "name": "Storyteller: Grenth",
+    "bits": [
+      {
+        "id": 81873,
+        "book": "Parable of Grenth",
+        "page": 1
+      },
+      {
+        "id": 81647,
+        "book": "Parable of Grenth",
+        "page": 2
+      },
+      {
+        "id": 81692,
+        "book": "Parable of Grenth",
+        "page": 3
+      },
+      {
+        "id": 81909,
+        "book": "Parable of Grenth",
+        "page": 4
+      },
+      {
+        "id": 81675,
+        "book": "Parable of Grenth",
+        "page": 5
+      },
+      {
+        "id": 81745,
+        "book": "Parable of Grenth",
+        "page": 6
+      },
+      {
+        "id": 81736,
+        "book": "Parable of Grenth",
+        "page": 7
+      },
+      {
+        "id": 81639,
+        "book": "Parable of Grenth",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "achievementId": 3536,
+    "name": "Storyteller: Lyssa",
+    "bits": [
+      {
+        "id": 81764,
+        "book": "Parable of Lyssa",
+        "page": 1
+      },
+      {
+        "id": 82018,
+        "book": "Parable of Lyssa",
+        "page": 2
+      },
+      {
+        "id": 81898,
+        "book": "Parable of Lyssa",
+        "page": 3
+      },
+      {
+        "id": 82016,
+        "book": "Parable of Lyssa",
+        "page": 4
+      },
+      {
+        "id": 81693,
+        "book": "Parable of Lyssa",
+        "page": 5
+      },
+      {
+        "id": 81742,
+        "book": "Parable of Lyssa",
+        "page": 6
+      },
+      {
+        "id": 81923,
+        "book": "Parable of Lyssa",
+        "page": 7
+      },
+      {
+        "id": 81824,
+        "book": "Parable of Lyssa",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "achievementId": 3481,
+    "name": "Storyteller: Melandru",
+    "bits": [
+      {
+        "id": 81951,
+        "book": "Parable of Melandru",
+        "page": 1
+      },
+      {
+        "id": 81845,
+        "book": "Parable of Melandru",
+        "page": 2
+      },
+      {
+        "id": 82035,
+        "book": "Parable of Melandru",
+        "page": 3
+      },
+      {
+        "id": 81883,
+        "book": "Parable of Melandru",
+        "page": 4
+      },
+      {
+        "id": 82041,
+        "book": "Parable of Melandru",
+        "page": 5
+      },
+      {
+        "id": 81808,
+        "book": "Parable of Melandru",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "achievementId": 3315,
+    "name": "Well Fare",
+    "bits": [],
+    "unlockOnCompletion": [
+      {
+        "book": "Letters from Blaine Winslow",
+        "page": 1
+      },
+      {
+        "book": "Letters from Blaine Winslow",
+        "page": 2
+      },
+      {
+        "book": "Letters from Blaine Winslow",
+        "page": 3
+      },
+      {
+        "book": "Letters from Blaine Winslow",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "achievementId": 3546,
+    "name": "The Withered Rose",
+    "bits": [],
+    "unlockOnCompletion": [
+      {
+        "book": "Rose's Journal",
+        "page": 1
+      },
+      {
+        "book": "Rose's Journal",
+        "page": 2
+      },
+      {
+        "book": "Rose's Journal",
+        "page": 3
+      },
+      {
+        "book": "Rose's Journal",
+        "page": 4
+      },
+      {
+        "book": "Rose's Journal",
+        "page": 5
+      },
+      {
+        "book": "Rose's Journal",
+        "page": 6
+      },
+      {
+        "book": "Rose's Journal",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "achievementId": 3519,
+    "name": "Student of Bartholos",
+    "bits": [
+      {
+        "id": 81947,
+        "book": "The Shining Blade Manual",
+        "page": 1
+      },
+      {
+        "id": 81915,
+        "book": "The Shining Blade Manual",
+        "page": 2
+      },
+      {
+        "id": 81741,
+        "book": "The Shining Blade Manual",
+        "page": 3
+      },
+      {
+        "id": 81977,
+        "book": "The Shining Blade Manual",
+        "page": 4
+      },
+      {
+        "id": 81953,
+        "book": "The Shining Blade Manual",
+        "page": 5
+      },
+      {
+        "id": 81788,
+        "book": "The Shining Blade Manual",
+        "page": 6
+      },
+      {
+        "id": 81834,
+        "book": "The Shining Blade Manual",
+        "page": 7
+      },
+      {
+        "id": 81994,
+        "book": "The Shining Blade Manual",
+        "page": 8
+      },
+      {
+        "id": 81687,
+        "book": "The Shining Blade Manual",
+        "page": 9
+      },
+      {
+        "id": 81714,
+        "book": "The Shining Blade Manual",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "achievementId": 3300,
+    "name": "Letters from E",
+    "bits": [
+      {
+        "id": 80292,
+        "book": "E's Correspondence",
+        "page": 1
+      },
+      {
+        "id": 80396,
+        "book": "E's Correspondence",
+        "page": 2
+      },
+      {
+        "id": 80175,
+        "book": "E's Correspondence",
+        "page": 3
+      },
+      {
+        "id": 80210,
+        "book": "E's Correspondence",
+        "page": 4
+      },
+      {
+        "id": 80457,
+        "book": "E's Correspondence",
+        "page": 5
+      },
+      {
+        "id": 80529,
+        "book": "E's Correspondence",
+        "page": 6
+      },
+      {
+        "id": 80570,
+        "book": "E's Correspondence",
+        "page": 7
+      },
+      {
+        "type": "Achievement",
+        "id": 80480
+      }
+    ]
+  },
+  {
+    "achievementId": 3309,
+    "name": "Caudecus's Correspondence",
+    "bits": [
+      {
+        "id": 80279,
+        "book": "Caudecus's Correspondence",
+        "page": 1
+      },
+      {
+        "id": 80449,
+        "book": "Caudecus's Correspondence",
+        "page": 2
+      },
+      {
+        "id": 80266,
+        "book": "Caudecus's Correspondence",
+        "page": 3
+      },
+      {
+        "id": 80599,
+        "book": "Caudecus's Correspondence",
+        "page": 4
+      },
+      {
+        "id": 80125,
+        "book": "Caudecus's Correspondence",
+        "page": 5
+      },
+      {
+        "id": 80390,
+        "book": "Caudecus's Correspondence",
+        "page": 6
+      },
+      {
+        "id": 80494,
+        "book": "Caudecus's Correspondence",
+        "page": 7
+      },
+      {
+        "id": 80604,
+        "book": "Caudecus's Correspondence",
+        "page": 8
+      },
+      {
+        "id": 80303,
+        "book": "Caudecus's Correspondence",
+        "page": 9
+      },
+      {
+        "id": 80638,
+        "book": "Caudecus's Correspondence",
+        "page": 10
+      },
+      {
+        "id": 80329,
+        "book": "Caudecus's Correspondence",
+        "page": 11
+      },
+      {
+        "id": 80680,
+        "book": "Caudecus's Correspondence",
+        "page": 12
+      },
+      {
+        "id": 80609,
+        "book": "Caudecus's Correspondence",
+        "page": 13
+      },
+      {
+        "id": 80115,
+        "book": "Caudecus's Correspondence",
+        "page": 14
+      },
+      {
+        "id": 80591,
+        "book": "Caudecus's Correspondence",
+        "page": 15
+      },
+      {
+        "id": 80253,
+        "book": "Caudecus's Correspondence",
+        "page": 16
+      },
+      {
+        "id": 80228,
+        "book": "Caudecus's Correspondence",
+        "page": 17
+      },
+      {
+        "id": 80455,
+        "book": "Caudecus's Correspondence",
+        "page": 18
+      },
+      {
+        "id": 80501,
+        "book": "Caudecus's Correspondence",
+        "page": 19
+      },
+      {
+        "id": 80284,
+        "book": "Caudecus's Correspondence",
+        "page": 20
+      },
+      {
+        "type": "Achievement",
+        "id": 80085
+      }
+    ]
+  },
+  {
+    "achievementId": 2234,
+    "name": "Zinn's Prize Student",
+    "bits": [
+      {
+        "id": 74813,
+        "book": "Zinn's Study Guide",
+        "page": 1
+      },
+      {
+        "id": 77033,
+        "book": "Zinn's Study Guide",
+        "page": 2
+      },
+      {
+        "id": 76413,
+        "book": "Zinn's Study Guide",
+        "page": 3
+      },
+      {
+        "id": 76540,
+        "book": "Zinn's Study Guide",
+        "page": 4
+      },
+      {
+        "id": 74011,
+        "book": "Zinn's Study Guide",
+        "page": 5
+      },
+      {
+        "id": 76637,
+        "book": "Zinn's Study Guide",
+        "page": 6
+      },
+      {
+        "id": 75806,
+        "book": "Zinn's Study Guide",
+        "page": 7
+      },
+      {
+        "id": 73300,
+        "book": "Zinn's Study Guide",
+        "page": 8
+      },
+      {
+        "id": 72218,
+        "book": "Zinn's Study Guide",
+        "page": 9
+      },
+      {
+        "id": 75834,
+        "book": "Zinn's Study Guide",
+        "page": 10
+      },
+      {
+        "id": 75788,
+        "book": "Zinn's Study Guide",
+        "page": 11
+      },
+      {
+        "id": 70559,
+        "book": "Zinn's Study Guide",
+        "page": 12
+      },
+      {
+        "type": "Achievement",
+        "id": 76868
+      }
+    ]
+  },
+  {
+    "achievementId": 3071,
+    "name": "The Memoirs of Justiciar Bauer",
+    "bits": [
+      {
+        "id": 79299,
+        "authorComment": "The incomplete book gizmo."
+      },
+      {
+        "id": 79057,
+        "book": "Justiciar Bauer's Memoirs",
+        "page": 1
+      },
+      {
+        "id": 79081,
+        "book": "Justiciar Bauer's Memoirs",
+        "page": 2
+      },
+      {
+        "id": 79127,
+        "book": "Justiciar Bauer's Memoirs",
+        "page": 3
+      },
+      {
+        "id": 79126,
+        "book": "Justiciar Bauer's Memoirs",
+        "page": 4
+      },
+      {
+        "id": 79244,
+        "book": "Justiciar Bauer's Memoirs",
+        "page": 5
+      },
+      {
+        "id": 79170,
+        "book": "Justiciar Bauer's Memoirs",
+        "page": 6
+      },
+      {
+        "id": 79223,
+        "book": "Justiciar Bauer's Memoirs",
+        "page": 7
+      },
+      {
+        "id": 79202,
+        "book": "Justiciar Bauer's Memoirs",
+        "page": 8
+      },
+      {
+        "id": 79228,
+        "book": "Justiciar Bauer's Memoirs",
+        "page": 9
+      },
+      {
+        "id": 79256,
+        "book": "Justiciar Bauer's Memoirs",
+        "page": 10
+      },
+      {
+        "id": 79147,
+        "book": "Justiciar Bauer's Memoirs",
+        "page": 11
+      },
+      {
+        "id": 79267,
+        "book": "Justiciar Bauer's Memoirs",
+        "page": 12
+      },
+      {
+        "id": 79226,
+        "book": "Justiciar Bauer's Memoirs",
+        "page": 13
+      },
+      {
+        "id": 79198,
+        "book": "Justiciar Bauer's Memoirs",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "achievementId": 3060,
+    "name": "Grand Savant Valis the Learned's Research Journal",
+    "bits": [
+      {
+        "id": 79206,
+        "authorComment": "The incomplete book gizmo."
+      },
+      {
+        "id": 79146,
+        "book": "Grand Savant Valis the Learned's Research Journal",
+        "page": 1
+      },
+      {
+        "id": 79243,
+        "book": "Grand Savant Valis the Learned's Research Journal",
+        "page": 2
+      },
+      {
+        "id": 79117,
+        "book": "Grand Savant Valis the Learned's Research Journal",
+        "page": 3
+      },
+      {
+        "id": 79083,
+        "book": "Grand Savant Valis the Learned's Research Journal",
+        "page": 4
+      },
+      {
+        "id": 79051,
+        "book": "Grand Savant Valis the Learned's Research Journal",
+        "page": 5
+      },
+      {
+        "id": 79241,
+        "book": "Grand Savant Valis the Learned's Research Journal",
+        "page": 6
+      },
+      {
+        "id": 79183,
+        "book": "Grand Savant Valis the Learned's Research Journal",
+        "page": 7
+      },
+      {
+        "id": 79250,
+        "book": "Grand Savant Valis the Learned's Research Journal",
+        "page": 8
+      },
+      {
+        "id": 79211,
+        "book": "Grand Savant Valis the Learned's Research Journal",
+        "page": 9
+      },
+      {
+        "id": 79185,
+        "book": "Grand Savant Valis the Learned's Research Journal",
+        "page": 10
+      },
+      {
+        "id": 79102,
+        "book": "Grand Savant Valis the Learned's Research Journal",
+        "page": 11
+      },
+      {
+        "id": 79075,
+        "book": "Grand Savant Valis the Learned's Research Journal",
+        "page": 12
+      },
+      {
+        "id": 79232,
+        "book": "Grand Savant Valis the Learned's Research Journal",
+        "page": 13
+      },
+      {
+        "id": 79128,
+        "book": "Grand Savant Valis the Learned's Research Journal",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "achievementId": 3075,
+    "name": "Apprentice Kasandra's Notebook",
+    "bits": [
+      {
+        "id": 79166,
+        "authorComment": "The incomplete book gizmo."
+      },
+      {
+        "id": 79205,
+        "book": "Apprentice Kasandra's Diary",
+        "page": 1
+      },
+      {
+        "id": 79176,
+        "book": "Apprentice Kasandra's Diary",
+        "page": 2
+      },
+      {
+        "id": 79178,
+        "book": "Apprentice Kasandra's Diary",
+        "page": 3
+      },
+      {
+        "id": 79303,
+        "book": "Apprentice Kasandra's Diary",
+        "page": 4
+      },
+      {
+        "id": 79268,
+        "book": "Apprentice Kasandra's Diary",
+        "page": 5
+      },
+      {
+        "id": 79200,
+        "book": "Apprentice Kasandra's Diary",
+        "page": 6
+      },
+      {
+        "id": 79070,
+        "book": "Apprentice Kasandra's Diary",
+        "page": 7
+      },
+      {
+        "id": 79165,
+        "book": "Apprentice Kasandra's Diary",
+        "page": 8
+      },
+      {
+        "id": 79148,
+        "book": "Apprentice Kasandra's Diary",
+        "page": 9
+      },
+      {
+        "id": 79262,
+        "book": "Apprentice Kasandra's Diary",
+        "page": 10
+      },
+      {
+        "id": 79191,
+        "book": "Apprentice Kasandra's Diary",
+        "page": 11
+      },
+      {
+        "id": 79273,
+        "book": "Apprentice Kasandra's Diary",
+        "page": 12
+      },
+      {
+        "id": 79064,
+        "book": "Apprentice Kasandra's Diary",
+        "page": 13
+      },
+      {
+        "id": 79093,
+        "book": "Apprentice Kasandra's Diary",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "achievementId": 2920,
+    "name": "Chuka and Champawat I: Hunter's Journal",
+    "bits": [
+      {
+        "id": 78152,
+        "authorComment": "The incomplete book gizmo."
+      },
+      {
+        "id": 78399,
+        "book": "Hunter's Journal",
+        "page": 1
+      },
+      {
+        "id": 78349,
+        "book": "Hunter's Journal",
+        "page": 2
+      },
+      {
+        "id": 78560,
+        "book": "Hunter's Journal",
+        "page": 3
+      },
+      {
+        "id": 78478,
+        "book": "Hunter's Journal",
+        "page": 4
+      },
+      {
+        "id": 78285,
+        "book": "Hunter's Journal",
+        "page": 5
+      },
+      {
+        "id": 78147,
+        "book": "Hunter's Journal",
+        "page": 6
+      },
+      {
+        "id": 78500,
+        "book": "Hunter's Journal",
+        "page": 7
+      },
+      {
+        "id": 78430,
+        "book": "Hunter's Journal",
+        "page": 8
+      },
+      {
+        "id": 78640,
+        "book": "Hunter's Journal",
+        "page": 9
+      },
+      {
+        "id": 78469,
+        "book": "Hunter's Journal",
+        "page": 10
+      },
+      {
+        "id": 78628,
+        "book": "Hunter's Journal",
+        "page": 11
+      },
+      {
+        "id": 78444,
+        "book": "Hunter's Journal",
+        "page": 12
+      },
+      {
+        "id": 78381,
+        "book": "Hunter's Journal",
+        "page": 13
+      },
+      {
+        "id": 78671,
+        "book": "Hunter's Journal",
+        "page": 14
+      },
+      {
+        "id": 78175,
+        "book": "Hunter's Journal",
+        "page": 15
+      },
+      {
+        "id": 78291,
+        "book": "Hunter's Journal",
+        "page": 16
+      },
+      {
+        "id": 78274,
+        "book": "Hunter's Journal",
+        "page": 17
+      },
+      {
+        "id": 78141,
+        "book": "Hunter's Journal",
+        "page": 18
+      },
+      {
+        "id": 78426,
+        "book": "Hunter's Journal",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "achievementId": 2990,
+    "name": "Chuka and Champawat I: The Hunt",
+    "bits": [
+      {
+        "id": 78310
+      },
+      {
+        "id": 78464,
+        "book": "Hunter's Journal",
+        "page": 20
+      },
+      {
+        "id": 78518
+      },
+      {
+        "id": 78593
+      },
+      {
+        "id": 78149
+      },
+      {
+        "id": 23916
+      },
+      {
+        "id": 78404
+      }
+    ]
+  }
+]

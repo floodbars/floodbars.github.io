@@ -1,0 +1,1232 @@
+[
+  {
+    "name": "A Brief History of Cantha",
+    "type": "book",
+    "text": "(This text is not a work of fiction but is based on historical fact as interpreted by the author. Historical facts have been revised based upon new information acquired by the author since the original printing in 1022 AE.)\nIn this updated 50th Anniversary Edition, the estimable Loremaster Ermenred provides readers a unique look at the Canthan Empire's intricate and storied history.\nFrom its comprehensive timeline reaching back to the Age of the Marmoset, to its exhaustive examination of Assassins and Ritualists (two of Cantha's oldest and most unique professions), this work is the perfect primer for scholars both young and old."
+  },
+  {
+    "name": "A Choya's Friends",
+    "type": "book",
+    "text": "Choya don't have many friends.\nThe fun stops where the needle ends."
+  },
+  {
+    "name": "A Primer, by Archon Iberu",
+    "type": "book",
+    "text": "P is for Praise. Do that every day.\nR is for Raze, if parents disobey.\nA is for Army. Joko has a few.\nI is for Iberu, Joko's number two.\nS is for Sunspear. Turn them all in!\nE is for Eternal Monarch, who always will win."
+  },
+  {
+    "name": "How to Grow a Choya",
+    "type": "book",
+    "text": "Don't.\nBut if you absolutely must (for example, if Irio said you couldn't and laughed at you), a deep clay pot as long as your arm is recommended. Turn to page 6 for potting instructions."
+  },
+  {
+    "name": "Humans of Elona",
+    "type": "book",
+    "text": "One cannot speak of Elona's rich and splendorous history without first speaking of the people that made it so. These civilizations, reaching back over a thousand years to the founding of the Land of the Golden Sun, laid the bedrock of our great nation and guaranteed countless millennia of prosperity.\nExplore the fascinating history of Elonian culture in our comprehensive guide, reaching across scorching sands and extravagant cities, soaring mountaintops and desolate wastelands.\nWe'll examine the traditional dances of the Vabbian Garden of Seborhin, bear witness to the storied healing arts of the Temple of Kormir, and spend a week in the desert with the Malaki people learning the same techniques they use to survive in the harsh Elonian sun."
+  },
+  {
+    "name": "Let's Hug Koss",
+    "type": "book",
+    "text": "Look, it's Koss!\nKoss is Boss.\nLet's hug Koss.\nNow Koss is cross."
+  },
+  {
+    "name": "Star Chart Basics",
+    "type": "book",
+    "text": "Looking to go from apprentice to master in the art of observing, charting and interpreting the stars? Then break out your telescope and switch up your sleep schedule, because this comprehensive guide from Scholar Fatima (author of \"Star Charts,\" \"Advanced Star Charts,\" and the best-selling \"A Fool's Guide to Star Charts\") is the first and last resource you'll ever need!\nLearn the basics of ascension and declination notation, the most ideal times of the lunar cycle to make observations, proper drawing techniques, and even weather-prediction tips to ensure you always have the best possible start-carting conditions."
+  },
+  {
+    "name": "The Grace of Melandru",
+    "type": "book",
+    "text": "The next time you step outside, be sure to take a moment to listen. Do you hear that?\nThat is the sound of Melandru, speaking to you through the wind, the leaves, and the grass. Pay careful attention, and you may be able to understand her words of wisdom.\nExperience the full measure of Melandru's grace in this meditative exercise book, co-authored by twelve of her priests and priestesses throughout Tyria. Explore the value of nature walks, capture the beauty of her bounty with step-by-step leaf drawing exercises, and stop to smell the roses as you venture outside the comforts of your home and step into Melandru's own.\nWhen you can see, feel, and hear her beauty all around you, perhaps you'll also come to appreciate the beauty within yourself."
+  },
+  {
+    "name": "The Magic Sand Lion",
+    "type": "book",
+    "text": "\"This way!\" he said, as the followed the tracks across the Kournan dunes.\n\"Look at the size of those paw prints!\" she said.\n\"Wait, what'll we do when we catch it?\" he asked.\n\"Ride it!\" she said. \"But you first. In case it's hungry.\""
+  },
+  {
+    "name": "The Terrible Choya",
+    "type": "book",
+    "text": "Gallumph, gallumph! the choya ran\nWith terrible scowl and hate in its eyes\nUntil a brave girl took up knife and pan\nAnd made a whole bowlful of Choya Surprise"
+  },
+  {
+    "name": "The Very Hungry Dolyak",
+    "type": "book",
+    "text": "It ate, and ate, and ate, and ate\nAnd gained a heap of dolyak weight.\nDolyaks are tender when round and fat.\nEvery Elonian hyena agrees with that.\nWhen the caravan was ready to go\nThe very full dolyak went much too slow."
+  },
+  {
+    "name": "You and Your Springer",
+    "type": "book",
+    "text": "Straight from the windswept canyons of Highjump Ranch comes the last guidebook you'll ever need on springer care! After years of working alongside Stablemaster Unja and her expertly trained family of ranch hands, we've compiled the ultimate list of dos and don'ts for the responsible springer owner.\nWhether you're looking to construct the ideal living environment, grow the right crossbreed of carrot, or learn just how high your springer can safely jump without injury, this guide will offer all the answers and then some!\nA portion of all profits from this book goes to support Highjump Ranch and its efforts to find homes for springers all throughout the Crystal Desert."
+  },
+  {
+    "name": "Your Awakened Ancestor and You",
+    "type": "book",
+    "text": "Be kind. Say, \"Great-Great-Great-Grandfather, it's good to see you.\" Don't say, \"Your flesh is starting to smell.\"\nRemind them of your name. Their memories aren't what they used to be!\nAsk what they like. Fishing? Flowers? Don't ask what they did while serving Joko."
+  },
+  {
+    "name": "Koss on Koss (Extended Edition)",
+    "type": "book-paged",
+    "authorComment": "This was paged manually for readability",
+    "text": [
+      {
+        "description": "Author's Note",
+        "page": 1,
+        "text": "While my publisher insists that there is no need for a continued chronicling of my deeds, I feel a duty to my readers to persist. While \"Koss on Koss\" remains a definitive examination of my past, this extended edition shall be rendered as an examination of the present."
+      },
+      {
+        "page": 2,
+        "text": "Season of Scion"
+      },
+      {
+        "description": "185th day, 1093 AE",
+        "page": 3,
+        "text": "Curse the day we released that walking corpse! Joko's forces continue to harass patrols along the outskirts of Vabbi. The Sunspears are meant to send reinforcements to help secure the border, but we are so few we can only spare a handful. It's going to take a long while before we rebuild our numbers after the Battle of Gandara."
+      },
+      {
+        "description": "220th day, 1093 AE",
+        "page": 4,
+        "text": "Melonni continues to hassle me. Says I've brawled enough, that it's time I left the fighting to the next generation of recruits. Honestly, if even one of them could beat me in single combat, I might consider hanging up my sword. This far, none have impressed. Tomorrow, I set out for the border with the Desolation.\nJoko's rise is as much my fault as anyone's, so I intent to make myself part of the solution. Beside, it's not as if any of these new recruits are qualified to hold an undead king at bay."
+      },
+      {
+        "page": 5,
+        "text": "Season of Colossus"
+      },
+      {
+        "description": "271st day, 1093 AE",
+        "page": 6,
+        "text": "Nightmares, five nights in a row. I see the estate ablaze, and can hear screaming. I fear these are meant to be my children, though it's been so long since I've heard their voices that I simply cannot tell. But there is another voice I hear: his. Laughter.\nThe Sunspears refuse to heed my continued warnings about Joko, much to my growing frustration. The lich has a centuries-old history of being a thorn in Elona's side, so I don't know why the Order believes Joko will be content to remain in the Desolation. He is planning something, and I fear my dreams are but a hint of things to come."
+      },
+      {
+        "description": "301st day, 1093 AE",
+        "page": 7,
+        "text": "Those foolish princes in Vabbi continue to sit on their backsides while their citizens are continually abducted by Joko's forces! And while the royalty of Vabbi wring their hands, the Sunspears are proving no better. They sit on the border, more than ready to teach that festering pile of bones a thing or two, but they refuse to act!\nThe nightmares persist and become clearer each night. I see now that this is not a threat, but a warning. Perhaps it is Kormir sending me a message?\nI sent word to Melonni to take our children somewhere safe."
+      },
+      {
+        "description": "325th day, 1093 AE",
+        "page": 8,
+        "text": "Enough is enough.\nIt is clear to any with half a brain that Joko is kidnapping these civilians to grow his army. One need only look at the numbers of the missing to conclude the lich is preparing for an invasion.\nLonai and I have gotten a few volunteers together, and we make for the Bone Palace at dawn. I don't know how you assassinate an undead king, but I figure if I hit him hard enough, I might be able to bust a few of those bones that hold his ugly face together.\nNot that I am at all questioning my skills, but should I not return and someone finds this, please send my love to my wife and children."
+      }
+    ]
+  },
+  {
+    "name": "Everyone's a Corsair: A Guidebook",
+    "type": "book",
+    "text": "The sea beckons to us all, yet only handful of enterprising privateers have managed to turn it into a successful career. What separated these seafaring scalawags from an everyday landlubber like you?\nWith this book in your hands? NOTHING!\nEven if you can't tie a knot to save your life, even if you think \"port\" is just a fancy wine, and even if the mere thought of standing on a boat makes you queasy, this step-by-step guide will give you the tools to transform yourself into a hardened corsair.\nLearn the following vital skills to grow your sea legs:\nThe basics of swordplay, complete with gorgeously rendered illustrations.\nSurviving on a desert island in the event of marooning.\nThree valuable tricks to identifying suspect grog.\nHow to spot mutinous crew members.\nAnd much, much more!"
+  },
+  {
+    "name": "The Battle of Sorrow's Furnace",
+    "type": "book",
+    "text": "For generations, the dredge were a race enslaved, driven to serve the tyrannical Stone Summit in their never-ending lust for wealth and power. While many across Tyria desired to see these poor souls freed from their burden, none had the courage to act. Until now.\nFollow our beloved and revered savior, Palawa Joko, as he continues his grand work throughout this broken world, bringing order from turmoil and freedom to those oppressed!\nRead in awe as he singlehandedly battles the mechanical monstrosity known as the Iron Forgeman, humiliating the cowardly Stone Summit once and for all.\nWill Joko succeed? Could the great and eternal Palawa Joko fail? To write as such would be blasphemy, but one can never know the truth without reading this fascinating tale!"
+  },
+  {
+    "name": "The Great Joko, Hero of Tyria",
+    "type": "book",
+    "text": "Ascalon is a scorched wasteland.\nOrr decays at the bottom of the sea.\nKryta suffers under the yoke of fanatical murderers.\nTyria needs a hero, but who could think to rise above such chaos? Who wields the power to overcome such incredible odds? A hero once spoken of in the storied Flameseeker Prophecies was destined to purge this cancerous growth. What was that hero's name?\nPalawa Joko.\nJoin our wise and illustrious leader as he single-handedly drives back the savage charr horde, marches across the Shiverpeaks without a single break in his stride, and saves all of Tyria from generations of traitors and false heroes!"
+  },
+  {
+    "name": "Awakening of the Heart",
+    "type": "book",
+    "text": "She was an elite soldier in the Mordant Crescent, brought back from the dead to serve the great Palawa Joko, but the only thing that was Awakened in her was her heart.\nHe was a simple mummy, adorned in rotting bandages that held him together, but in truth, he was coming to pieces inside.\nTogether, they found a relationship that defied death itself, and began an adventure that would shake the foundations of the Bone Palace itself as they sought to answer a simple question: Can love endure after a heart stops beating?"
+  },
+  {
+    "name": "101 Things the Mordant Crescent Doesn't Want You to Know!",
+    "type": "book",
+    "text": "Did you know Desolation Fever could be cured with naught but specially prepared sentient root? Are you aware that you can comfortably sustain a family of five with a simple combination of common household products? Of course not, because Joko doesn't WANT you to know!\nIn this book, I'll share with you 101 things that Palawa Joko and his corrupt Mordant Crescent would prefer remain secret. These simple ingredients for greater health, wealth, and success were formerly restricted to the royalty of Vabbi, but now they can be yours! We stand by our products and guarantee* your complete satisfaction!\n* Guarantee not valid for residents of Vabbi, Kourna, Istan, or other outlying areas of Elona. Neither the author of this book, nor its publisher, are responsible for any imprisonment and/or executions that result from possession of this book, nor can they be held liable for any deaths or injury that result from the recipes therein."
+  },
+  {
+    "name": "Mysteries of the Night Sky",
+    "type": "book",
+    "text": "For generations, Istan has drawn stargazers from all corners of the world to marvel at its unique and awe-inspiring astronomical phenomena.\nHome to the world-renowned Astralarium, as well as some of the finest natural vantage points for Tyria's most vibrant meteor showers, this island nations has quickly become the go-to travel destination for any astronomy aficionado.\nWith this comprehensive guidebook, we'll teach you how to turn your sights to the stars and appreciate the splendor of the night sky without the expensive equipment the experts use. Even if you've never looked through a telescope, this book will get you started on your journey to map the stars and chart the heavens!"
+  },
+  {
+    "name": "Garden of the Gods",
+    "type": "paged",
+    "text": [
+      {
+        "page": 1,
+        "text": "After long hours of prayer, the goddess of truth herself has at last revealed the answers I sought. Praise Kormir! In her name, I will share the reasons behind our gods' withdrawal from this world."
+      },
+      {
+        "page": 2,
+        "text": "And make no mistake: the gods have withdrawn. Prayers go unanswered, Ascension fails. But do not despair, or rage: our gods still love us, and it is that love that drove them to leave."
+      },
+      {
+        "page": 3,
+        "text": "When the gods first brought humanity to this world, they were planting a garden; we were the seeds, with Tyria the fertile soil in which we would thrive."
+      },
+      {
+        "page": 4,
+        "text": "Like all gardens, it would experience and demonstrate life, death, challenge, order, growth, and beauty as it matured from carefully arranged rows of potential into dynamic, evolving reality."
+      },
+      {
+        "page": 5,
+        "text": "But there was a blight below the soil the gardeners could not prepare for; a predatory threat that would consume both the garden and the nutrients that sustained it: the Elder Dragons."
+      },
+      {
+        "page": 6,
+        "text": "When the dragons rose, the gods realized a terrible truth: any effort to save the garden would instead destroy it...or them. If humanity was to endure under their guidance, it could not be here."
+      },
+      {
+        "page": 7,
+        "text": "Reluctantly, the gods withdrew. They had to find new soil to tend, that their faithful might someday see the full, resplendent bloom of this most glorious garden. Praise Kormir!"
+      }
+    ]
+  },
+  {
+    "name": "Book of Vlast",
+    "type": "paged",
+    "text": [
+      {
+        "page": 1,
+        "text": "In the ancient days, Glint served a titanic master: the Elder Dragon Kralkatorrik. Mindless and brutal, Glint decimated continents at the Elder Dragon's command."
+      },
+      {
+        "page": 2,
+        "text": "It was then that we, the Forgotten, developed a ritual to free a creature from the Elder Dragon's control. We performed it on Glint with great success. Her mind cleared, and Glint's will was her own."
+      },
+      {
+        "page": 3,
+        "text": "After Glint was freed from Kralkatorrik's madness, she gave birth to her eggs. First among these was a dragonling named Vlast. When the Branded came, he was the first to throw himself into the fray."
+      },
+      {
+        "page": 4,
+        "text": "His battles were legendary. Many times we were saved by a shadow swooping in from the sky. The people of Elona told tales for generations, both of hope and of fear toward their \"protector.\""
+      },
+      {
+        "page": 5,
+        "text": "When the Branded came, Glint sent Vlast away. She could feel Kralkatorrik coming to destroy her. She prophesized a great legacy, an important role for Vlast, and could not risk his death as well."
+      },
+      {
+        "page": 6,
+        "text": "After the death of his mother, Vlast battled the Branded, destroying them all in a vengeful swath. More poured into Elona from the north, threatening to destroy the country and all who lived there."
+      },
+      {
+        "page": 7,
+        "text": "Now, as we all fall under Kralkatorrik's gaze, Vlast fights on. He has beaten many of Kralkatorrik's followers, but there is only so much that one creature—even if it happens to be a dragon—can do."
+      }
+    ]
+  },
+  {
+    "name": "The Legacy",
+    "type": "paged",
+    "text": [
+      {
+        "page": 1,
+        "text": "Freed from the control of Kralkatorrik, Glint was a prophetess and a powerful ally. She saved many from the Elder Dragons' notice, hoping that the world could continue after they were at rest."
+      },
+      {
+        "page": 2,
+        "text": "After the threat of the Elder Dragons faded, Glint wrote the Flameseeker Prophecies. These were a series of predictions, from the time of the coming of humans until the next rise of the Elder Dragons."
+      },
+      {
+        "page": 3,
+        "text": "While the world spun on, Glint prepared herself for the Elder Dragons' return. She created her legacy—a plan to return the world to balance. Glint said that her children would play a great role."
+      },
+      {
+        "page": 4,
+        "text": "In order to facilitate Glint's legacy, the Forgotten created the city of Kesho. There, the Forgotten and Glint studied Ascension for secrets that may help them fight the Elder Dragons."
+      },
+      {
+        "page": 5,
+        "text": "In time, Kralkatorrik awakened. From its first movement, it raged against Glint, and flew directly toward her lair. With the help of six heroes, she faced Kralkatorrik in battle—and died."
+      },
+      {
+        "page": 6,
+        "text": "After Glint's death, the Forgotten tended the legacy in the city of Kesho. Kralkatorrik set its Branded upon Elona. We all fell or were tainted, and eventually the city was lost to the desert sands."
+      },
+      {
+        "page": 7,
+        "text": "Yet, Glint's legacy continues. Does it still hold promise, despite her loss and the extinction of the Forgotten? The answer may yet exist, buried deep within Kesho."
+      }
+    ]
+  },
+  {
+    "name": "Order of Whispers Mission Dispatches",
+    "type": "paged",
+    "text": [
+      {
+        "page": 1,
+        "text": "I've been sent to learn about the Order of Shadows—how they strayed so far, why they ignore our requests for collaboration. The first step is information, and for that I need local contacts."
+      },
+      {
+        "page": 2,
+        "text": "So far, every line of inquiry we've pursued has failed. Balthazar's invasion and Joko's absence make this a unique opportunity for discovery. I will not let the Preceptors down."
+      },
+      {
+        "page": 3,
+        "text": "Successfully infiltrated the mines. Strong Shadows influence here. Nobody's talking, though. It'll take time to build enough trust to exploit. Even with my Vabbian ancestry, this is dicey...dangerous."
+      },
+      {
+        "page": 4,
+        "text": "Progress: after some strong hints, I was sympathetic to their cause, and some stronger Elonian wine, the mine foreman let slip he works with Shadows—an associate, not an agent. I can use that. And him."
+      },
+      {
+        "page": 5,
+        "text": "Met with two confirmed Shadows associates. Astonishing: To them, we are the ones who lost our way. To them, Joko is a more pressing threat than Kralkatorrik...or any Elder Dragon."
+      },
+      {
+        "page": 6,
+        "text": "Bombshell: Shadows is a splinter group. Original Whispers still here, farther south in Elona proper. They rejected Shadows' exclusive focus on Joko; schism formed, Shadows began parallel operations."
+      },
+      {
+        "page": 7,
+        "text": "Secured proof that Shadows plays all sides off each other to keep the status quo churning and exploitable. They advance Joko's cause one day, Sunspears' the next. A very dangerous game."
+      },
+      {
+        "page": 8,
+        "text": "Troubling: confirmed that Shadows sacrifices innocents simply to protect their ability to influence events. Schemes that only serve to perpetuate more schemes—do they even have an endgame?"
+      },
+      {
+        "page": 9,
+        "text": "I think they're on to me. Both of my primary contacts have gone missing, and my secondaries refuse to acknowledge me. There's so much more to learn, but I fear it's no longer safe to learn it."
+      },
+      {
+        "page": 10,
+        "text": "My cover's definitely blown. Strangers tried to follow me home. I gave them the slip, but this will be my last dispatch. If Shadows knows what I'm up to, and where to find me..."
+      }
+    ]
+  },
+{
+    "name": "Intelligence Report: Palawa Joko I",
+    "type": "paged",
+    "text": [
+      {
+        "page": 1,
+        "text": "Since his conquest of 1175 AE, the Lich King, Palawa Joko has instituted a necroarchy: a regime run by his Awakened undead."
+      },
+      {
+        "page": 2,
+        "text": "In life, King Joko provides for his subjects with the understanding that they will be Awakened from death to serve him."
+      },
+      {
+        "page": 3,
+        "text": "Elonians look on this as an honor and a duty to their nation. They are defended by an army of their Awakened ancestors."
+      },
+      {
+        "page": 4,
+        "text": "After driving King Joko's enemies, the Sunspears, to near extinction, his Mordant Crescent turned to policing the kingdom."
+      },
+      {
+        "page": 5,
+        "text": "Though loyal subjects are granted some measure of freedom, King Joko acts swiftly to remove any disruptive influences."
+      },
+      {
+        "page": 6,
+        "text": "Exiles work the farms outside the kingdom's protective Bone Wall, and they still must surrender their corpses to Awakening."
+      },
+      {
+        "page": 7,
+        "text": "This arrangement has offered Elonians generations of protection from the many natural and magical dangers of the region."
+      },
+      {
+        "page": 8,
+        "text": "Though our order actively works to degrade Palawa Joko's rule, we also recognize him as a regional stabilizing force."
+      },
+      {
+        "page": 9,
+        "text": "There have been no recent sightings of King Joko on the continent since his unexplained crossing into the Underworld."
+      },
+      {
+        "page": 10,
+        "text": "King Joko is a singularly powerful necromancer, but his long absence fuels hope that he is lost in the Realm of Death."
+      },
+      {
+        "page": 11,
+        "text": "Some in our order forecast the imminent collapse of Palawa Joko's regime, while others discourage such optimism."
+      }
+    ]
+  },
+  {
+    "name": "Collapse of the White Mantle",
+    "type": "paged",
+    "text": [
+      {
+        "description": "Water-Damaged Letter.",
+        "page": 1,
+        "text": "Irenali, I am coming home. Tomorrow I'll make my escape. You must meet me at our spot. Araya has lost it. I plan to destroy all her precious statues before I leave. I can't stand them."
+      },
+      {
+        "description": "Initiate's Journal.",
+        "page": 2,
+        "text": "Only the last entry in this journal is legible, written by a Mantle agent. He mentions his boss; how she dropped the ball on a given task, then scapegoated him and his company for it."
+      },
+      {
+        "description": "Torn letter.",
+        "page": 3,
+        "text": "Dear Mother, I'm dying. I write to say I love you and that I know I should have listened to you. I was not cut out for the White Mantle. My folly has been my demise. Don't forget me."
+      },
+      {
+        "description": "Inventory Sheet.",
+        "page": 4,
+        "text": "This sheet of parchment has a handwritten inventory of barrels, crates, and bloodstone fragments. Scrawled across it in a different hand is \"She's going to get us all killed!\""
+      },
+      {
+        "description": "Burned Letter.",
+        "page": 5,
+        "text": "This scorched parchment reveals that Araya has begun consuming bloodstone to maintain control of her squads. As the White Mantle crashes down around her, she'll do anything to hold on to her authority."
+      },
+      {
+        "description": "Araya's Journal.",
+        "page": 6,
+        "text": "This journal belongs to a Mantle leader, the youngest ever promoted to her rank. From it, you learn she relied too much on bloodstone shards, and at the end, she's unhinged, physically and mentally."
+      }
+    ]
+  },
+  {
+    "name": "Parable of Abaddon",
+    "type": "paged",
+    "text": [
+      {
+        "page": 1,
+        "text": "This sheet is titled the same as the other parables, but it looks like a copy. The paper isn't ancient parchment, and it hasn't been as weathered."
+      },
+      {
+        "page": 2,
+        "text": "And thus, Arah was built, sector by sector, in honor of the gods. It rose into the clouds and sank deep into the ground."
+      },
+      {
+        "page": 3,
+        "text": "The people of Orr decorated it with gold and gems befitting the gods who protected them."
+      },
+      {
+        "page": 4,
+        "text": "The gods were pleased, and so it came to pass that the gods came to Orr and made it their home."
+      },
+      {
+        "page": 5,
+        "text": "With the gods came artifacts, relics, and secret knowledge, and the gods wished for a safe place to store these treasures."
+      },
+      {
+        "page": 6,
+        "text": "Abaddon—god of secrets, knowledge, and magic—designed a set of reliquaries to hold these priceless items. As a gift, he gave one to each of the other gods and created his own as the centerpiece."
+      },
+      {
+        "page": 7,
+        "text": "These reliquaries he connected on a magical grid that illuminated them all. Thus, he kept thieves and defilers at bay."
+      },
+      {
+        "page": 8,
+        "text": "This copy of the parable has notes in the margin, written by a modern hand."
+      },
+      {
+        "page": 9,
+        "text": "Abaddon sent away. Gods wipe the records of him. Childish! Why so many Abaddon relics here if true? Is this even a parable?"
+      },
+      {
+        "page": 10,
+        "text": "No mention of reliquaries in the history books. Gods hid it with a magical veil? Did they sink it too? But post-god maps show the region existed. May never know truth."
+      },
+      {
+        "page": 11,
+        "text": "Orr gets sunk, then rises. Veil shredded? Reliquaries revealed. Hehe. Abaddon, Keeper of Secrets, has the last word."
+      }
+    ]
+  },
+  {
+    "name": "Parable of Balthazar",
+    "type": "paged",
+    "text": [
+      {
+        "page": 1,
+        "text": "Walking upon a battlefield strewn with the dead, Balthazar, the god of war, blessed each of the corpses for their valor, until he came across one who had not fought but had cowered."
+      },
+      {
+        "page": 2,
+        "text": "Balthazar could smell the stink of fear, and so he reached into the man and pulled forth his soul. He held it in place as he scrutinized it."
+      },
+      {
+        "page": 3,
+        "text": "The soul was no more courageous in death than it had been in life, and it trembled and whimpered. It bowed its spine and hid its face."
+      },
+      {
+        "page": 4,
+        "text": "\"You,\" said the god, \"do not belong here. You sully these brave men and women who died in honorable combat. You will cower behind them no more.\""
+      },
+      {
+        "page": 5,
+        "text": "Balthazar folded the soul, bent it and broke it, crushed it until it was hidden inside his clasped hands. Then he opened his mouth wide, and shoved the soul in, consuming it whole."
+      },
+      {
+        "page": 6,
+        "text": "Once it was gone, Balthazar shouted to the dead, \"You carried this coward when he lived. Now, I carry him, for he serves as my reminder that strength and courage are never to be taken for granted.\""
+      }
+    ]
+  },
+  {
+    "name": "Parable of Dwayna",
+    "type": "paged",
+    "text": [
+      {
+        "page": 1,
+        "text": "Upon a cold, moonless night, there came a man to a farm. The night was so dark, he carried a lit candle to find the path."
+      },
+      {
+        "page": 2,
+        "text": "The farmer heard him and called out. \"What business have you here?\" The farm was dark as pitch."
+      },
+      {
+        "page": 3,
+        "text": "\"I seek shelter from the coming storm,\" said the traveler. \"Would you invite me to your hearth?\""
+      },
+      {
+        "page": 4,
+        "text": "The farmer feared riding out the storm in the dark, but more than that, he feared strangers. The farmer replied, \"No, I cannot.\""
+      },
+      {
+        "page": 5,
+        "text": "Saddened, the traveler wished the farmer well and forged onward. Farther down the hill, he found a family who gave him hospitality."
+      },
+      {
+        "page": 6,
+        "text": "The farmer suffered the darkest night of his life. A tree fell on his house, crushing his leg. He did not call to Dwayna for help as he knew he didn't deserve it. For him, the morning never came."
+      }
+    ]
+  },
+  {
+    "name": "Parable of Grenth",
+    "type": "paged",
+    "text": [
+      {
+        "page": 1,
+        "text": "To Grenth's ears, there came a cry from the soul of one who had suffered long and profoundly. The god was drawn to the woman who called, for she had no mercy left in her."
+      },
+      {
+        "page": 2,
+        "text": "Seeking vengeance for her husband's violence against her, she evoked Grenth's judgment upon the husband even as she plunged the knife into his heart."
+      },
+      {
+        "page": 3,
+        "text": "As Grenth stood over her and the husband she had murdered, he saw that she had loved him once, that she had borne him children, and that she had been a good and loyal wife."
+      },
+      {
+        "page": 4,
+        "text": "He saw that the man had never loved her, but had resented her and their children for draining his pockets. He saw that the man had not been loyal, and had never been kind."
+      },
+      {
+        "page": 5,
+        "text": "He saw the abuses he had rained down upon his wife. And so, the god of death said, \"I find you guilty, woman, of murdering your husband. When it is your time, you will pay for what you have done.\""
+      },
+      {
+        "page": 6,
+        "text": "\"I understand,\" said the woman as she bowed before Grenth."
+      },
+      {
+        "page": 7,
+        "text": "\"And now,\" said Grenth, \"I give you a choice. You may come with me now and watch your husband suffer for the wrongs he has done. Or you may walk away, and I will claim you only when it is your time.\""
+      },
+      {
+        "page": 8,
+        "text": "The woman said, \"I gave my husband my love and life. I will come now, to see this tale's end and to share his suffering. It will hurt him more to know that I am witnessing his pain.\" And so it was."
+      }
+    ]
+  },
+  {
+    "name": "Parable of Lyssa",
+    "type": "paged",
+    "text": [
+      {
+        "page": 1,
+        "text": "From out of the darkness, there stepped a child into the campfire's light. And she said, \"I am Lyssa, and I have come to teach you what is illusion and what is truth.\""
+      },
+      {
+        "page": 2,
+        "text": "But the soldiers there did not believe her. They laughed and said, \"If you're Lyssa, then show us your beauty, for we can surely use it on this dark night. We have lost hope that this war will end.\""
+      },
+      {
+        "page": 3,
+        "text": "The child approached, and her smile held divine grace. \"Share your food with me, and in return for your kindness, I will show you beauty the likes of you will never see again.\""
+      },
+      {
+        "page": 4,
+        "text": "And so the kind soldiers did, and the child ate with ravenous hunger. When the last bone had been tossed aside, and the last bean swallowed, the child began to skip around the outside of the campfire."
+      },
+      {
+        "page": 5,
+        "text": "She touched each man on his head, one at a time, as they laughed and jibed her until, one at a time, they fell into a deep slumber."
+      },
+      {
+        "page": 6,
+        "text": "Each man dreamed a different dream, but each dream was a vision of the life they would lead once the war was over—wives, children, riches, open air, health, and peace."
+      },
+      {
+        "page": 7,
+        "text": "And when they awoke upon the morrow, the child was gone and the enemy had arrived. They fought joyfully, with all their might, because they all remembered their dreams and knew they would win the war."
+      },
+      {
+        "page": 8,
+        "text": "Each man put his heart and soul into the battle, and each man, one at a time, was slaughtered."
+      }
+    ]
+  },
+  {
+    "name": "Parable of Melandru",
+    "type": "paged",
+    "text": [
+      {
+        "page": 1,
+        "text": "One day, the goddess Melandru came upon a den of foxes, and she heard within the hungry cries of kits. She bent her ear to the ground and learned that the mother fox had been killed by a farmer."
+      },
+      {
+        "page": 2,
+        "text": "The cubs were doomed to starve to death, and thus was the way of nature. Melandru sought out the farmer, and asked him why he had killed the fox, thus condemning its kits to sure death."
+      },
+      {
+        "page": 3,
+        "text": "The farmer explained that the fox had killed one of his chickens, and therefore he had taken his vengeance upon the fox. \"Thus,\" said Melandru, \"is the way of nature.\""
+      },
+      {
+        "page": 4,
+        "text": "Later that year, the farmer prayed to her, calling her name in his darkest moment. In his presence, she saw that he was in mourning and asked what had happened."
+      },
+      {
+        "page": 5,
+        "text": "\"Wolves,\" he said, \"have taken my daughter. Can you not bring her back to me?\""
+      },
+      {
+        "page": 6,
+        "text": "Melandru was not unkind as she said, \"No. Thus is the way of nature.\""
+      }
+    ]
+  },
+  {
+    "name": "Letters from Blaine Winslow",
+    "type": "paged",
+    "authorComment": "How do we effectively insert the character name? Theoretically, we could pull a character from the API (if we have access).",
+    "text": [
+      {
+        "page": 1,
+        "text": "Dear <Character name>,\nIt's been some time, hasn't it? Remember me? It's Blaine! From the well!\n\nThings are going great for me down here. Not only did I stay safe in the White Mantle attack, but I'm making quite a life for myself in the well. Event adopted a pet rat! His name is Nibbles. He'll warm up to me soon, I just know it.\n\nBest regards,\n—B\nPS: I go by Blaine now. Figure its more appropriate for a man of my age."
+      },
+      {
+        "page": 2,
+        "text": "Dear <Character name>,\nIt was a sad day today in Winslow Manor. We had to bid farewell to our dear, beloved Mr. Nibbles. When he left us, he took a piece of me with him—specifically, one of my toes. But the domain soldiers on nonetheless. I'm even thinking of planting a garden!\n\nAll my best to you and yours,\n—Lord Blaine, Archduke of the Well of Winslow"
+      },
+      {
+        "page": 3,
+        "text": "Dear <Character name>,\nI hope all is well with you. Big update from the Well Kingdom of Winslow: I've recently amassed a new court. Before you ask, yes, they are rats. They're not the most talkative bunch, but they don't talk back to their regent, and that's what counts. The garden never worked out, so I've moved my efforts over to armoring. The Kingdom of Winslow endures.\n—Lord Blaine, Prince of Winslow"
+      },
+      {
+        "page": 4,
+        "text": "Dear <Character name>,\nI've finally achieved my lifelong dream of becoming a king. I'm still down here in the well, but surely my subjects above wouldn't forget about me, would they? I'll need some help when I make my grand emergence—it's been so long since I've seen light that I don't think my eyes, you know, function anymore. Make the appropriate arrangements for your lord, won't you?\n—His Majesty King Blaine, Regent of Winslow Well"
+      }
+    ]
+  },
+  {
+    "name": "Rose's Journal",
+    "type": "paged",
+    "text": [
+      {
+        "page": 1,
+        "text": "Day 1: My comrades have been caging Risen. They're trying to befriend them, but I don't agree with their methods.\nNeither caging what you're studying nor attempting to befriend what you've caged will end in success. I can show them there's another way. These Risen are not animals. I'm convinced we can reach them."
+      },
+      {
+        "page": 2,
+        "text": "Day 2: I can no longer take part in capturing these creatures. I need to learn more about their natural state. I plan to go deeper into the island.\nDahlia doesn't want me to go. She doesn't feel as connected to them as I do. We could so easily have become like them. Fortunately, we had the Pale Tree."
+      },
+      {
+        "page": 3,
+        "text": "Day 3: Our Mother Tree strenghtened sylvari willpower so we could refuse Mordremoth's corruption. I wonder, as I watch these wretched Risen, if they could get theirs back.\nI'm not optimistic. They don't recognize words, much less reason. I haven't given up hope. There are those who have retained some intelligence. Perhaps that's where I should start."
+      },
+      {
+        "page": 4,
+        "text": "Day 4: I've stumbled across what appear to be their leaders. The winged ones have a strange effect on the rest. They make the others more...alert?\nIt's as if they're sharing their intellect? It's hard to describe. They become a more cohesive unit when the winged ones are around. It's akin to the pack behavior of fern hounds."
+      },
+      {
+        "page": 5,
+        "text": "Day 5: I traveled further inland. The architecture here is far more grandiose. It's truly a sight to behold. I'm amazed that the rise of Orr didn't completely reduce these monuments to rubble.\nI've seen rope bridges near the waterfalls. They surely would have rotted under the sea. Could they be a more recent addition to the landscape?"
+      },
+      {
+        "page": 6,
+        "text": "Day 6: I barely made it out alive. I approached one of the winged Risen, hoping to speak to it, but the herd came charging at me. I fled as if my life depended on it. I messed everything up.\nI've lost my bearings and have no idea how to get back. I'll hunker down under this wreckage for the night, but I'm missing my Dahlia. I can't wait to get home so she can scold me."
+      },
+      {
+        "page": 7,
+        "text": "Day 7: What a naive fool I've been. I'm walking in circles now. I find myself back at the spot where I spent the night. My wound is throbbing. I'll stay here one more night to heal, then try again.\nMy little haven is surrounded by crumbling statues. There are no Risen in sight. Natural heat comes up through the ground, keeping me warm throughout the night."
+      }
+    ]
+  },
+  {
+    "name": "The Shining Blade Manual",
+    "type": "paged",
+    "text": [
+      {
+        "description": "Section 1: Introduction",
+        "page": 1,
+        "text": "This copy of \"The Shining Blade Manual,\" written by Master Exemplar Bartholos in 1089 A.E., is a first edition. Updated versions of it have been handed out to recruits ever since."
+      },
+      {
+        "description": "Section 2: Being an Agent of Kryta",
+        "page": 2,
+        "text": "Welcome to the Shining Blade. You've taken a heroic step toward being a defender of Kryta. You have vowed to give your life for Kryta and, by extension, the royal head.\nYour priorities will always fall in this order: Kryta, Krytan royalty, Krytan citizens. Without a secure, functioning Krytan kingdom first and foremost, all else falters."
+      },
+      {
+        "description": "Section 3: Shining Blade Values",
+        "page": 3,
+        "text": "The pillars of the Shining Blade are loyalty, courage, and service. Loyalty and service to Kryta and the Shining Blade, courage in the face of threat."
+      },
+      {
+        "description": "Section 4: The History of the Shining Blade",
+        "page": 4,
+        "text": "We are the true sons and daughters of Kryta. The Shining Blade was formed to rid our homeland of the oppressive White Mantle regime and restore the Krytan monarchy.\nTo understand who we are, you must first understand how the White Mantle seized control of our beloved Kryta.\nThe White Mantle was a religious cult formed years ago in Kryta by Saul D'Alessio, a drunk and a thief who preached the false doctrine of the Unseen Ones, his mysterious invisible masters.\nSaul led an army of white-robed followers against the charr attacking Kryta, and after their victory on the battlefield, the White Mantle seized Kryta themselves.\nThe White Mantle's protection came with a price. The White Mantle offered these ill-fated Krytan citizens they called \"Chosen\" as sacrificial victims to their demonic masters.\nEvennia gathered a band of royalists called The Shining Blade who vowed to expose and thwart the White Mantle and the inhuman sorcerers they worshipped.\nThey undertook a series of missions that left the Mantle's high council dead and the cult in disarray.\nThe citizens of Kryta have now rallied to our side. With their support, the strength of our steel, and the courage of our convictions, Kryta will have a queen once again. Long live Queen Salma!"
+      },
+      {
+        "description": "Section 5: Evennia",
+        "page": 5,
+        "text": "Master Exemplar Evennia was our founder and the most formidable of our leaders. She formed the Shining Blade when we were no more than rebel fighters hiding in the forest, and she led us to victory.\nWhen Princess Salma took the throne, Evennia stepped down from her position to become a personal advisor to the new queen. Her experience and wisdom influence all decisions made in the royal court."
+      },
+      {
+        "description": "Section 6: Our Patron Goddess Dwayna",
+        "page": 6,
+        "text": "Dwayna guides us and blesses us. She said to us, \"Lay down thy weapons, and as I have done unto ye, so ye must do for your brethren.\" We fight so that one day we may lay down our weapons in peace.\nDwayna entreats us to \"Offer protection to the weak. Give solace and shelter to those who need it. Be ye a salve to the wounded.\" And so we must."
+      },
+      {
+        "description": "Section 7: Zinn and the Shining Blade",
+        "page": 7,
+        "text": "The Blade fought mursaat tyranny from the shadows until we found the allies needed to wage war and retake Kryta. We hunted down the mursaat that the Titans spared, killing all but one: Lazarus.\nAfterward, a gift arrived: the sword we call the Shining Blade. As the last lay dying, the Seers bestowed us their ancient weapon and a duty to destroy the last mursaat, should he ever return."
+      },
+      {
+        "description": "Section 8: The Last Mursaat",
+        "page": 8,
+        "text": "The one that got away, the last mursaat, is still out there, waiting for his chance to bring Kryta to its knees before him. He has hidden himself well, but we will know the moment he emerges.\nThere is no evil so great as that of the mursaat and those who follow them. Never ever forget the horrors they inflicted on our people. The moment your anger fades, you become vulnerable."
+      },
+      {
+        "description": "Section 9: The White Mantle",
+        "page": 9,
+        "text": "The only enemy more evil than the mursaat are the White Mantle, for they are Krytans who have inflicted their own people, their own families, with the worst kind of suffering. They deserve no mercy."
+      },
+      {
+        "description": "Section 10: Final Notes",
+        "page": 10,
+        "text": "I, Bartholos, in 1088 A.E., offer this volume to future generations of Shining Blade, with hope that it will inspire and inform them, thereby increasing their commitment to the Shining Blade's values.\nEven as I write the final notes, I am preparing to become the captain of the Seraph Guard, commissioned by Queen Salma herself. I leave my duties in the capable hands of Master Exemplar Livia.\nLivia, a respected friend who fought by my side on many an occasion, will take the Shining Blade into the future with an emphasis on loyalty, courage, and service.\nThe White Mantle are not gone. They're hiding, recuperating their strength, and one day—I predict—the zealots will return. Carry on our tradition and never let your guard down."
+      }
+    ]
+  },
+  {
+    "name": "E's Correspondence",
+    "type": "paged",
+    "text": [
+      {
+        "description": "E's First Letter",
+        "page": 1,
+        "text": "Missive received. You must now act with the utmost urgency. The search for Caudecus continues, but no one has yet checked the centaur camps. Take your team and see if they're hiding him. —E"
+      },
+      {
+        "description": "E's Second Letter",
+        "page": 2,
+        "text": "Your regular duties for me are suspended until this conflict is over. Focus on preparing the evacuation plan in case we have to get her out quickly. Take your brother with you.\nShe is unlikely to go if given a choice, so we may need his special skills to force her, for her own good. —E"
+      },
+      {
+        "description": "E's Third Letter",
+        "page": 3,
+        "text": "I'm aware of the assault on Divinity's Reach, and I'll get there as soon as I can. Don't trust anyone.\nThere are undoubtedly traitors in the city—and even in the palace—who will reveal themselves now. Keep an eye on the ministers. Some of them have been acting strangely lately. —E"
+      },
+      {
+        "description": "E's Fourth Letter",
+        "page": 4,
+        "text": "Caudecus is leading the White Mantle to our doorstep, where he will die. This is his final betrayal.\nI need you to shadow Logan Thackeray. Stay with him, but don't let him see you. Keep him alive. He still has a role to play. —E"
+      },
+      {
+        "description": "E's Fifth Letter",
+        "page": 5,
+        "text": "I've received a report that Blade and Seraph guards have failed to secure the perimeter of the city. Take this to Whispers headquarters as your introduction and speak with the gatekeeper.\nCatch them up. We're going to need all the help we can get. (Whispers protocol 61554z1, Caudecus is a traitor to Kryta. Involve no Beetlestones until we confirm where loyalties lie.) —E"
+      },
+      {
+        "description": "E's Sixth Letter",
+        "page": 6,
+        "text": "Agent, get this note to Lady Kasmeer Meade.\nKasmeer, your special touch is needed to root out traitors in the court. If you find one, alert the nearest Shining Blade or Seraph guard. Do not endanger yourself. —E"
+      },
+      {
+        "description": "E's Seventh Letter",
+        "page": 7,
+        "text": "If Divinity's Reach falls, Kryta falls. And if Kryta falls, humanity falls. Do not fail us. Your mission is clear. Find Caudecus. He must be eliminated with prejudice. —E"
+      }
+    ]
+  },
+  {
+    "name": "Caudecus's Correspondence",
+    "type": "paged",
+    "text": [
+      {
+        "description": "Concerning Convert",
+        "page": 1,
+        "text": "Justiciar Caudecus,\nI share your concern with Confessor Esthel's newfound piousness. The White Mantle are meant for greater things than playing servant to some has-been god.\nI've heard that you would like to offer an...alternative direction for our order. Know that when the moment comes, you will have the support of my forces in Maguuma.\n— Justiciar Bauer"
+      },
+      {
+        "description": "Purged By Fire",
+        "page": 2,
+        "text": "Justiciar Caudecus,\nMy inquisitors have found yet another nonbeliever among your forces. We've purged her by fire as an example to the others, but I'm doubtful she'll be the last.\nIt concerns me deeply that so many among our order—and specifically those under your command—seem to have forgotten our purpose: to serve the Unseen Ones.\nIf I didn't know better, I'd be questioning just how dedicated you are to that cause.\nFor the glory of the Unseen,\n— High Inqusitor Xera"
+      },
+      {
+        "description": "Falcon Company",
+        "page": 3,
+        "text": "Minister,\nThe deed is done. I accompanied your... associates, and we burned the centaur camp. I personally ensured the War King's family did not escape with their lives.\nAs we expected, the attack sent the beasts into a rage, and they've begun more aggressive campaigns within Kryta.\nThe evidence we planted should be sufficient to point the blame at the Falcon Company. I've enclosed their next patrol route, per your request.\nI expect my payment now.\n— Captain Tervelan"
+      },
+      {
+        "description": "A Timely Promotion",
+        "page": 4,
+        "text": "Justiciar Caudecus,\nThe Unseen Ones smile upon us. After years of searching, High Inquisitor Xera has found a lead on the refuge of our injured god, Lazarus.\nIt would appear that, after he was betrayed by Justicar Naveed over two centuries ago, Lazarus was forced to re-split himself into aspects to contain the corruption.\nOnce imbued into artifacts, these aspects were scattered across the Maguuma Jungle and sites sacred to our order. And it is now our charge to gather these aspects.\nIn her absence—and in light of your success discrediting the impostor on the Krytan throne—I am naming you second-in-command of the White Mantle. Do not disappoint me.\n— Confessor Esthel"
+      },
+      {
+        "description": "Flea-Bitten Bedfellows",
+        "page": 5,
+        "text": "Justiciar,\nThe offering you've made of those responsible for the cowardly attack on our settlement has prompted me to reconsider your proposal.\nWhile I remain sceptical of your \"White Mantle\" and some of your promised intentions should Kryta return to your rule, I agree that the time to act is upon us.\nYou say you can clear the path to Divinity's Reach for my troops, and so I will send one of my High Sages with a warband at twilight tonight.\nIf your claim is true, you will have earned my trust.\n— Ulgoth the Mighty, War King of the Modniir"
+      },
+      {
+        "description": "He lives...",
+        "page": 6,
+        "text": "Minister Caudecus,\nAs I'm sure you're aware, a large warband of centaurs attacked the village of Shaemoor and laid siege to the Shaemoor Garrison, nearly threatening the capital itself.\nScouts following their tracks after the battle suggest that they marched directly through lands under your jurisdiction—along a patrol route assigned to the Ministry Guard, according to Captain Lange.\nLives were lost in that attack, Minister. I must respectfully ask that you either whip your Ministry Guard into shape or get them out of my way.\n— Captain Logan Thackeray, Commander of the Seraph"
+      },
+      {
+        "description": "Unrefined, Yet Effective",
+        "page": 7,
+        "text": "My Lord,\nBig Nose Pete  got himself jailed again, along with more of your mutual acquaintances. If I hadn't gotten to them before Thackeray did, he'd be interrogating them right now.\nThey're becoming a liability. Are you quite sure I should release them again? Or should I make appropriate arrangements to prevent this from happening again?\n— Commander Serentine"
+      },
+      {
+        "description": " A New Protege",
+        "page": 8,
+        "text": "Justiciar,\nI wanted to tell you again what a profound honor it has been to be invited into the fold. To tell the truth, I had thought the White Mantle were only a story told to scare children.\nTo discover that they not only that they existed, but that they possessed such an inspired vision for the future of Kryta—well, it's been a lot to absorb in a short amount of time.\nI have the feeling this is the beginning of a long and fruitful friendship.\n— Minister, or should I say Initiate, Zamon"
+      },
+      {
+        "description": "Sacrifices Must Be Made",
+        "page": 9,
+        "text": "Caudecus,\nI'm told that I'm to stand trial for treason in the coming days. You need to act quickly. Work your connections. Make this go away.\nLet me make this perfectly clear to you: if I go down, I'm taking you with me. Do you understand?\n— Minister Zamon"
+      },
+      {
+        "description": "The Curtain Falls",
+        "page": 10,
+        "text": "Minister,\nIt would seem the Ringmaster was foiled, and he managed to lose the Floating Grizwhirl in the process! I suppose you were correct, and that a more \"direct\" approach is necessary.\nI'll make preparations for our \"guest.\" By Adelbern's beard, the charr will be purged from our lands!\n— Uzolan"
+      },
+      {
+        "description": "A Minor Setback",
+        "page": 11,
+        "text": "Ministers,\nLet it be known that all charges against Minister Arton in regards to the tragic loss of Falcon Company have been cleared, in light of new evidence verified by Captain Thackeray of the Seraph.\nThis evidence suggests that Arton was deliberately framed by enemies of the Crown. While a thorough investigation is still underway, we intend to pursue these agents and bring justice upon them.\nWe remind you that anyone found to be conspiring with enemies of Kryta will be punished swiftly, and severely.\n— Queen Jennah"
+      },
+      {
+        "description": "The Enemies of My Enemy",
+        "page": 12,
+        "text": "As a rule, I tend not to trust anonymous letters, but I'm sending this note back with your bird because of the gravity of what you wrote.\nIf what you say about a planned assassination and about the identity of the White Mantle Confessor is true, I can't afford not to act.\nThat being said, I'll give you the same warning I give all new informants: I don't like being toyed with. We'll be watching the target to see if this assassination attempt actually comes to pass.\nIf it does, I'll consider the validity of the rest of your claim. And if it doesn't, I'll be forced to demonstrate just how seriously I take these matters.\n— E"
+      },
+      {
+        "description": "Under New Management",
+        "page": 13,
+        "text": "Confessor Caudecus,\nAllow me to congratulate you on your promotion. Confessor Esthel lacked the foresight needed to lead us. The ease with which she was exposed and killed clearly showed her faults.\nThe White Mantle will finally have the guidance it needs to carry it into a great and glorious future. Per your orders, we're shifting our focus to researching a means of weaponizing the bloodstones.\nYou should know, however, that Xera is less than enthusiastic about the change in leadership. She and her lap dog Matthias have been throwing around some fairly treasonous accusations against you.\nYou would be wise to keep her on a tight leash, lest she spread further dissent among the ranks of the Mantle. Of course, you can trust me to keep you informed.\n— Justiciar Bauer"
+      },
+      {
+        "description": "Old Friends, Older Enemies",
+        "page": 14,
+        "text": "General Beetlestone,\nWhen I heard your queen was selling Ascalon out to the charr, I was afraid you were on board with that madness. That you'd forgotten about your soldiers out here in the trenches.\nI appreciate your note, and I'm glad you're as disgusted with this \"treaty\" as I am. If your White Mantle pledge to free Ascalon from the charr, then you have the Separatists' support. And mine.\nIt will be an honor to fight alongside you once again, General. Together, we will cleanse these lands.\n— Captain DeLana"
+      },
+      {
+        "description": "Trouble At Home",
+        "page": 15,
+        "text": "Father,\nYou promised. You promised there would be no more secrets between us. How then, do you explain what I found in the basement? The weapons? The unsavory-looking brutes?\nAnd these letters from Mother? What did she learn that made her say these things? Is that why she left? If you hadn't driven her away, these bandits never would've found her, and she'd still be alive!\nBy the Six, I'm not even sure it WAS the bandits that killed her. Was it you? Is that why Landon was the one to find her? Was it you all along, Father?\nI'm leaving. For good this time. I know people who can protect me from a monster like you. From everything you are. From everything you've done. You'll never hurt me again.\n— Demmi"
+      },
+      {
+        "description": "Pirates? Really?",
+        "page": 16,
+        "text": "Minister Caudecus,\nThere's been a development of sorts. Those filthy Jackdaws claimed to have Demmi, but when we went to \"liberate\" the girl, someone had already absconded with her.\nWe found one of the pirates, name of Drake, passed out and reeking of grog. I don't know how reliable his intel is, but he mentioned a charr and another pirate he didn't recognize, so I figure she has help.\nIt appears they're making their way to Lion's Arch. Provided this tracking enchantment doesn't wear out, I'll continue to provide updates on their whereabouts.\n— Commander Landon"
+      },
+      {
+        "description": "A Wi Problem",
+        "page": 17,
+        "text": "Confessor,\nYou'll never guess who showed up at the Chantry of Secrets today-or, knowing you, maybe you will. It's Demmi.\nApparently your dearly departed wife's cousin, Lady Wi, coaxed her from her comfortable lifestyle and spent the last two days interrogating her. Don't worry-she didn't have much actionable intel.\nIt appears she bolted from the manor before she could gather enough evidence to pin anything overtly treasonous on you. Still, you should expect the Order to watch you more closely from now on.\nAs for the leads they've got, I'll do what I can to make sure they result in dead ends-emphasis on the dead part. I await your instructions on what should be done about Lady Wi.\n- No Names"
+      },
+      {
+        "description": "Eye for Eye, Child for Child",
+        "page": 18,
+        "text": "Minister Beetlestone,\nIt would be my pleasure to perform for you. How can I refuse when you offer such a magnificent instrument as a gift? You truly are too kind.\nI'm sorry to hear Demmi won't be in attendance; it's been far too long since I last saw her, and I'd love the opportunity to catch up. Perhaps another time.\nThank you again,\n— Lady Valette Wi"
+      },
+      {
+        "description": "Yet Another New Protege",
+        "page": 19,
+        "text": "Minister Beetlestone,\nI know you said I could call you Caudecus, but old habits die hard. Thank you for attending my performance. I've had a chance to think about the discussion we had afterward.\nWith so much threatening Kryta-the centaurs, the bandits, and the charr plot you've uncovered-I'd be lying if the promise of a safer and stronger Kryta didn't sound promising.\nIt feels wrong going behind my parents' backs like this, but they wouldn't listen. Between Father's loyalty to the queen and Mother's insistence that she knows everything without explaining how...\nWell, I'll just have to show them myself. Once they see things improving, they'll have to admit I was right. I'll come to that meeting you invited me to, just to see what it's all about.\nAnd thank you for listening. It's nice to be treated like an adult by someone, for a change.\n— Valette"
+      },
+      {
+        "description": "And Stay Dead",
+        "page": 20,
+        "text": "Confessor,\nIt wasn't easy, but I managed to swap the artifacts as you requested - just in time, too. Xera took off north without so much as a word.\nI wish I could be there when the smug zealot's ritual fails, when her followers turn on her and come crawling back to us. Perhaps I'll allow some to return. But most will be fed to the bloodstone.\nI'm sure you've delayed your relocation to the queen's palace for as long as you can, so I'll find a way to get in touch with you there going forward. Until then, Confessor.\n— Justiciar Bauer"
+      }
+    ]
+  },
+  {
+    "name": "Zinn's Study Guide",
+    "type": "paged",
+    "text": [
+      {
+        "description": "Extinguished: The Rise and Fall of the Flame Legion, Vol. 1",
+        "page": 1,
+        "text": "The charr legions, commanded by the sorcerous Flame Legion, attacked the human kingdoms with great ferocity. They were driven by a blind zeal for their fiery gods, the Titans.\nThe charr struck at Ascalon first, using a cauldron imbued with ancient magics to conjure a rain of crystals from the sky. The largest of these crystals can still be seen in Pockmark Flats.\nThis event would come to be known as the Searing. After years of being kept at bay by the Great Northern Wall, the charr were free to reclaim their homeland.\nThe shamans of the Flame Legion were driven by more than the need to reclaim their homeland. They set their sights on vengeance and set out towards the other kingdoms of man."
+      },
+      {
+        "description": "Extinguished: The Rise and Fall of the Flame Legion, Vol. 2",
+        "page": 2,
+        "text": "Part of the legion marched west, to Kryta. Villages scattered, militias disbanded, and the human king fled the kingdom to escape the seemingly unstoppable army of the charr.\nOne force stood up to the advancing horde. The White Mantle, emboldened by their faith in new, unseen gods, faced the charr despite being desperately outnumbered.\nThe White Mantle bested the charr, but it was years before it was revealed that entities known as the Mursaat were responsible for the defeat. The Krytans had won, but at a great cost."
+      },
+      {
+        "description": "Extinguished: The Rise and Fall of the Flame Legion, Vol. 3",
+        "page": 3,
+        "text": "The cost of the Krytan victory over the charr pales in comparison to the cost paid by the people of Orr. There, as the charr approached Arah, one man turned to forbidden magics.\nVizier Khilbron, trusted advisor of King Reza, read a dark incantation from the Lost Scrolls. As the last word of the spell echoed within his tower, Orr sank into the waves.\nAfter these defeats, the charr began to lose ground. Even their victories in Ascalon lost ground and became an ongoing conflict that would last generations."
+      },
+      {
+        "description": "Extinguished: The Rise and Fall of the Flame Legion, Vol. 4",
+        "page": 4,
+        "text": "The Flame Legion, driven back from Kryta and eradicated at Orr, continued to fight in Ascalon. In the end, they summoned their false gods, the Titans.\nThe Titans arrived, not as gods, but as slaves to the Flameseeker - as foretold by the dragon, Glint.\nTheir presence in Tyria was devastating, yet short-lived, thanks to the intervention of a group of Chosen.\nA few among the charr saw through the Titans' deception. They saw their \"gods\" killed at the hands of mere humans, and with that, the seeds of rebellion were sown.\nAs the Flame Legion attempted to reestablish control of the charr legions, a group of rebels led by Pyre Fierceshot attacked their fortress. They defeated the shamans and their gods.\nOn that day, the victorious Pyre Fierceshot declared that the charr would worship no gods. The Flame Legion's control over the charr was destroyed."
+      },
+      {
+        "description": "Elona: Land of the Golden Sun",
+        "page": 5,
+        "text": "The land of Elona lies to the southeast of the Crystal Desert, comprised of three provinces and the inhospitable sulfuric wastes known as the Desolation.\nTo the south lies the island province of Istan. Known for its massive navy, the Istani patrol the waters to stop hostile corsairs preying on merchant vessels.\nNorth of Istan lies Kourna. This militaristic province is recovering from the defeat and death of their leader, Warmaster Varesh Ossa, to servants of the fallen god Abbadon.\nThe final province of Elona is named Vabbi. Wealthy and cultured, Vabbi is ruled by clanmarshals, also referred to as princes.\nTo the west of Vabbi lies the Desolation. Home to the undead king Palawa Joko, no mortal can survive the sulfurous wastes."
+      },
+      {
+        "description": "The Human Gods",
+        "page": 6,
+        "text": "Humans currently worship a pantheon of gods, giving obeisance to six of them at once.\nBalthazar, the god of fire and war, is depicted as an armor-clad soldier wielding a greatsword and engulfed in flame.\nDwayna, depicted with feathered wings, is the goddess of life and air. Human legend says she was the first of the gods to arrive from the Mists.\nGrenth, the god of death and ice, imprisoned his predecessor, Dhuum, within the Hall of Judgment. He is depicted as having the body of a man and the skull of a beast.\nThe two-faced goddess of beauty and illusions, Lyssa, is known both as Lyss and Ilya and is often depicted engaged in an eternal dance.\nMelandru, the eldest of the human gods, is patron of nature and earth. She is often depicted as a dryad growing within the trunk of a tree.\nThe newest of the six human gods was born a mortal. Upon the defeat of the god of secrets, Abaddon, a woman named Kormir took up the mantle of the goddess of truth."
+      },
+      {
+        "description": "Prince Rurik: Heir Today, Gone Tomorrow",
+        "page": 7,
+        "text": "The Ascalonian royal line changed hands following an act of regicide during the third guild war as Duke Barradin relinquished the throne to the popular usurper Adelbern.\nAdelbern's son and heir, Rurik, was well liked by the people, in part due to his eagerness to be at the front of the battle against the charr.\nIn defiance of his father, the prince led to an exodus to Kryta in an attempt to help his people escape the charr.\nAlthough his people made it to safety, Rurik was slain at the mouth of the Frost Gate while holding off angry dwarves—Dagnar Stonepate and his Stone Summit kin.\nRurik's allies avenged their fallen prince, slaying Dagnar Stonepate within Thunderhead Keep. Later, they undertook a quest to Rurik's soul to rest, giving him a place in the Hall of Heroes."
+      },
+      {
+        "description": "Shiro Tagachi: Legacy of the Betrayer, Vol. 1",
+        "page": 8,
+        "text": "The Canthan continent has a rich and turbulent history. A long series of events shaped not only the culture, but also the geography of the land.\nOver 200 years ago, on the last day of the Harvest Festival, Emperor Angsiyan was betrayed and murdered by his bodyguard, Shiro Tagachi.\nAlerted by the quick actions of a ritualist involved in the Harvest Ceremony, a united force of Kurzicks and Luxons engaged Tagachi in battle.\nAfter a brief engagement, only two remained: the Luxon champion, Archemorus, and the Kurzik champion, Viktor. The arrival of a third—the Assassin Vizu—turned the tide of battle against Tagachi.\nVizu crippled the betrayer, and the champions used that moment to deal Shiro a fatal blow. With his dying breath, Shiro drained the fallen emperor's soul and let out a great wail.\nThis death cry unleashed a cataclysmic wave of energy known as the Jade Wind. It turned forest to stone and water to jade.\nShiro's plans were defeated, but the damage had been done. The lower half of Cantha was devastated by the Jade Wind, and the Emperor was dead."
+      },
+      {
+        "description": "Shiro Tagachi: Legacy of the Betrayer, Vol. 2",
+        "page": 9,
+        "text": "While the Luxons and Kurzicks adapted to their new environment, the effects of the Jade Wind were still being felt some 200 years later.\nThen, a great plague struck Cantha. Thousands fell to illness, and their bodies mutated into hideous beasts. Those who met this fate were referred to as the Afflicted.\nAbominations began to appear in every corner of the kingdom. The half-brother of the emperor, Headmaster Togo of the Shing Jea Monastery, vowed to find the source of this plague.\nShiro's forces regathered, and with the arrival of powerful Shiro'ken, he assaulted the emperor's palace. Master Togo sacrificed his life to save his half-brother and emperor.\nUnfortunately, Shiro needed the blood of Angsiyan, not the emperor himself, and as Togo's blood fell to the floor, Shiro's mortality was renewed. He returned.\nYet, with the advantages of mortality also come the risks of being mortal. A group of heroes led by the monk Mhenlo and empowered by the dragon Kuunavang faced and defeated Shiro.\nThese events allowed the xenophobic Ministry of Purity to take power. They forced the Tengu to leave Cantha and ushered in an era of isolation that continues to this day."
+      },
+      {
+        "description": "There with Yakkington: A Travelers Tale Prologue",
+        "page": 10,
+        "text": "When Professor Yakkington and I left our home, I anticipated a good deal of danger. I couldn't possibly have expected everything that occurred.\nTake, for example, the misunderstanding between Rotscale and Yakkington in Majesty's Rest. We had no interest in tomb robbing, but frankly, diplomacy isn't really an option with the undead.\nThen there was our short period of enslavement by the Stone Summit. If it weren't for a dredge slave uprising, We would still be shuttling materials deep in Sorrow's Furnace.\nStill, nothing compares to our trip to the Ring of Fire Islands! Not only did we end up in the shadow of an active volcano, we also arrived during the Titan assault against the Mursaat.\nIt wasn't all screaming and terror. If it were, Yakkington would have gone on strike! I recall gazing at the stars above the Maguuma, wondering what became of the druids.\nWe spent time gazing at the majesty of Augury Rock, wondering what trials awaited those who sought ascension.\nTruly, even with all the trials, tribulations, and near misses, I wouldn't change a day. It's our journeys that define us. I'm certain my old friend Yakkington feels the same."
+      },
+      {
+        "description": "The Norn: Legends and Legacies",
+        "page": 11,
+        "text": "Norn are driven by the desire to leave behind their legend—to be remembered forever due to their bravery, strength, and glory.\nTake the legend of Gunnar Poundfist. While not in a position of leadership, he is respected as a blacksmith and maintains ownership of a large norn settlement.\nThe reigning champion of the Great Norn Alemoot, Olaf Olafson, also shows these qualities. His prowess in hunting and in battle have earned him a position of respect among his people.\nYet not all legends are born of noble deeds. Take the tale of Svanir—during a hunt near Drakkar Lake, Svanir was driven to madness and transformed into the Nornbear that terrorized the countryside.\nEach norn strives to leave a legend that will stand the test of time, inspiring generations to come. Through that legend, the norn achieves immortality."
+      },
+      {
+        "description": "The Spirits of the Wild",
+        "page": 12,
+        "text": "Norn culture reveres the Spirits of the Wild, primitive animal incarnations of the different virtues and vices of their culture. Four spirits hold the highest honor.\nThe Spirit of Bear represents fortitude and self-reliance. Norn believe Bear is the mightiest of all spirits.\nRaven represents wisdom, cunning, trickery, and knowledge. It is associated with the Underworld, ghosts, and mysteries.\nSnow Leopard represents independence, strategy, and laughter in the face of danger. This spirit is depicted as stealthy and solitary.\nWolf is the incarnation of loyalty, ferocity, and strength in numbers. Wolf is often invoked as an ally when things are desperate."
+      }
+    ]
+  },
+  {
+    "name": "Justiciar Bauer's Memoirs",
+    "type": "paged",
+    "text": [
+      {
+        "description": "75 Zephyr, 1325 AE",
+        "page": 1,
+        "text": "I have forwarded Valis's request to begin his research on the bloodstone on to the confessor.\nKnowing the confessor's priorities, I emphasized the potential weaponization of the bloodstone's power and mentioned Operation Rebirth as only a secondary objective.\nI hate to be dishonest about our true intentions, but I am sure a faithful servant of the Unseen Ones such as the confessor will be forgiven when face-to-face with our god!"
+      },
+      {
+        "description": "86 Zephyr, 1325 AE",
+        "page": 2,
+        "text": "As anticipated, the confessor was most intrigued about the potential war uses of bloodstone magic and has approved our research project.\nWe're moving more foot soldiers and materials from Fort Vandal to the area surrounding the bloodstone and the nearby keep."
+      },
+      {
+        "description": "24 Phoenix, 1325 AE",
+        "page": 3,
+        "text": "These researchers are trying my patience! They're down there reading books instead of making real progress on the project.\nI don't need them to write a thesis about it, I just need them to arm my troops with weapons that will give us an edge! How hard can it be?"
+      },
+      {
+        "description": "42 Phoenix, 1325 AE",
+        "page": 4,
+        "text": "\"We need more books!\" they cry. \"We need more candles to read our books!\" Whiny scholars are the bane of my existence!\nWe didn't embed spies within every scholarly organization in Tyria just to steal new reading material to help put them to sleep at night!\nI swear, if any agent's cover is blown stealing an armful of moldy books, it will be someone's head!"
+      },
+      {
+        "description": "7 Scion, 1325 AE",
+        "page": 5,
+        "text": "They actually accomplished something, instead of just sitting around reading and debating ancient artifacts. Now there is a big hole in the bloodstone.\nHowever, I still have no practical magic, neither for my weapons nor for Operation Rebirth. I fail to see how that is actual \"progress.\"\nSo, to make a point, I put one of the lead researchers on the bloodstone... and executed him. Maybe his blood will wake that stupid rock up.\nAt the very least, that's one less whiny scholar I need to listen to..."
+      },
+      {
+        "description": "12 Colossus, 1325 AE",
+        "page": 6,
+        "text": "The slaves we brought in are getting bold. There have been a few minor cases of insubordination.\nNo full-scale revolt, but some of those assigned around the bloodstone tend to grow mad with fury and attack their guards.\nIt's probably due to the endless babbling of those damned scholars; it's starting to drive me mad!"
+      },
+      {
+        "description": "82 Phoenix, 1325 AE",
+        "page": 7,
+        "text": "Xera is asking for an update on progress for Operation Rebirth. The confessor is demanding the same on his weapons.\nMeanwhile, two of those scholars were arguing over who wrote a stupid set of notes. I flipped a coin and ordered the loser executed.\nHopefully that will light a fire under them! If not, I will literally light a fire. Under one of them."
+      },
+      {
+        "description": "65 Scion, 1326 AE",
+        "page": 8,
+        "text": "The entire bloodstone-harvesting team revolted today, and we had to have the guards put them down.\nA few ingrates tried to run off with bloodstone shards. Valis claims they had a major breakthrough during the chaos.\nPerhaps we should kill more slaves if that's what it takes for them to get any work done! I have ordered an increase in whippings until morale is improved."
+      },
+      {
+        "description": "48 Phoenix, 1327 AE",
+        "page": 9,
+        "text": "It disgusts me that I have to work with those filthy Inquest asura, but they possess information we need.\nOnce we've reclaimed our birthright in Kryta, we can turn our attention to repositioning humanity where it belongs—ruling over or eradicating these lesser beings.\nRisking our agent in the Durmand Priory seems to have paid off. They got those scholars some crusty old artifacts that have finally gotten the juices flowing!\nI know the confessor, though. He won't be happy until I have something that can deliver the queen's head to him in a box, fully armed and operational."
+      },
+      {
+        "description": "31 Zephyr, 1328 AE",
+        "page": 10,
+        "text": "The entire Pact Fleet flew over our backyard yesterday. I damn near had a heart attack thinking they were coming for us.\nWe're not ready for a fight like that! Looks like we won't need to worry about it, though. Mordremoth slapped them out of the sky like they were flies buzzing around its head.\nI hope this Unseen god of ours is as powerful as they say, especially if we ever go up against an Elder Dragon."
+      },
+      {
+        "description": "74 Zephyr, 1328 AE",
+        "page": 11,
+        "text": "Looks like those do-gooders pulled it off. Mordremoth is dead.\nThe confessor wrote to me to say that, with the Pact all but destroyed and with the leader of the Seraph incapacitated, the moment for the White Mantle to reveal itself is at hand.\nHe must be really scared of that Thackeray guy..."
+      },
+      {
+        "description": "72 Phoenix, 1328 AE",
+        "page": 12,
+        "text": "Inquisitor Matthias has always been a thorn in my side.\nHe's constantly questioning the devotion of my troops with his damned inquisitions, ensuring everything we do \"brings honor and glory to the Unseen Ones.\"\nI can't go to war with someone judging every tactical decision I make against their scripture!\nIt didn't take too much to convince him what an honor it would be to sacrifice his body for the glory of the Unseen Ones.\nLet him stab a bloodstone into his heart or whatever suits him. Either it fails and he dies, or it succeeds and he dies on the frontlines where I'll send him!"
+      },
+      {
+        "description": "2 Zephyr, 1329 AE",
+        "page": 13,
+        "text": "Our supreme leader arrived today. We have been ordered to tell no one for fear that interlopers will interrupt his grand plan. The moment of our vengeance is at hand.\nNothing will stand in the way of the White Mantle. We shall claim our birthright—first in Kryta and then the world. Glory to the Unseen Ones!"
+      },
+      {
+        "description": "14 Zephyr, 1329 AE",
+        "page": 14,
+        "text": "The girl who usually brings me my mail barged into my office today, rambling about a crack in the bloodstone and throwing notes and diagrams at me.\nSomehow, she knew about the ritual. I don't know what else she knew, but she was pretty annoying, so I took her head just to be sure.\nOnce the ritual is complete, we can proceed with our leader's virtuous pursuits!"
+      }
+    ]
+  },
+  {
+    "name": "Grand Savant Valis the Learned's Research Journal",
+    "type": "paged",
+    "text": [
+      {
+        "description": "86 Zephyr, 1325 AE",
+        "page": 1,
+        "text": "At last, a reply to our request has arrived. The confessor has authorized our work to harness the great stone's power.\nThe research is contingent upon making progress toward his primary goals of weapon development and strengthening our army.\nFor the edification of future generations of our sacred order, I have resolved to fully journal our undertakings."
+      },
+      {
+        "description": "14 Phoenix, 1325 AE",
+        "page": 2,
+        "text": "Our grand goal is to unlock the power contained within the bloodstone, for a two-fold purpose.\nThe first, ordered by the confessor himself, is to retake humanity's birthright and secure our homeland in Kryta using the power of the bloodstone.\nThe second, ordered by high Inquisitor Xera, is to awaken our wounded god, the Dire.\nThe first step in the process is learning about the stone itself so we can research ways to harvest the magic within."
+      },
+      {
+        "description": "25 Phoenix, 1325 AE",
+        "page": 3,
+        "text": "Notes on the bloodstone—scholarly opinions vary, but most agree that the stone is ancient, perhaps even having existed prior to the advent of humanity on this world.\nOur research suggest the stones were created by an ancient race known as the Seers, blood enemies of the Unseen Ones. It's fitting that we'll use their stones to bring the Unseen Ones back to glory!\nThe stone is one of five pieces of the original bloodstone, and it contains a vast supply of magic slowly seeping back into the world. If someone could tap it all at once, they'd be quite powerful."
+      },
+      {
+        "description": "60 Phoenix, 1325 AE",
+        "page": 4,
+        "text": "Aside from its primary purpose as a repository of magic, there are measurable phenomena that occur in proximity to the bloodstone.\nThe spirits of those killed on the stone are held within its energy field, unable to depart. In history, these souls were forced into auxiliary storage devices by our ancestors.\nBut it was for the bloodstone's magic that generations fought wars to determine who would control it.\nEven the Chosen could not stay away. Once freed from their prison at the Door of Komalie, many seem to have returned. They've been seen haunting near the bloodstone."
+      },
+      {
+        "description": "5 Scion, 1325 AE",
+        "page": 5,
+        "text": "The initial task of safely removing fragments from the stone for study has begun.\nCracking the outer shell proved...challenging. Not only did it require great force, but once we were through the outer shell, the drilling team was vaporized by a blast of red light.\nThank the Unseen Ones for slave labor! Once the commotion was over, I peered through the shell's crack and beheld the most beautiful of sights.\nBeyond the relatively dull and rocklike outer shell of the bloodstone lies a great field of bloodred crystals, not unlike a geode.\nWe have begun removing these crystal shards for further research and development."
+      },
+      {
+        "description": "40 Scion, 1325 AE",
+        "page": 6,
+        "text": "Our long vigil over the stone has given us important insight. Over time, the stone has grown larger as events excite the magic it contains—much like a balloon expands when heated.\nThe stone is nearly three times larger than it was when we first reclaimed it from the jungle.\nEven more impressive, crystals have recently begun growing on the exterior of the hole we drilled in the shell. They continue to expand outward.\nThis is a great boon, as it has made harvesting bloodstone shards that much easier."
+      },
+      {
+        "description": "60 Zephyr, 1326 AE",
+        "page": 7,
+        "text": "Progress is slow. My research on the harvested bloodstone shards has nearly stalled completely. The fragments refuse all attempts to extract their magic in an efficient manner.\nSlow-diffusing magic will not serve our purposes. Unseen ones, guide my thoughts that I might find the answers!\nThe bloodstone itself continues to grow. Over the past few days, hundreds of new crystals have appeared in the clearing surrounding the stone.\nThis phenomenon coincided with Zhaitan's death just days ago, and I would be foolish to assume the events were unrelated. It's amazing to think the stone could be affected from as far away as Orr!"
+      },
+      {
+        "description": "24 Scion, 1326 AE",
+        "page": 8,
+        "text": "Utilizing fragments as basic ritual implements is fruitless and not significantly superior to traditional foci. Crafting weapons directly from the materials exhibits only minor positive phenomena.\nPowdering the fragments (methods detailed in footnote 27b) further reduces its properties, rendering it as useful as dirt. Consuming said powder proved.. ill-advised.\nI am reduced to believing we require a key to unlock the power. I have reached out to my contacts in the inquest and spies within the Durmand Priory. They may have access to information I don't.\nThe justiciar has ordered me to package and deliver any bloodstone dust created in the shard extraction process. Our benefactors want to trade it for additional weapons and wares for our army.\nI would protest, but it's basically worthless to me anyway."
+      },
+      {
+        "description": "65 Scion, 1326 AE",
+        "page": 9,
+        "text": "Thank the Unseen Ones, we have finally had a breakthrough! There was a small slave revolt that was quickly contained by our zealots.\nIn the chaos, one of the dissidents was impaled upon a bloodstone shard. And yet he did not die. His body seemed to...accommodate the intrusion.\nWe've been going about this all wrong. Our methods have proven fruitless because we were not going far enough.\nWe will immediately shift our focus to the fusion of bloodstone and flesh.\nIf we're successful in this endeavor, perhaps the justiciar will get off my back about powering the jade constructs. I know it's a shame they've sat powerless for centuries, but come on."
+      },
+      {
+        "description": "45 Phoenix, 1327 AE",
+        "page": 10,
+        "text": "Inquisitor Matthias Gabrel has volunteered for the bloodstone-empowerment procedure. His piety and courage are both inspiring and ideal qualities for this great work.\nSpecially prepared shards of the stone will be used. Please find diagrams of the intended arrangement attached.\nHe will travel north to the keep on the morrow and will perform the procedure once preparations are complete.\nWe haven't yet found the key to harvesting magic from the shards. This is the missing piece of the puzzle.\nMy only regret is that I won't be there to oversee the experiment, but my place is here with the bloodstone."
+      },
+      {
+        "description": "2 Phoenix, 1328 AE",
+        "page": 11,
+        "text": "The Unseen Ones smile upon us. Our agents in the Durmand Priory have returned with what I hope will be the key to harnessing the bloodstone's power.\nThey have liberated a set of Seer artifacts from within the Durmand Priory archives.\nIt took us decades to embed agents deep enough within the Order to acquire access to the archives, but their efforts have paid off!\nMore happy news: our jade constructs are awakening in proximity to the stone. And yet, the justiciar refuses to inform the confessor until all our objectives have been accomplished.\nI have sent the final piece to Matthias. It completed the resources required for his transformation."
+      },
+      {
+        "description": "70 Phoenix, 1328 AE",
+        "page": 12,
+        "text": "Another dragon felled, and the stone reacted far more than when Zhaitan died. We have now harvested enough magic to activate the Unseen One's ancient guardians.\nWhile they are bound to large pillars and thus lack the mobility of jade constructs, their strength is far greater. They will make excellent defenders for our more critical locations."
+      },
+      {
+        "description": "13 Zephyr, 1329 AE",
+        "page": 13,
+        "text": "I have been ordered to double our efforts. With the increased harvest rate, we've begun experiencing more...side effects\nMagical storms have begun to appear in the area around the bloodstone, and the magic leaking out of the bloodstone seems to be driving our harvesting slaves mad with a sort of hunger for magic.\nThank the Unseen Ones that Kasandra isn't here to whine about it!\nA recent raid on our nearby keep resulted in Matthias's death and the halt of continued bloodstone infusions into humans.\nDespite this, Justiciar Bauer demands more results, both to have something to show the confessor and to help strengthen our fortifications around the bloodstone.\nIf the Pact's nonbelievers or that interloper on the Krytan throne should turn their attention our way, we must be prepared for them!"
+      },
+      {
+        "description": "17 Zephyr, 1329 AE",
+        "page": 14,
+        "text": "Justiciar Bauer has been especially cryptic recently and refuses to answer any of my inquiries into the status of our unseen god's resurrection.\nThis is despite the fact that he sent many of our resources and the majority of our harvested bloodstone shards up north to our keep prior to it being raided by filthy nonbelievers.\nI fear the worst, but pray the Dire survived the dastardly attack.\nJusticiar Bauer is ordering me down into a rickety mine shaft that he had dug for a reason he won't tell me, to oversee a ritual he won't explain to me, and to accomplish a goal he won't state.\nHow does he expect me to work under these conditions? I'll update my entry once I have some answers.\nThat nay-saying apprentice's constant lack of faith finally caught up with her.\nShe wouldn't shut up about the stone growing unstable, and she had the audacity to go over my head and contact the justiciar directly.\nHer warnings displeased the justiciar, so he had her beheaded atop the bloodstone. Good riddance!"
+      }
+    ]
+  },
+  {
+    "name": "Apprentice Kasandra's Diary",
+    "type": "paged",
+    "text": [
+      {
+        "description": "12 Phoenix, 1325 AE",
+        "page": 1,
+        "text": "I have arrived at the bloodstone to begin my apprenticeship under Valis. It's an honor to work on a project so critical to the Order, though I must admit my mentor seems a bit... eccentric.\nGenuises are often a little odd, so I go into the project with great enthusiasm and optimism!"
+      },
+      {
+        "description": "16 Phoenix, 1325 AE",
+        "page": 2,
+        "text": "I'd be lying if I said I didn't expect my assignment to be a bit more, let's just say, scientific.\nInstead of assisting on actual research, I've been given menial tasks like serving tea, delivering mail, and helping prepare lunch for the garrison.\nI'm starting to think I'll need to come in after hours if I want to accomplish any research of my own and get that \"real-world work experience\" I was promised."
+      },
+      {
+        "description": "26 Phoenix, 1325 AE",
+        "page": 3,
+        "text": "If I'm asked to carry another dusty tome to those bickering poseurs, I swear to the Unseen Ones, I will burn the garrison down!\nWhile they argue over whether the false gods, the Seers, or King Adelbern's great-granduncle's cat forged the stone, I've been coming in at night to do my own research.\nOf course they won't listen to me even if I do make a discovery, so I've begun mixing my notes in with the notes of the research team.\nI have no doubt they won't hesitate to take credit for someone else's discoveries. Insufferable hacks!"
+      },
+      {
+        "description": "42 Phoenix, 1325 AE",
+        "page": 4,
+        "text": "As anticipated, that brownnoser Phill was quick to take credit for my discovery regarding the spirits that are attracted to it, who can't seem to leave it behind and pass on.\nHard to imagine that anyone killed on the bloodstone could still be nearby, tethered for eternity to the bloodstone's magic. The Chosen must've returned when they were freed at the Door of Komalie.\nWhat confusion or purpose would compel them to return to the place of their sacrifice? What binds them here? Bloodstone must be as much a drug for them as it is for the living.\nTheir energy adds to the vortex of magic surrounding the bloodstone. Their deaths are a necessary sacrifice for the glory of the Unseen Ones, but a shame nevertheless."
+      },
+      {
+        "description": "2 Scion, 1325 AE",
+        "page": 5,
+        "text": "I fear there could be a catastrophic event if Valis continues with his plan to break through the shell of the bloodstone.\nEverything I've read about the bloodstone suggests that it holds an unimaginable amount of magic.\nUp to now, it has held strong... for millennia even. But if the shell is broken?\nLet's just hope the entire continent isn't blown up the second we crack the shell."
+      },
+      {
+        "description": "7 Scion, 1325 AE",
+        "page": 6,
+        "text": "Justiciar Bauer executed another research-team leader today for \"displaying a lack of progress.\"\nHe even had him killed atop the bloodstone since there was \"no sense in wasting the power of a perfectly good soul.\" This is blasphemy!\nNo faithful servant of the Unseen Ones deserves to be leashed to a stone for eternity just because they have unreachable goals and an unrealistic schedule!"
+      },
+      {
+        "description": "63 Scion, 1325 AE",
+        "page": 7,
+        "text": "Well, we didn't blow up Tyria, but as I feared, the bloodstone is no longer able to contain its power.\nBloodstone crystals have sprouted outside the core stone, and you can feel the magic seeping from the hole those idiots carved into the stone's shell.\nThe fool Valis thinks this is valuable since it makes harvesting the shards easier, but I think he is toying with a power he neither understands nor respects."
+      },
+      {
+        "description": "27 Phoenix, 1326 AE",
+        "page": 8,
+        "text": "I couldn't keep my concerns about the leaking bloodstone magic to myself any longer, so I revealed to Valis that I had been working after hours.\nThis nearly cost me my head, but when I proved to Valis that Phill's self-claimed discoveries were actually mine, it cost Phill his head instead.\nAs a result, I've been permitted to join the research team proper. You can get your own tea now, you hacks!\nDespite this good news, my warnings continue to fall on deaf ears."
+      },
+      {
+        "description": "65 Scion, 1326 AE",
+        "page": 9,
+        "text": "This is too much! Some slave came in and fell upon a shard. He bled all over my workstation!\nIf that weren't bad enough, the wound reacted oddly to the shard, and this has led Valis down a dark path.\nHe hopes to embed bloodstone shards in human test subjects to power them from within.\nThis is both unethical and exceptionally dangerous! I can't believe the higher-ups are permitting this!"
+      },
+      {
+        "description": "52 Phoenix, 1327 AE",
+        "page": 10,
+        "text": "I hate to admit it, but Savant Valis seems to have finally gotten something right.\nThe artifacts we liberated from the Durmand Priory were, in fact, the key required to draw the magic back out of the bloodstone shards.\nThe Seers must have anticipated our need to tap the magic within the bloodstone, and this device may be what they used to do so.\nI had hoped this would abort Valis's plan with Matthias, but it seems to have instead accelerated the timetable of that disgusting experiment.\nMay the Unseen Ones at least give him a quick release should the process warp his mind as I anticipate."
+      },
+      {
+        "description": "12 Colossus, 1327 AE",
+        "page": 11,
+        "text": "I've performed more calculations on the bloodstone.\nThe crack where the fools drilled continues to expand at a rate of a quarter of a meter per day, despite the halting of further violation of the core stone itself.\nAt this rate, the crack will encircle the entire bloodstone in a matter of months.\nI anticipate that, at that time, the stone will cease to be strong enough to contain it's magic, and it will rupture.\nI have calculated numerous projections on the fallout of catastrophic failure of the bloodstone, and needless to say, they are all bad."
+      },
+      {
+        "description": "83 Zephyr, 1328 AE",
+        "page": 12,
+        "text": "Mordremoth's death has greatly accelerated the growth of the crack in the bloodstone. It's no longer a matter of months until it ruptures, but a matter of days.\nEvery simulation I have run indicates that catastophic failure of the stone will create a blast large enough to engulf Kryta in magical fallout.\nWhat good are jade constructs and bloodstone-empowered freaks of nature if the homeland we plan to reclaim with them is a wasteland?\nDespite my impeccable calculations and tireless research, Valis refuses to look at my report! We're running out of time and options!"
+      },
+      {
+        "description": "73 Phoenix, 1328 AE",
+        "page": 13,
+        "text": "Every slave we've attempted to embed with bloodstone shards has seen only a moderate power increase, and the ensuing madness that overtook them forced us to put them down.\nDespite this, Matthias has agreed to undergo the procedure once a harvesting process is discovered.\nThe others are hailing him as some sort of grand martyr, but to me he is simply another fool craving power he doesn't fully comprehend."
+      },
+      {
+        "description": "13 Zephyr, 1329 AE",
+        "page": 14,
+        "text": "I was delivering mail today, and a letter addressed to Justiciar Bauer may have \"accidentally\" opened on its own.\nIt spoke about a mining operation nearby that leads directly under the bloodstone, and about some sort of ritual they plan to perform.\nThe letter was vague, so I don't know what they are planning, but with the bloodstone barely held together, I can only assume whatever it is may be the straw that breaks the dolyak's back.\nValis has given me no other option, and I am forced to go to Justiciar Bauer directly. I only hope he is more reasonable than \"Grand Savant Valis the Learned.\""
+      }
+    ]
+  },
+  {
+    "name": "Hunter's Journal",
+    "type": "paged",
+    "text": [
+      {
+        "page": 1,
+        "text": "I'm looking for a challenging hunt, and rumor has it there's a tiger harassing researchers in Metrica Province.\nI'll contact Researcher Hrappa at the Rana Landing Complex. Could this prey be worthy of my skills?"
+      },
+      {
+        "page": 2,
+        "text": "I'm told there may be two tigers! They've been tearing into the supplies and terrifying research subjects.\nThe evidence points east. I'll follow the tracks and see what turns up."
+      },
+      {
+        "page": 3,
+        "text": "The hunt is on! I discovered signs of a den, and - more importantly - I've picked up their trail.\nThe trail leads into southern Caledon. Maybe the local Hylek villagers know something."
+      },
+      {
+        "page": 4,
+        "text": "What luck! There are recent reports of a tiger sighting near the cliffs to the south!"
+      },
+      {
+        "page": 5,
+        "text": "I tracked them down! They fight with such ferocity! I wasn't able to bring them down before they escaped, but the trail is fresh. To Southsun Strait!\nI'll cut them off at Southsun Cove. If my luck holds, someone near Lion Point will have spotted them."
+      },
+      {
+        "page": 6,
+        "text": "Circumstances have changed. it seems the beasts are now attacking people. Did our confrontation drive them to this?\nSettlers have been killed and dragged off to the west. The stakes are rising rapidly - this hunt is no longer merely for sport. Lives are in danger.\nThey've fled west. The wet sands should preserve their tracks."
+      },
+      {
+        "page": 7,
+        "text": "Tracking them has been difficult in this terrain, but I think I've gained ground. Signs point east into Sparkfly Fen.\nI should search for the man-eaters' whereabouts around Verarium Delves."
+      },
+      {
+        "page": 8,
+        "text": "The vicious animals had slunk off into the cliffs near the Tower of Modius! They escapred me, but not without a fight. I must stop them!\nI tracked the vicious animals down and gravely wounded the male. Following its bloody trail should be simple enough."
+      },
+      {
+        "page": 9,
+        "text": "The brutes have led me to Lornar's Pass and are heading into ettin territory. I must be careful.\nThe nearby Ettinworks Lab is investigating ways to avoid ettin detection. Aiding them should give me ample opportunities to search the area."
+      },
+      {
+        "page": 10,
+        "text": "The local ettin chief seems to be fascinated with pets. It appears at least one of the tigers was held here in captivity for a time.\nI'm too late. They've already moved on. Signs point east into the Shiverpeak Mountains. I should search the Tribulation Caverns for clues."
+      },
+      {
+        "page": 11,
+        "text": "I've slain one the evil man-eaters! The cold and snow give me an advantage. The other creature fled, but this hunt will end soon."
+      },
+      {
+        "page": 12,
+        "text": "Hours of trudging through the snow, yet still the beast eludes me. I need to rest in Nolan before I continue the hunt.\nPerhaps I can learn something of value from the Nolan locals."
+      },
+      {
+        "page": 13,
+        "text": "The death toll rises. Nolan residents reported that an old soldier was attacked and killed not long before I arrived. His body was dragged west into the foothills.\nSearching west, I met a young charr tending a strawberry garden. Her tale sounded a bit suspect, but it's clear the tiger has turned east.\nI've picked up the trail again. If my suspicions prove true, it's lead me to the Crimson Plateau."
+      },
+      {
+        "page": 14,
+        "text": "I cornered her! Another brutal fight, but again she slipped away. She's escaped south fleeing for Martyr's Woods in the Plains of Ashford.\nI've lost the track. Hopefully the charr at Spirit Hunter Camp have seen something."
+      },
+      {
+        "page": 15,
+        "text": "Some charr at Spirit Hunter Camp tell me a tiger attacked them during the night. They fended the beast off without casualties.\nThe trail continues southeast. I suspect it leads to Loreclaw Expanse."
+      },
+      {
+        "page": 16,
+        "text": "I uncovered ample evidence of her passing near a separatist camp in Loreclaw Expanse.\nI've tracked her south, but her path is too treacherous for me to traverse. I'll cut her off at Secluded Glen."
+      },
+      {
+        "page": 17,
+        "text": "Incredible! A traveling priestess at Secluded Glen told me she saw the tiger pass through and — with no hesitation — proceed into the Dragonbrand.\nThe Brand is terrifying for a well-trained warrior — I can't imagine the courage that tiger must possess.\nI'll resume my search around Sentinel's Patch. If she somehow survived The Brand, that's her likely destination."
+      },
+      {
+        "page": 18,
+        "text": "A villager at Halkor Meadows is missing. Apparently the beast is still hungry for flesh.\nAn Ebon Vanguard member searching for the missing villager was mauled near the cliffs north of the village. I go north."
+      },
+      {
+        "page": 19,
+        "text": "The beast is slain! The countryside is finally safe from her murderous rampage!\nI'm exhausted. I've rarely seen creatures so relentless, so single-minded in their will to survive.\nTime to return to Bagred the Hunter, he'll want to hear the details of this hunt."
+      },
+      {
+        "page": 20,
+        "text": "Warming my sore bones by a norn campfire, I'm unsure how to wrap up this journal. I started this hunt seeking challenging game.\nI ended up with quite a bit more than I'd bargained for, tracking a pair of vicious creatures over vast territory. Their tenacity was unparalleled.\nIn the end, I'm pleased I could bring an end to the tigers' wanton violence, but a part of me can't help but wonder what drove these creatures to madness.\nSigned <Character name>, Great Hunter"
+      }
+    ]
+  }
+]

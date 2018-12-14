@@ -1,0 +1,68 @@
+[
+  {
+    "achievementId": 1,
+    "name": "An Achievement",
+    "bits": [
+      {
+        "type": "Achievement"
+      },
+      {
+        "id": 102,
+        "book": "Book 01"
+      },
+      {
+        "id": 103,
+        "book": "Book A"
+      }
+    ]
+  },
+  {
+    "achievementId": 2,
+    "name": "Another Achievement",
+    "bits": [
+      {
+        "id": 104,
+        "book": "Book 02"
+      },
+      {
+        "id": 105,
+        "book": "Book B"
+      }
+    ]
+  },
+  {
+    "achievementId": 3,
+    "name": "Yet Another Achievement",
+    "bits": [
+      {
+        "id": 106,
+        "book": "Book C",
+        "page": 1
+      },
+      {
+        "id": 107,
+        "book": "Book C",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "achievementId": 4,
+    "name": "YAA",
+    "bits": [
+      {
+        "type": "Achievement"
+      },
+      {
+        "id": 108,
+        "book": "Paged Book A",
+        "page": 1
+      },
+      {
+        "id": 109,
+        "book": "Paged Book A",
+        "page": 2
+      }
+    ]
+  }
+]

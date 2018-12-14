@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Book 01",
+    "type": "book",
+    "text": "The text of the book."
+  },
+  {
+    "name": "Book 02",
+    "type": "book",
+    "text": "The text of the book."
+  },
+  {
+    "name": "Book A",
+    "type": "book",
+    "text": "More book text."
+  },
+  {
+    "name": "Book B",
+    "type": "book",
+    "text": "More book text."
+  },
+  {
+    "name": "Book C",
+    "type": "paged",
+    "text": [
+      {
+        "description": "Book C, Vol. 1",
+        "page": 1,
+        "text": "The text of the first page."
+      },
+      {
+        "description": "Book C, Vol. 2",
+        "page": 2,
+        "text": "More book text from the second page."
+      }
+    ]
+  },
+  {
+    "name": "Paged Book A",
+    "type": "paged",
+    "text": [
+      {
+        "text": "The text of the first page.",
+        "page": 1
+      },
+      {
+        "text": "More book text from the second page.",
+        "page": 2
+      }
+    ]
+  }
+]

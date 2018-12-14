@@ -227,7 +227,7 @@
         }
 
         componentDidMount() {
-          fetch("https://floodbars.github.io/gw2/data/bookshelf-achievements.json")
+          fetch("https://floodbars.github.io/gw2/data/bookshelf-achievements.dummy.json")
             .then(res => res.json())
             .then(
               (result) => {
@@ -249,7 +249,7 @@
                 });
               }
             )
-          fetch("https://floodbars.github.io/gw2/data/bookshelf-books.json")
+          fetch("https://floodbars.github.io/gw2/data/bookshelf-books.dummy.json")
             .then(res => res.json())
             .then(
               (result) => {

@@ -850,70 +850,76 @@
     ]
   },
   {
-    "name": "Zinn's Study Guide",
+    "name": "Extinguished: The Rise and Fall of the Flame Legion",
     "type": "paged",
     "text": [
       {
-        "description": "Extinguished: The Rise and Fall of the Flame Legion, Vol. 1",
+        "description": "Vol. 1",
         "page": 1,
         "text": "The charr legions, commanded by the sorcerous Flame Legion, attacked the human kingdoms with great ferocity. They were driven by a blind zeal for their fiery gods, the Titans.\nThe charr struck at Ascalon first, using a cauldron imbued with ancient magics to conjure a rain of crystals from the sky. The largest of these crystals can still be seen in Pockmark Flats.\nThis event would come to be known as the Searing. After years of being kept at bay by the Great Northern Wall, the charr were free to reclaim their homeland.\nThe shamans of the Flame Legion were driven by more than the need to reclaim their homeland. They set their sights on vengeance and set out towards the other kingdoms of man."
       },
       {
-        "description": "Extinguished: The Rise and Fall of the Flame Legion, Vol. 2",
+        "description": "Vol. 2",
         "page": 2,
         "text": "Part of the legion marched west, to Kryta. Villages scattered, militias disbanded, and the human king fled the kingdom to escape the seemingly unstoppable army of the charr.\nOne force stood up to the advancing horde. The White Mantle, emboldened by their faith in new, unseen gods, faced the charr despite being desperately outnumbered.\nThe White Mantle bested the charr, but it was years before it was revealed that entities known as the Mursaat were responsible for the defeat. The Krytans had won, but at a great cost."
       },
       {
-        "description": "Extinguished: The Rise and Fall of the Flame Legion, Vol. 3",
+        "description": "Vol. 3",
         "page": 3,
         "text": "The cost of the Krytan victory over the charr pales in comparison to the cost paid by the people of Orr. There, as the charr approached Arah, one man turned to forbidden magics.\nVizier Khilbron, trusted advisor of King Reza, read a dark incantation from the Lost Scrolls. As the last word of the spell echoed within his tower, Orr sank into the waves.\nAfter these defeats, the charr began to lose ground. Even their victories in Ascalon lost ground and became an ongoing conflict that would last generations."
       },
       {
-        "description": "Extinguished: The Rise and Fall of the Flame Legion, Vol. 4",
+        "description": "Vol. 4",
         "page": 4,
         "text": "The Flame Legion, driven back from Kryta and eradicated at Orr, continued to fight in Ascalon. In the end, they summoned their false gods, the Titans.\nThe Titans arrived, not as gods, but as slaves to the Flameseeker - as foretold by the dragon, Glint.\nTheir presence in Tyria was devastating, yet short-lived, thanks to the intervention of a group of Chosen.\nA few among the charr saw through the Titans' deception. They saw their \"gods\" killed at the hands of mere humans, and with that, the seeds of rebellion were sown.\nAs the Flame Legion attempted to reestablish control of the charr legions, a group of rebels led by Pyre Fierceshot attacked their fortress. They defeated the shamans and their gods.\nOn that day, the victorious Pyre Fierceshot declared that the charr would worship no gods. The Flame Legion's control over the charr was destroyed."
-      },
+      }
+    ]
+  },
+  {
+    "name": "Elona: Land of the Golden Sun",
+    "type": "book",
+    "text": "The land of Elona lies to the southeast of the Crystal Desert, comprised of three provinces and the inhospitable sulfuric wastes known as the Desolation.\nTo the south lies the island province of Istan. Known for its massive navy, the Istani patrol the waters to stop hostile corsairs preying on merchant vessels.\nNorth of Istan lies Kourna. This militaristic province is recovering from the defeat and death of their leader, Warmaster Varesh Ossa, to servants of the fallen god Abbadon.\nThe final province of Elona is named Vabbi. Wealthy and cultured, Vabbi is ruled by clanmarshals, also referred to as princes.\nTo the west of Vabbi lies the Desolation. Home to the undead king Palawa Joko, no mortal can survive the sulfurous wastes."
+  },
+  {
+    "name": "The Human Gods",
+    "type": "book",
+    "text": "Humans currently worship a pantheon of gods, giving obeisance to six of them at once.\nBalthazar, the god of fire and war, is depicted as an armor-clad soldier wielding a greatsword and engulfed in flame.\nDwayna, depicted with feathered wings, is the goddess of life and air. Human legend says she was the first of the gods to arrive from the Mists.\nGrenth, the god of death and ice, imprisoned his predecessor, Dhuum, within the Hall of Judgment. He is depicted as having the body of a man and the skull of a beast.\nThe two-faced goddess of beauty and illusions, Lyssa, is known both as Lyss and Ilya and is often depicted engaged in an eternal dance.\nMelandru, the eldest of the human gods, is patron of nature and earth. She is often depicted as a dryad growing within the trunk of a tree.\nThe newest of the six human gods was born a mortal. Upon the defeat of the god of secrets, Abaddon, a woman named Kormir took up the mantle of the goddess of truth."
+  },
+  {
+    "name": "Prince Rurik: Heir Today, Gone Tomorrow",
+    "type": "book",
+    "text": "The Ascalonian royal line changed hands following an act of regicide during the third guild war as Duke Barradin relinquished the throne to the popular usurper Adelbern.\nAdelbern's son and heir, Rurik, was well liked by the people, in part due to his eagerness to be at the front of the battle against the charr.\nIn defiance of his father, the prince led to an exodus to Kryta in an attempt to help his people escape the charr.\nAlthough his people made it to safety, Rurik was slain at the mouth of the Frost Gate while holding off angry dwarves—Dagnar Stonepate and his Stone Summit kin.\nRurik's allies avenged their fallen prince, slaying Dagnar Stonepate within Thunderhead Keep. Later, they undertook a quest to Rurik's soul to rest, giving him a place in the Hall of Heroes."
+  },
+  {
+    "name": "Shiro Tagachi: Legacy of the Betrayer",
+    "type": "paged",
+    "text": [
       {
-        "description": "Elona: Land of the Golden Sun",
-        "page": 5,
-        "text": "The land of Elona lies to the southeast of the Crystal Desert, comprised of three provinces and the inhospitable sulfuric wastes known as the Desolation.\nTo the south lies the island province of Istan. Known for its massive navy, the Istani patrol the waters to stop hostile corsairs preying on merchant vessels.\nNorth of Istan lies Kourna. This militaristic province is recovering from the defeat and death of their leader, Warmaster Varesh Ossa, to servants of the fallen god Abbadon.\nThe final province of Elona is named Vabbi. Wealthy and cultured, Vabbi is ruled by clanmarshals, also referred to as princes.\nTo the west of Vabbi lies the Desolation. Home to the undead king Palawa Joko, no mortal can survive the sulfurous wastes."
-      },
-      {
-        "description": "The Human Gods",
-        "page": 6,
-        "text": "Humans currently worship a pantheon of gods, giving obeisance to six of them at once.\nBalthazar, the god of fire and war, is depicted as an armor-clad soldier wielding a greatsword and engulfed in flame.\nDwayna, depicted with feathered wings, is the goddess of life and air. Human legend says she was the first of the gods to arrive from the Mists.\nGrenth, the god of death and ice, imprisoned his predecessor, Dhuum, within the Hall of Judgment. He is depicted as having the body of a man and the skull of a beast.\nThe two-faced goddess of beauty and illusions, Lyssa, is known both as Lyss and Ilya and is often depicted engaged in an eternal dance.\nMelandru, the eldest of the human gods, is patron of nature and earth. She is often depicted as a dryad growing within the trunk of a tree.\nThe newest of the six human gods was born a mortal. Upon the defeat of the god of secrets, Abaddon, a woman named Kormir took up the mantle of the goddess of truth."
-      },
-      {
-        "description": "Prince Rurik: Heir Today, Gone Tomorrow",
-        "page": 7,
-        "text": "The Ascalonian royal line changed hands following an act of regicide during the third guild war as Duke Barradin relinquished the throne to the popular usurper Adelbern.\nAdelbern's son and heir, Rurik, was well liked by the people, in part due to his eagerness to be at the front of the battle against the charr.\nIn defiance of his father, the prince led to an exodus to Kryta in an attempt to help his people escape the charr.\nAlthough his people made it to safety, Rurik was slain at the mouth of the Frost Gate while holding off angry dwarves—Dagnar Stonepate and his Stone Summit kin.\nRurik's allies avenged their fallen prince, slaying Dagnar Stonepate within Thunderhead Keep. Later, they undertook a quest to Rurik's soul to rest, giving him a place in the Hall of Heroes."
-      },
-      {
-        "description": "Shiro Tagachi: Legacy of the Betrayer, Vol. 1",
-        "page": 8,
+        "description": "Vol. 1",
+        "page": 1,
         "text": "The Canthan continent has a rich and turbulent history. A long series of events shaped not only the culture, but also the geography of the land.\nOver 200 years ago, on the last day of the Harvest Festival, Emperor Angsiyan was betrayed and murdered by his bodyguard, Shiro Tagachi.\nAlerted by the quick actions of a ritualist involved in the Harvest Ceremony, a united force of Kurzicks and Luxons engaged Tagachi in battle.\nAfter a brief engagement, only two remained: the Luxon champion, Archemorus, and the Kurzik champion, Viktor. The arrival of a third—the Assassin Vizu—turned the tide of battle against Tagachi.\nVizu crippled the betrayer, and the champions used that moment to deal Shiro a fatal blow. With his dying breath, Shiro drained the fallen emperor's soul and let out a great wail.\nThis death cry unleashed a cataclysmic wave of energy known as the Jade Wind. It turned forest to stone and water to jade.\nShiro's plans were defeated, but the damage had been done. The lower half of Cantha was devastated by the Jade Wind, and the Emperor was dead."
       },
       {
-        "description": "Shiro Tagachi: Legacy of the Betrayer, Vol. 2",
-        "page": 9,
+        "description": "Vol. 2",
+        "page": 2,
         "text": "While the Luxons and Kurzicks adapted to their new environment, the effects of the Jade Wind were still being felt some 200 years later.\nThen, a great plague struck Cantha. Thousands fell to illness, and their bodies mutated into hideous beasts. Those who met this fate were referred to as the Afflicted.\nAbominations began to appear in every corner of the kingdom. The half-brother of the emperor, Headmaster Togo of the Shing Jea Monastery, vowed to find the source of this plague.\nShiro's forces regathered, and with the arrival of powerful Shiro'ken, he assaulted the emperor's palace. Master Togo sacrificed his life to save his half-brother and emperor.\nUnfortunately, Shiro needed the blood of Angsiyan, not the emperor himself, and as Togo's blood fell to the floor, Shiro's mortality was renewed. He returned.\nYet, with the advantages of mortality also come the risks of being mortal. A group of heroes led by the monk Mhenlo and empowered by the dragon Kuunavang faced and defeated Shiro.\nThese events allowed the xenophobic Ministry of Purity to take power. They forced the Tengu to leave Cantha and ushered in an era of isolation that continues to this day."
-      },
-      {
-        "description": "There with Yakkington: A Travelers Tale Prologue",
-        "page": 10,
-        "text": "When Professor Yakkington and I left our home, I anticipated a good deal of danger. I couldn't possibly have expected everything that occurred.\nTake, for example, the misunderstanding between Rotscale and Yakkington in Majesty's Rest. We had no interest in tomb robbing, but frankly, diplomacy isn't really an option with the undead.\nThen there was our short period of enslavement by the Stone Summit. If it weren't for a dredge slave uprising, We would still be shuttling materials deep in Sorrow's Furnace.\nStill, nothing compares to our trip to the Ring of Fire Islands! Not only did we end up in the shadow of an active volcano, we also arrived during the Titan assault against the Mursaat.\nIt wasn't all screaming and terror. If it were, Yakkington would have gone on strike! I recall gazing at the stars above the Maguuma, wondering what became of the druids.\nWe spent time gazing at the majesty of Augury Rock, wondering what trials awaited those who sought ascension.\nTruly, even with all the trials, tribulations, and near misses, I wouldn't change a day. It's our journeys that define us. I'm certain my old friend Yakkington feels the same."
-      },
-      {
-        "description": "The Norn: Legends and Legacies",
-        "page": 11,
-        "text": "Norn are driven by the desire to leave behind their legend—to be remembered forever due to their bravery, strength, and glory.\nTake the legend of Gunnar Poundfist. While not in a position of leadership, he is respected as a blacksmith and maintains ownership of a large norn settlement.\nThe reigning champion of the Great Norn Alemoot, Olaf Olafson, also shows these qualities. His prowess in hunting and in battle have earned him a position of respect among his people.\nYet not all legends are born of noble deeds. Take the tale of Svanir—during a hunt near Drakkar Lake, Svanir was driven to madness and transformed into the Nornbear that terrorized the countryside.\nEach norn strives to leave a legend that will stand the test of time, inspiring generations to come. Through that legend, the norn achieves immortality."
-      },
-      {
-        "description": "The Spirits of the Wild",
-        "page": 12,
-        "text": "Norn culture reveres the Spirits of the Wild, primitive animal incarnations of the different virtues and vices of their culture. Four spirits hold the highest honor.\nThe Spirit of Bear represents fortitude and self-reliance. Norn believe Bear is the mightiest of all spirits.\nRaven represents wisdom, cunning, trickery, and knowledge. It is associated with the Underworld, ghosts, and mysteries.\nSnow Leopard represents independence, strategy, and laughter in the face of danger. This spirit is depicted as stealthy and solitary.\nWolf is the incarnation of loyalty, ferocity, and strength in numbers. Wolf is often invoked as an ally when things are desperate."
       }
     ]
+  },
+  {
+    "name": "There with Yakkington: A Travelers Tale Prologue",
+    "type": "book",
+    "text": "When Professor Yakkington and I left our home, I anticipated a good deal of danger. I couldn't possibly have expected everything that occurred.\nTake, for example, the misunderstanding between Rotscale and Yakkington in Majesty's Rest. We had no interest in tomb robbing, but frankly, diplomacy isn't really an option with the undead.\nThen there was our short period of enslavement by the Stone Summit. If it weren't for a dredge slave uprising, We would still be shuttling materials deep in Sorrow's Furnace.\nStill, nothing compares to our trip to the Ring of Fire Islands! Not only did we end up in the shadow of an active volcano, we also arrived during the Titan assault against the Mursaat.\nIt wasn't all screaming and terror. If it were, Yakkington would have gone on strike! I recall gazing at the stars above the Maguuma, wondering what became of the druids.\nWe spent time gazing at the majesty of Augury Rock, wondering what trials awaited those who sought ascension.\nTruly, even with all the trials, tribulations, and near misses, I wouldn't change a day. It's our journeys that define us. I'm certain my old friend Yakkington feels the same."
+  },
+  {
+    "name": "The Norn: Legends and Legacies",
+    "type": "book",
+    "text": "Norn are driven by the desire to leave behind their legend—to be remembered forever due to their bravery, strength, and glory.\nTake the legend of Gunnar Poundfist. While not in a position of leadership, he is respected as a blacksmith and maintains ownership of a large norn settlement.\nThe reigning champion of the Great Norn Alemoot, Olaf Olafson, also shows these qualities. His prowess in hunting and in battle have earned him a position of respect among his people.\nYet not all legends are born of noble deeds. Take the tale of Svanir—during a hunt near Drakkar Lake, Svanir was driven to madness and transformed into the Nornbear that terrorized the countryside.\nEach norn strives to leave a legend that will stand the test of time, inspiring generations to come. Through that legend, the norn achieves immortality."
+  },
+  {
+    "name": "The Spirits of the Wild",
+    "type": "book",
+    "text": "Norn culture reveres the Spirits of the Wild, primitive animal incarnations of the different virtues and vices of their culture. Four spirits hold the highest honor.\nThe Spirit of Bear represents fortitude and self-reliance. Norn believe Bear is the mightiest of all spirits.\nRaven represents wisdom, cunning, trickery, and knowledge. It is associated with the Underworld, ghosts, and mysteries.\nSnow Leopard represents independence, strategy, and laughter in the face of danger. This spirit is depicted as stealthy and solitary.\nWolf is the incarnation of loyalty, ferocity, and strength in numbers. Wolf is often invoked as an ally when things are desperate."
   },
   {
     "name": "Justiciar Bauer's Memoirs",

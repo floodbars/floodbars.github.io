@@ -1,5 +1,71 @@
 [
   {
+    "achievementId": 3999,
+    "name": "Bookworm",
+    "bits": [
+      {
+        "book": "A Brief History of Cantha"
+      },
+      {
+        "book": "Behaviors of Risen Beasts"
+      },
+      {
+        "book": "Biography of Gwen Thackeray"
+      },
+      {
+        "book": "Biography of Ogden Stonehealer"
+      },
+      {
+        "book": "Eternal Alchemy of the Stars"
+      },
+      {
+        "book": "Everyday Healing: Gift of the Monk"
+      },
+      {
+        "book": "How Kormir Did It"
+      },
+      {
+        "book": "Humans of Elona"
+      },
+      {
+        "book": "Koss on Koss"
+      },
+      {
+        "book": "Malomedies's Observational Tips"
+      },
+      {
+        "book": "Raptor Training and Care"
+      },
+      {
+        "book": "Skies of Nightfall"
+      },
+      {
+        "book": "Spirits of the Wild"
+      },
+      {
+        "book": "Star Chart Basics"
+      },
+      {
+        "book": "Taming Elusive Beasts"
+      },
+      {
+        "book": "The Genius of Vekk"
+      },
+      {
+        "book": "The Grace of Melandru"
+      },
+      {
+        "book": "The Movement of the World"
+      },
+      {
+        "book": "The Reign of Palawa Joko"
+      },
+      {
+        "book": "You and Your Springer"
+      }
+    ]
+  },
+  {
     "achievementId": 4387,
     "name": "Readathon",
     "bits": [

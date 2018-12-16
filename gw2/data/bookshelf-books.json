@@ -15,6 +15,36 @@
     "text": "P is for Praise. Do that every day.\nR is for Raze, if parents disobey.\nA is for Army. Joko has a few.\nI is for Iberu, Joko's number two.\nS is for Sunspear. Turn them all in!\nE is for Eternal Monarch, who always will win."
   },
   {
+    "name": "Behaviors of Risen Beasts",
+    "type": "book",
+    "text": "Risen creatures display a wide variety of behaviors that most experts would classify as \"hostile,\" both to natural Elonian wildlife and to seasoned explorers alike. This volume contains a distillation of firsthand discoveries and experiments devoted to unraveling the mysteries of this corruption and the methods used to neutralize it.\nUsing observational logs from Kamma's countless hours within the United Arcanist Lab, readers will get an inside look at the most minute details of her fascinating study on Risen behavior and anatomy.\nThis fourth edition printing contains a special foreword by an anonymous testing associate Kamma recruited during her experiments on Risen tissue."
+  },
+  {
+    "name": "Biography of Gwen Thackeray",
+    "type": "book",
+    "text": "Shaped by a life of loss and victory, driven by ferocity and cunning, Gwen Thackeray is indisputably one of Ascalon's most influential post-Searing figures.\nA mere child of ten at the onset of the charr invasion, Gwen spent the better part of a decade enslaved to Ascalon's bestial conquerors. From her failed first escape attempt to her ultimate victory over the charr in the freeing of revolutionary Pyre Fierceshot, Captain Thackeray's incredible life has been the subject of fierce debate and detailed historical research.\nTo the people of her homeland, she is and forever will be known as a true Hero of Ascalon. Yet to her enemies, hushed whispers speak of a terrifying foe known by a more ominous title: Goremonger.\nRead along as our team of experts delves into the fascinating history of this larger-than-life her of humanity!"
+  },
+  {
+    "name": "Biography of Ogden Stonehealer",
+    "type": "book",
+    "text": "A gifted healer and faithful follower of the Great Dwarf, Ogden Stonehealer has devoted his life to the gathering and preservation of knowledge throughout Tyria.\nFrom his home within the Durmand Priory, Stonehealer serves the many races of our world as a living compendium, a veritable library of lore reaching back to the days of yore.\nBut a life such as this does not begin in the quiet halls of academia. When the Elder Dragons threatened to bring ruin to the dwarves, a great battle raged from deep beneath the surface of our world to its highest mountain peaks. The Great Dwarf and the Great Destroyer met head-on, and the fate of all dwarves was forged in the fires of war."
+  },
+  {
+    "name": "Eternal Alchemy of the Stars",
+    "type": "book",
+    "text": "Do you seek new meaning in the age-old quandaries of the Eternal Alchemy? Then look no further than the lens of your telescope! In his exciting literary debut, Pilkk explores the previously undiscovered connections between the Eternal Alchemy and the stars above. About the author:\nA merchant by trade, Pilkk spent many a night in the Cursed Shores staring at the sky, pondering the Eternal Alchemy. His early studies at the Durmand Priory yielded few answers and greater questions, plaguing Pilkk day in and out. After years of unanswered questions, he turned his queries to the stars. Much to his surprise, they replied.\nDespite controversy over Pilkk's qualifications, scholars and laypeople alike find his lines of inquiry both insightful and easy to understand. As a result of his studies, Pilkk was awarded the \"Unexpected Brilliance\" award by the Durmand Priory."
+  },
+  {
+    "name": "Everyday Healing: Gift of the Monk",
+    "type": "book",
+    "text": "Do you seek the divine favor of the gods but have yet to receive their blessed power? Fear not and look no further, for you already have the power within you.\nSince the ancient professions coalesced, the monks of Tyria have been harnessing this gift, perfecting a unique form of prayer-based healing that mitigates the woes of modern life and conditions their acolytes into warriors of peace and righteousness.\nIn this easy-to-follow book, we'll provide all burgeoning monks with a guaranteed path to improving their form and reducing painful overextension.\nRemember, the road is long, but it need not be taken alone. Share your journey with a friend, because as the old saying goes: a friend on the path's worth your life by half."
+  },
+  {
+    "name": "How Kormir Did It",
+    "type": "book",
+    "text": "There are few humans in Tyria's history who can say they've challenged a god. Fewer still can claim they defeated one. Yet only one can claim to have ascended our mortal plane, becoming a god herself.\nKormir, Goddess of Order, Spirit, and Truth, began her rise to godhood as a decorated Spearmarshal. Even in life, she sought to bring order from chaos, leading the charge against criminals and corsairs who threatened the lives of the innocent.\nIn this exciting collection, Kormir's loyal Sunspear compatriots speak of her mortal years, how she survived her confrontation with the Hunger, the grand battle against the fallen god, Abaddon, and her ultimate ascension to the pantheon."
+  },
+  {
     "name": "How to Grow a Choya",
     "type": "book",
     "text": "Don't.\nBut if you absolutely must (for example, if Irio said you couldn't and laughed at you), a deep clay pot as long as your arm is recommended. Turn to page 6 for potting instructions."
@@ -25,14 +55,49 @@
     "text": "One cannot speak of Elona's rich and splendorous history without first speaking of the people that made it so. These civilizations, reaching back over a thousand years to the founding of the Land of the Golden Sun, laid the bedrock of our great nation and guaranteed countless millennia of prosperity.\nExplore the fascinating history of Elonian culture in our comprehensive guide, reaching across scorching sands and extravagant cities, soaring mountaintops and desolate wastelands.\nWe'll examine the traditional dances of the Vabbian Garden of Seborhin, bear witness to the storied healing arts of the Temple of Kormir, and spend a week in the desert with the Malaki people learning the same techniques they use to survive in the harsh Elonian sun."
   },
   {
+    "name": "Koss on Koss",
+    "type": "book",
+    "text": "I am Koss Dejarin, Sunspear and protector of Elona. Many writers have tried to chronicle my journey from nobleman to warrior to simple farmer, but none of them has been me. And so it was that I set out to remedy this, taking up the pen in lieu of the spear to set the record straight once and for all.\nPerhaps you've heard of my relationship with corsairs throughout Elona, and the sacrifices I've had to make to keep their swords from our throats. Perhaps you've heard of how my father disowned me for joining the Sunspears. Perhaps you've heard of my adventures with the Tyrian hero and the final fall of Abaddon.\nOr perhaps you've heard none of these things. Regardless of where you stand, I assure you that this autobiography is the final word on my life, and the only side of my story worth believing."
+  },
+  {
     "name": "Let's Hug Koss",
     "type": "book",
     "text": "Look, it's Koss!\nKoss is Boss.\nLet's hug Koss.\nNow Koss is cross."
   },
   {
+    "name": "Malomedies's Observational Tips",
+    "type": "book",
+    "text": "From the mind of Malomedies, master astronomer and mathematician, comes the ultimate collection of tips, tools, and tricks for stargazers new and old alike! Piecing together a lifetime's worth of research, Malomedies's students offer a rare glimpse into their master's brilliance through easy-to-digest lessons and dictums.\nAre you a budding apprentice? A seasoned master? This collection has something for everyone.\nDiscover which materials are most appropriate in sun-viewing telescope lens filters, marvel at Malomedies's simple schema for interpreting binary and trinary star system alignments, and much more!"
+  },
+  {
+    "name": "Raptor Training and Care",
+    "type": "book",
+    "text": "Recognized as Elona's supreme authorities on raptor training and care, Aksim and Tasa offer up their expert knowledge in this comprehensive guidebook on creating a lasting bond with your spiny saurian.\nLearn all there is to know about raptor behavior, positive reinforcement, grooming, and proper riding techniques. Whether you're looking for a partner to race across the dunes of the Crystal Oasis or you just want a loyal companion to guide you through the busy streets of Amnoon, this guide is sure to give readers a deeper appreciation for the lifelong bond they can build with their raptor.\nNot sure if a raptor is right for you? Visit Aksim's raptor stable in the Crystal Oasis to hear about the benefits of raptor ownership firsthand."
+  },
+  {
+    "name": "Skies of Nightfall",
+    "type": "book",
+    "text": "Across Elona, the prophecy of Nightfall is one of our most well-known but least-understood texts.\nNow, using the analytical techniques of Malomedies, we can finally explore the world as it was leading up to Abaddon's calamitous escape attempt from the Realm of Torment. Through knowledge hidden in the stars, we can see firsthand how Varesh Ossa's plot unfolded with a clarity unlike any seen before.\nExperience a brand-new side of this monumental historical event, learning invaluable techniques in the art of astronomical divination along the way!"
+  },
+  {
+    "name": "Spirits of the Wild",
+    "type": "book",
+    "text": "The norn city of Hoelbrak stands as a testament to a culture born of defiance; defiance both of the elements and of the Elder Dragon that sought to end their lives.\nWhen Jormag threatened to bury the norn in a hellscape of ice and frost, the norn turned to their spirits: Wolf. Bear. Raven. Snow Leopard. The norn do not credit their survival to themselves, but to these Spirits of the Wild.\nIn this updated compendium, renowned norn historian Thyrie Bylund explores the fascinating relationship between the norn and their spirits. Through a combination of written firsthand accounts and oral histories, Bylund discovers the very real effect these spirits have on the norn and all who live alongside them."
+  },
+  {
     "name": "Star Chart Basics",
     "type": "book",
     "text": "Looking to go from apprentice to master in the art of observing, charting and interpreting the stars? Then break out your telescope and switch up your sleep schedule, because this comprehensive guide from Scholar Fatima (author of \"Star Charts,\" \"Advanced Star Charts,\" and the best-selling \"A Fool's Guide to Star Charts\") is the first and last resource you'll ever need!\nLearn the basics of ascension and declination notation, the most ideal times of the lunar cycle to make observations, proper drawing techniques, and even weather-prediction tips to ensure you always have the best possible start-carting conditions."
+  },
+  {
+    "name": "Taming Elusive Beasts",
+    "type": "book",
+    "text": "A ranger's skill is oft demonstrated by their menagerie of tamed beasts. From bears to bristlebacks and beyond, the successful ranger knows the secrets of communicating with these creatures multifarious. In this fascinating series of personal accounts, ex-corsair and ranger extraordinaire Abasi details the complex intricacies of these relationships.\nUsing a suite of skills typical to rangers of any experience level, Abasi demonstrates proven methods for taming beasts of every shape and size using the proper body language, sounds and tools. \"It's a back and forth,\" explains Abasi. \"It's a negotiation in a different language, and each creature has its own language to master.\""
+  },
+  {
+    "name": "The Genius of Vekk",
+    "type": "book",
+    "text": "When the Great Destroyer threatened to turn its ire on the free peoples of Tyria, no single race stood alone in the conflict that followed, and no single asuran challenged the evil of this tragic era more so than Vekk.\nFollow his journey in this comprehensive volume, from his beginnings as a simple elementalist to the indelible legacy he left as one of Tyria's greatest heroes.\nPraise for \"The Genius of Vekk\":\n\"Combining written accounts from the era along with the most recent historical findings, this incredible biography covers everything from Vekk's knowledge of Scrying Pools to the emergence of asura gates in Tyria. I came away astounded at the depth and detail presented, and I would recommend this biography to anyone with an interest in the period.\"\n—Arcanist Timble, Durmand Priory"
   },
   {
     "name": "The Grace of Melandru",
@@ -43,6 +108,16 @@
     "name": "The Magic Sand Lion",
     "type": "book",
     "text": "\"This way!\" he said, as the followed the tracks across the Kournan dunes.\n\"Look at the size of those paw prints!\" she said.\n\"Wait, what'll we do when we catch it?\" he asked.\n\"Ride it!\" she said. \"But you first. In case it's hungry.\""
+  },
+  {
+    "name": "The Movement of the World",
+    "type": "book",
+    "text": "Our world is constantly in motion, be it the tides of time, the tides of war, or the tides of the sea that swell and churn, covering kingdoms lost and revealing the lands of old.\nDecimus the Historian takes up his pen once more in this stunning essay on the events that have shaped our world, both figuratively and quite literally. As the guilds expanded and cultural revolutions pushed the races of Tyria closer together, our world shifted to one of modernity and prosperity.\nBut as the Elder Dragons woke and unnatural cataclysms tore open the flesh of the world, the face of Tyria was forever altered, and new conflicts threaten it in ways heretofore unseen. Humanity is in decline, the balance of power shifting. Only through careful examination of the past can we hope to change our future."
+  },
+  {
+    "name": "The Reign of Palawa Joko",
+    "type": "book",
+    "text": "Marvel, all! For the finest compendium of Palawa Joko's deeds has finally been written, praise be unto his name!\nFrom his mighty throne in the Bone Palace, deep within the Desolation, the great Palawa Joko inspires righteous fear and complete devotion from all corners of Elona. Press on, dear reader, and learn of his triumph over Varesh Ossa, his conflict with Mad King Thorn, and the inevitable rise of his elite Mordant Crescent.\nImmerse yourself in the only historical text to accurately describe the incredible, world-changing achievements of the great Palawa Joko. The Elon River was diverted, the Bone Wall was constructed, yet so much remains in our future! Read on, friends, and bear witness to the brilliance of our savior, our leader, Palawa Joko!"
   },
   {
     "name": "The Terrible Choya",

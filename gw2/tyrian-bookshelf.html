@@ -35,7 +35,7 @@
         }
 
         listAchievementIds() {
-          return ACHIEVEMENTS.map(x => x["achievementId"]);
+          return this._achievements.map(x => x["achievementId"]);
         }
 
         generateDummyProgress() {
@@ -140,6 +140,37 @@
           );
         }
       }
+      
+      class Preview extends React.Component {
+        render() {
+          var book = this.props.book;
+          if (!book) {
+            return ( 
+              <div className="card">
+                <div className="card-body text-secondary">
+                  No book selected to preview.
+                </div>
+              </div>
+            );
+          }
+
+          if (book.status == "locked") {
+            return (
+              <LockedBookPreview book={book} />
+            );
+          }
+
+          if (book.type == "paged" || book.type == "book-paged") {
+            return (
+              <PagedBookPreview book={book} />
+            );
+          } else {
+            return (
+              <BookPreview value={book} />
+            );
+          }
+        }
+      }
 
       class BookPreview extends React.Component {
         render() {
@@ -148,7 +179,9 @@
             <div className="card">
               <div className="preview card-body">
                 <h4 className="card-title">{book.name}</h4>
-                {book.text}
+                {book.text.split("\n").map((paragraph, index) => (
+                  <p key={"p-" + index}>{paragraph}</p>
+                ))}
               </div>
             </div>
           );
@@ -205,7 +238,9 @@
                 <div className="card-header">{this.props.page.description}</div>
               }
               <div className="preview card-body">
-                {text}
+                {text.split("\n").map((paragraph, index) => (
+                  <p key={"p-" + index}>{paragraph}</p>
+                ))}
               </div>
             </div>
           );
@@ -414,29 +449,6 @@
             )
         }
         
-        renderPreview() {
-          var book = this.state.preview;
-          if (!book) {
-            return;
-          }
-
-          if (book.status == "locked") {
-            return (
-              <LockedBookPreview book={book} />
-            );
-          }
-
-          if (book.type == "paged" || book.type == "book-paged") {
-            return (
-              <PagedBookPreview book={book} />
-            );
-          } else {
-            return (
-              <BookPreview value={book} />
-            );
-          }
-        }
-        
         previewBook(book) {
           var newState = {
             achievements: this.state.achievements,
@@ -470,7 +482,7 @@
                   </div>
                 </div>
                 <div className="col-sm-8 h-100" style={{overflowY: "auto"}}>
-                  {this.renderPreview()}
+                  <Preview book={preview} />
                 </div>
               </div>
               </div>

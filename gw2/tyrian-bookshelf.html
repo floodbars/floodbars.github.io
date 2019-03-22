@@ -27,18 +27,17 @@
   <body>
     <div id="root" class="container-fluid mh-100"></div>
     <script type="text/babel">
+      function randomBoolean() {
+          return (Math.floor(Math.random()*2) % 2) == 0;
+      }
       class BookRepository {
-      // TODO: metadata on how to unlock the achievements
+      // TODO: metadata on how to unlock the achievements, authors, subtitles
         constructor(books, achievements) {
           this._books = books;
           this._achievements = achievements;
         }
 
-        listAchievementIds() {
-          return this._achievements.map(x => x["achievementId"]);
-        }
-
-        generateDummyProgress() {
+        generateCompleteProgress() {
           return this._achievements.map(x => {
               return {
                 bits: [],
@@ -46,6 +45,38 @@
                 done: true,
                 id: x.achievementId,
                 max: x.bits.length
+              }
+            });
+        }
+
+        // Generate random partial progress
+        generatePartialProgress() {
+          return this._achievements.map(achievement => {
+              const maxBits = achievement.bits.length;
+              var isDone = randomBoolean();
+              var bits = [];
+              var current = maxBits;
+              if (!isDone) {
+                for (var bit = 0; bit < maxBits; bit++) {
+                  var isBitSet = randomBoolean();
+                  if (isBitSet) {
+                    bits.push(bit);
+                  } else {
+                    current--;
+                  }
+                }
+                // Just in case it does turn out we did complete this achievement.
+                if (current == maxBits) {
+                  isDone = true;
+                  bits = [];
+                }
+              }
+              return {
+                bits: bits,
+                current: current,
+                done: isDone,
+                id: achievement.achievementId,
+                max: maxBits
               }
             });
         }
@@ -65,14 +96,22 @@
 
           progression.forEach(progress => {
             var achievement = achievements[progress.id];
+            if (achievement == null) {
+                return;
+            }
             achievement["bits"]
               .map((bit, index) => {
-                var isDone = progress["done"] || progress["bits"].includes(index + 1);
+                var isDone = progress.done || progress.bits.includes(index);
                 if (isDone) {
                   var bookName = bit["book"];
                   if (bookName) {
                     if (bit["page"]) {
-                      books[bookName].text.find(x => x.page == bit.page).isUnlocked = true;
+                        var book = books[bookName];
+                        if (book == null) {
+                            console.log("Unable to find book with name: " + bookName);
+                        } else {
+                            book.text.find(x => x.page == bit.page).isUnlocked = true;
+                        }
                     } else {
                       books[bookName].status = "complete";
                     }
@@ -262,7 +301,7 @@
         }
 
         componentDidMount() {
-          fetch("https://floodbars.github.io/gw2/data/bookshelf-achievements.dummy.json")
+          fetch("https://floodbars.github.io/gw2/data/bookshelf-achievements.json")
             .then(res => res.json())
             .then(
               (result) => {
@@ -284,7 +323,7 @@
                 });
               }
             )
-          fetch("https://floodbars.github.io/gw2/data/bookshelf-books.dummy.json")
+          fetch("https://floodbars.github.io/gw2/data/bookshelf-books.json")
             .then(res => res.json())
             .then(
               (result) => {
@@ -359,37 +398,6 @@
         }
       }
 
-      const testAchievementData = [
-          {
-            bits: [],
-            current: 3,
-            done: true,
-            id: 1,
-            max: 3
-          },
-          {
-            bits: [1],
-            current: 1,
-            done: false,
-            id: 2,
-            max: 2
-          },
-          {
-            bits: [],
-            current: 2,
-            done: true,
-            id: 3,
-            max: 2
-          },
-          {
-            bits: [2],
-            current: 3,
-            done: false,
-            id: 4,
-            max: 3
-          },
-        ];
-
       class Shelf extends React.Component {
         constructor(props) {
           super(props);
@@ -405,7 +413,7 @@
         }
         componentDidMount() {
           if (this.apiKey == 'UNLOCK_ALL') {
-            const allUnlocked = this.repository.generateDummyProgress();
+            const allUnlocked = this.repository.generateCompleteProgress();
             this.setState({
               achievements: allUnlocked,
               isLoaded: true
@@ -418,16 +426,16 @@
             });
             return;
           } else if (this.apiKey == 'UNLOCK_SOME') {
+            const someUnlocked = this.repository.generatePartialProgress();
             this.setState({
-              achievements: testAchievementData,
+              achievements: someUnlocked,
               isLoaded: true
             });
             return;
           }
           // TODO wrap this in an API-centric class/module
           var url = "https://api.guildwars2.com/v2/account/achievements?"
-            + "ids=" + this.repository.listAchievementIds().join(",")
-            + "&access_token=" + this.apiKey;
+            + "access_token=" + this.apiKey;
           fetch(url)
             .then(res => res.json())
             .then(

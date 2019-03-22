@@ -1405,5 +1405,264 @@
         "id": 78404
       }
     ]
+  },
+  {
+    "achievementId": 4558,
+    "name": "Chasing Tales: Azra the Sunslayer",
+    "bits": [
+      {
+        "book": "Lost Epics of Deldrimor",
+        "page": 1
+      },
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "achievementId": 4623,
+    "name": "Chasing Tales: Harkon Hakson the Maelstrom",
+    "bits": [
+      {
+        "book": "Lost Epics of Deldrimor",
+        "page": 2
+      },
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "achievementId": 4619,
+    "name": "Chasing Tales: Asaliea the Channeler",
+    "bits": [
+      {
+        "book": "Lost Epics of Deldrimor",
+        "page": 3
+      },
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "achievementId": 4560,
+    "name": "Chasing Tales: Mouglon the Watchful",
+    "bits": [
+      {
+        "book": "Lost Epics of Deldrimor",
+        "page": 4
+      },
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "achievementId": 4518,
+    "name": "Chasing Tales: Durio the Contemptuous",
+    "bits": [
+      {
+        "book": "Lost Epics of Deldrimor",
+        "page": 5
+      },
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "achievementId": 4556,
+    "name": "Chasing Tales: Mosa the Majestic",
+    "bits": [
+      {
+        "book": "Lost Epics of Deldrimor",
+        "page": 6
+      },
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "achievementId": 4533,
+    "name": "Chasing Tales: Elegos the Harmless",
+    "bits": [
+      {
+        "book": "Lost Epics of Deldrimor",
+        "page": 7
+      },
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "achievementId": 4523,
+    "name": "Chasing Tales: Carver the Carver",
+    "bits": [
+      {
+        "book": "Lost Epics of Deldrimor",
+        "page": 8
+      },
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "achievementId": 4607,
+    "name": "Chasing Tales: Belitrea the Blade of Want",
+    "bits": [
+      {
+        "book": "Lost Epics of Deldrimor",
+        "page": 9
+      },
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "achievementId": 4573,
+    "name": "Chasing Tales: Codd the Cheerful",
+    "bits": [
+      {
+        "book": "Lost Epics of Deldrimor",
+        "page": 10
+      },
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "achievementId": 4598,
+    "name": "Chasing Tales: Haliver the Seeker",
+    "bits": [
+      {
+        "book": "Lost Epics of Deldrimor",
+        "page": 11
+      },
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "achievementId": 4521,
+    "name": "Chasing Tales: Baverne the Hunter",
+    "bits": [
+      {
+        "book": "Lost Epics of Deldrimor",
+        "page": 12
+      },
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "achievementId": 4502,
+    "name": "Chasing Tales: Wossaul The Giant",
+    "bits": [
+      {
+        "book": "Lost Epics of Deldrimor",
+        "page": 13
+      },
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "achievementId": 4620,
+    "name": "Chasing Tales: Katarin the Bonecrusher",
+    "bits": [
+      {
+        "book": "Lost Epics of Deldrimor",
+        "page": 14
+      },
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "achievementId": 4535,
+    "name": "Chasing Tales: Mirren the Manipulator",
+    "bits": [
+      {
+        "book": "Lost Epics of Deldrimor",
+        "page": 15
+      },
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "achievementId": 4562,
+    "name": "Chasing Tales: Kobbel the Poetic",
+    "bits": [
+      {
+        "book": "Lost Epics of Deldrimor",
+        "page": 16
+      },
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "achievementId": 4647,
+    "name": "Savage Scholar",
+    "bits": [
+      {},
+      {
+        "book": "The Warclaw",
+        "page": 1
+      },
+      {
+        "book": "The Warclaw",
+        "page": 2
+      },
+      {
+        "book": "The Warclaw",
+        "page": 3
+      },
+      {
+        "book": "The Warclaw",
+        "page": 4
+      },
+      {
+        "book": "The Warclaw",
+        "page": 5
+      },
+      {
+        "book": "The Warclaw",
+        "page": 6
+      },
+      {
+        "book": "The Warclaw",
+        "page": 7
+      }
+    ]
   }
 ]

@@ -1309,5 +1309,134 @@
         "text": "Warming my sore bones by a norn campfire, I'm unsure how to wrap up this journal. I started this hunt seeking challenging game.\nI ended up with quite a bit more than I'd bargained for, tracking a pair of vicious creatures over vast territory. Their tenacity was unparalleled.\nIn the end, I'm pleased I could bring an end to the tigers' wanton violence, but a part of me can't help but wonder what drove these creatures to madness.\nSigned <Character name>, Great Hunter"
       }
     ]
+  },
+  {
+    "name": "Lost Epics of Deldrimor",
+    "type": "paged",
+    "text": [
+      {
+        "description": "Azra the Sunslayer",
+        "page": 1,
+        "text": "For a champion as storied as Azra, challenges befitting her skill were in short supply. At last, she found a true test, a target befitting her talents—the sun.\nThe archer took aim at her target, nocked an arrow, and released. As if in deference to her skill, the sun was immediately subsumed by shadow."
+      },
+      {
+        "description": "Harkon Hakson the Maelstrom",
+        "page": 2,
+        "text": "Too weak from my own wounds to even lift my head, I could not see Harkon Hakson's final moments...but I could hear them. Oh, could I hear them.\nThe crunch of bone like the beat of a drum...the clash of steel like the plucking of harp strings...and above this symphony of destruction, Harkon's booming, laughing voice, suddenly silenced."
+      },
+      {
+        "description": "Asaliea the Channeler",
+        "page": 3,
+        "text": "Beneath her cool countenance lay hidden a torrent of magical potency threatening to burst loose at any moment. This was most readily observed in her daily meditations\nThe very air around her would howl and swirl, belying the calm mind that conducted them."
+      },
+      {
+        "description": "Mouglon the Watchful",
+        "page": 4,
+        "text": "Priory archivist have long debated whether Mouglon, legendary for his vigilance, slept with his eyes open or simply didn't sleep at all.\nWhere they do agree are his notorious last words: 'Sleep is for the dead! And I will never die!'\nMouglon died shortly thereafter."
+      },
+      {
+        "description": "Durio the Contemptuous",
+        "page": 5,
+        "text": "Lawlessness scarcely begins to describe Durio, known for his categorical objections to laws, the rule of law, public custom, common courtesy, and general politeness."
+      },
+      {
+        "description": "Mosa the Majestic",
+        "page": 6,
+        "text": "Baverne rarely completed her bounties in a timely manner. She preferred to give her marks time to meditate on their plight—to give due consideration to a life about to end.\nShe believed it a sort of kindness to impress upon them that, at any moment, on any day, her crosshairs might find them. The end, as she saw it, should be a relief."
+      },
+      {
+        "description": "Elegos the Harmless",
+        "page": 7,
+        "text": "The nomadic Elegos was known to trade in deception, and his grandest deceit was his appearance: withered, dry, and curled over, like autumn's final fallen leaf.\nOnly those foolish enough to cross him knew of his uncanny speed, the brutality of his strikes, and just how lethal a walking stick could be - and few survived to tell the tale."
+      },
+      {
+        "description": "Carver the Carver",
+        "page": 8,
+        "text": "Son of an embalmer and a butcher by trade, Carver found himself the butt of many cruel jokes as a child. When he discovered his facility with a sword, the jokes ceased.\n\"In another life, I could've been a healer,\" he once said, towering over an opponent. \"But this is not that life.\""
+      },
+      {
+        "description": "Belitrea the Blade of Want",
+        "page": 9,
+        "text": "Between battles, her anxiety was palpable. To those closest with her, she confided that it was as though her blades had themselves developed a sort of hunger.\nShe could feel it in her hands when she was holding them...and now, to her terror, when she wasn't."
+      },
+      {
+        "description": "Codd the Cheerful",
+        "page": 10,
+        "text": "Perpetually sour and a cancer to morale, Codd's campfire etiquette earned him few friends.\nBut he earned his name—and a few grudging grins—by sounding a series of cheerful notes every time he charged into battle.\nIt is said that the only somber notes ever played on his horn drifted over the field on the day he fell in battle."
+      },
+      {
+        "description": "Haliver the Seeker",
+        "page": 11,
+        "text": "Though bookish by nature, Haliver would greet a new ruin or unexplored cavern by gleefully charging in with only his trusty torch and notebook.\nWhen chided for carelessness, he would laugh and insist that a little danger made discovery all the sweeter. When the danger finally claimed him, his torch and notes were all that were left."
+      },
+      {
+        "description": "Baverne the Hunter",
+        "page": 12,
+        "text": "Baverne rarely completed her bounties in a timely manner. She preferred to give her marks time to meditate on their plight—to give due consideration to a life about to end.\nShe believed it a sort of kindness to impress upon them that, at any moment, on any day, her crosshairs might find them. The end, as she saw it, should be a relief."
+      },
+      {
+        "description": "Wossaul The Giant",
+        "page": 13,
+        "text": "While few verifiable records of Wossaul's life have survived, his legacy has endured in apocrypha where he is described as a colossus among dwarves."
+      },
+      {
+        "description": "Katarin the Bonecrusher",
+        "page": 14,
+        "text": "Katarin was often criticized by her fellow blacksmiths for working the remains of her falles foes into the weapons she forged. Those critiques fell on deaf ears.\nBonemeal may have weakened the steel, but it fed the fires in her heart. As Katarin saw it, this was a fair trade."
+      },
+      {
+        "description": "Mirren the Manipulator",
+        "page": 15,
+        "text": "Misguided in his studies, Mirren came to believe that the very mechanisms underpinning reality itself could be bent to his will. He sought to unravel magic itself."
+      },
+      {
+        "description": "Kobbel the Poetic",
+        "page": 16,
+        "text": "Born to a family of scholars, young Kobbel was the black sheep, preferring to spend his days practicing swordplay over study.\nBut there was no hiding his upbringing, known as he was for reciting poetry midbattle and eulogizing his fallen foes with words of uncommon beauty."
+      }
+    ]
+  },
+  {
+    "name": "The Warclaw",
+    "subtitle": "On the Nature of Magical Mists-Born Constructs",
+    "author": "Farris Goodwyn",
+    "type": "paged",
+    "text": [
+      {
+        "description": "Rules of the Mists",
+        "page": 1,
+        "text": "For as unpredictable as the Mists can be to the unseasoned scholar, their mysteries only exist as elements of a greater natural mechanism.\nSo while it seems there is nothing but randomness and chaos within the Mists, everything therein must obey a base set of rules.\nPriory scholars don't fully understand how these rules function, which is why new discoveries like the warclaw can still upend years of scientific theory."
+      },
+      {
+        "description": "Fractal State",
+        "page": 2,
+        "text": "Warriors of all backgrounds have been venturing into the Mists for centuries to participate in a never-ending cycle of conquest colloquially known as the Mist Wars.\nWe have long believed that these battlegrounds exist in a repetitious \"fractal state.\" This term was coined by the asuran Mistlock Observatory, which is itself trapped within in a fractal state.\n(We are aware of the irony, although they may not be.)\nOne of the chief characteristics of a fractal is its impermanence. Events eventually reset to a default origin state regardless of actions taken therein.\nThe second chief characteristic is that subjects of a fractal cannot be removed from their environment just as a reflection cannot be removed from a mirror."
+      },
+      {
+        "description": "Mysterious Armor",
+        "page": 3,
+        "text": "Needless to say, we were surprised when one of our Priory expeditions encountered an as of yet undiscovered piece of cavalry armor during a routine survey.\nThe materials used in the armor's construction appeared Tyrian, but its style seemed to correspond to several cultures throughout different points in Tyria's history.\nQuite simply, there was no singular match—and our instruments indicated there was a greater mystery to the armor than its origin."
+      },
+      {
+        "description": "Reunited",
+        "page": 4,
+        "text": "When tested, the armor gave off a strange magical signature that even our most accomplished analysts were unable to identify.\nBut as the expedition team recovered additional matching pieces, they hypothesized that bringing all pieces together might reveal the nature of the entity the armor was meant to protect.\nThey were correct, of course.\nWhen reunited, the pieces bound themselves together and the energy therein appeared to coalesce into its physical form: an enormous armored cat.\nWe were quite terrified. It's not evry day that a gigantic apex predator materializes in front of you."
+      },
+      {
+        "description": "Warclaw",
+        "page": 5,
+        "text": "The beast could have easily ripped out our throats, but it instead deferred to the scholar who had assembled the armor.\nIt imprinted on him, so it seemed only fitting that he be the one to name his discovery.\nWarclaw, he called it."
+      },
+      {
+        "description": "Spirit of the Armor",
+        "page": 6,
+        "text": "The Priory has determined that the method of a warclaw's manifestation has some similarities to other well-documented creatures, such as the djinn sand jackals of Elona, the Exalted, and the Forged.\nThe warclaw's armor appears to operate in a similar fashion, with the animal's spirit permanently bound to it.\nAssembling the armor allows the creature to manifest, and disassembling it will disperse the spirit back into its inert form.\nWhoever assembles the armor becomes bonded with that warclaw, although this process doesn't appear to be magical in nature.\nWarclaws display genuine affection for those who liberate them from their inert state, even though these creatures were clearly created for one purpose: combat.\nAnd they live for it."
+      },
+      {
+        "description": "Further Studies",
+        "page": 7,
+        "text": "There are many additional questions we seek to answer, but these scientific pursuits have been delayed for a time as we seek to obtain our own warclaws for further study.\nShould the opportunity arise, the Priory highly recommends traversing the Mists to acquire a full set of this magical armor.\nBoth Tyria and the Mists are filled with surprises that defy our most informed expectations—but it's difficult to be upset about that with a loyal warclaw at your side."
+      }
+    ]
   }
 ]

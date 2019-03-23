@@ -1664,5 +1664,82 @@
         "page": 7
       }
     ]
+  },
+  {
+    "achievementId": 4409,
+    "name": "Mythwright Scholar",
+    "bits": [
+      {
+        "book": "Discarded Legendary Relic Concepts"
+      },
+      {
+        "book": "On Elonian Wine"
+      },
+      {
+        "book": "The Four Djinn"
+      },
+      {
+        "book": "Mystic Forge Contract"
+      },
+      {
+        "book": "Zommoros's Journal"
+      },
+      {
+        "book": "Zommoros's Research Notes"
+      }
+    ]
+  },
+  {
+    "achievementId": 3137,
+    "name": "Cami's Final Voyage",
+    "bits": [
+      {
+        "book": "Cami's Journal",
+        "page": 1
+      },
+      {
+        "book": "Cami's Journal",
+        "page": 2
+      },
+      {
+        "book": "Cami's Journal",
+        "page": 3
+      },
+      {
+        "book": "Cami's Journal",
+        "page": 4
+      },
+      {
+        "book": "Cami's Journal",
+        "page": 5
+      },
+      {
+        "book": "Cami's Journal",
+        "page": 6
+      },
+      {
+        "book": "Cami's Journal",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "achievementId": 222,
+    "name": "Speedy Reader",
+    "bits": [
+      {
+        "book": "The Founding"
+      }
+    ]
+  },
+  {
+    "achievementId": 3867,
+    "name": "Open Skies: On Wings and a Prayer",
+    "bits": [
+      {
+        "book": "The Writings of the Last Spearmarshal"
+      },
+      {}
+    ]
   }
 ]

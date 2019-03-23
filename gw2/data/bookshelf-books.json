@@ -1,6 +1,7 @@
 [
   {
     "name": "A Brief History of Cantha",
+    "author": "Loremaster Ermenred",
     "type": "book",
     "text": "(This text is not a work of fiction but is based on historical fact as interpreted by the author. Historical facts have been revised based upon new information acquired by the author since the original printing in 1022 AE.)\nIn this updated 50th Anniversary Edition, the estimable Loremaster Ermenred provides readers a unique look at the Canthan Empire's intricate and storied history.\nFrom its comprehensive timeline reaching back to the Age of the Marmoset, to its exhaustive examination of Assassins and Ritualists (two of Cantha's oldest and most unique professions), this work is the perfect primer for scholars both young and old."
   },
@@ -11,11 +12,13 @@
   },
   {
     "name": "A Primer, by Archon Iberu",
+    "author": "Archon Iberu",
     "type": "book",
     "text": "P is for Praise. Do that every day.\nR is for Raze, if parents disobey.\nA is for Army. Joko has a few.\nI is for Iberu, Joko's number two.\nS is for Sunspear. Turn them all in!\nE is for Eternal Monarch, who always will win."
   },
   {
     "name": "Behaviors of Risen Beasts",
+    "author": "Kamma",
     "type": "book",
     "text": "Risen creatures display a wide variety of behaviors that most experts would classify as \"hostile,\" both to natural Elonian wildlife and to seasoned explorers alike. This volume contains a distillation of firsthand discoveries and experiments devoted to unraveling the mysteries of this corruption and the methods used to neutralize it.\nUsing observational logs from Kamma's countless hours within the United Arcanist Lab, readers will get an inside look at the most minute details of her fascinating study on Risen behavior and anatomy.\nThis fourth edition printing contains a special foreword by an anonymous testing associate Kamma recruited during her experiments on Risen tissue."
   },
@@ -31,6 +34,7 @@
   },
   {
     "name": "Eternal Alchemy of the Stars",
+    "author": "Pilkk",
     "type": "book",
     "text": "Do you seek new meaning in the age-old quandaries of the Eternal Alchemy? Then look no further than the lens of your telescope! In his exciting literary debut, Pilkk explores the previously undiscovered connections between the Eternal Alchemy and the stars above. About the author:\nA merchant by trade, Pilkk spent many a night in the Cursed Shores staring at the sky, pondering the Eternal Alchemy. His early studies at the Durmand Priory yielded few answers and greater questions, plaguing Pilkk day in and out. After years of unanswered questions, he turned his queries to the stars. Much to his surprise, they replied.\nDespite controversy over Pilkk's qualifications, scholars and laypeople alike find his lines of inquiry both insightful and easy to understand. As a result of his studies, Pilkk was awarded the \"Unexpected Brilliance\" award by the Durmand Priory."
   },
@@ -56,6 +60,7 @@
   },
   {
     "name": "Koss on Koss",
+    "author": "Koss Dejarin",
     "type": "book",
     "text": "I am Koss Dejarin, Sunspear and protector of Elona. Many writers have tried to chronicle my journey from nobleman to warrior to simple farmer, but none of them has been me. And so it was that I set out to remedy this, taking up the pen in lieu of the spear to set the record straight once and for all.\nPerhaps you've heard of my relationship with corsairs throughout Elona, and the sacrifices I've had to make to keep their swords from our throats. Perhaps you've heard of how my father disowned me for joining the Sunspears. Perhaps you've heard of my adventures with the Tyrian hero and the final fall of Abaddon.\nOr perhaps you've heard none of these things. Regardless of where you stand, I assure you that this autobiography is the final word on my life, and the only side of my story worth believing."
   },
@@ -81,11 +86,13 @@
   },
   {
     "name": "Spirits of the Wild",
+    "author": "Thyrie Bylund",
     "type": "book",
     "text": "The norn city of Hoelbrak stands as a testament to a culture born of defiance; defiance both of the elements and of the Elder Dragon that sought to end their lives.\nWhen Jormag threatened to bury the norn in a hellscape of ice and frost, the norn turned to their spirits: Wolf. Bear. Raven. Snow Leopard. The norn do not credit their survival to themselves, but to these Spirits of the Wild.\nIn this updated compendium, renowned norn historian Thyrie Bylund explores the fascinating relationship between the norn and their spirits. Through a combination of written firsthand accounts and oral histories, Bylund discovers the very real effect these spirits have on the norn and all who live alongside them."
   },
   {
     "name": "Star Chart Basics",
+    "author": "Scholar Fatima",
     "type": "book",
     "text": "Looking to go from apprentice to master in the art of observing, charting and interpreting the stars? Then break out your telescope and switch up your sleep schedule, because this comprehensive guide from Scholar Fatima (author of \"Star Charts,\" \"Advanced Star Charts,\" and the best-selling \"A Fool's Guide to Star Charts\") is the first and last resource you'll ever need!\nLearn the basics of ascension and declination notation, the most ideal times of the lunar cycle to make observations, proper drawing techniques, and even weather-prediction tips to ensure you always have the best possible start-carting conditions."
   },
@@ -96,6 +103,7 @@
   },
   {
     "name": "The Genius of Vekk",
+    "author": "Arcanist Timble",
     "type": "book",
     "text": "When the Great Destroyer threatened to turn its ire on the free peoples of Tyria, no single race stood alone in the conflict that followed, and no single asuran challenged the evil of this tragic era more so than Vekk.\nFollow his journey in this comprehensive volume, from his beginnings as a simple elementalist to the indelible legacy he left as one of Tyria's greatest heroes.\nPraise for \"The Genius of Vekk\":\n\"Combining written accounts from the era along with the most recent historical findings, this incredible biography covers everything from Vekk's knowledge of Scrying Pools to the emergence of asura gates in Tyria. I came away astounded at the depth and detail presented, and I would recommend this biography to anyone with an interest in the period.\"\n—Arcanist Timble, Durmand Priory"
   },
@@ -141,6 +149,7 @@
   },
   {
     "name": "Koss on Koss (Extended Edition)",
+    "author": "Koss Dejarin",
     "type": "book-paged",
     "authorComment": "This was paged manually for readability",
     "text": [
@@ -216,6 +225,7 @@
   },
   {
     "name": "Garden of the Gods",
+    "author": "Oloko, Priest of Kormir",
     "type": "paged",
     "text": [
       {
@@ -250,6 +260,7 @@
   },
   {
     "name": "Book of Vlast",
+    "author": "Josso Essher",
     "type": "paged",
     "text": [
       {
@@ -318,6 +329,7 @@
   },
   {
     "name": "Order of Whispers Mission Dispatches",
+    "author": "Lightbringer Agbede",
     "type": "paged",
     "text": [
       {
@@ -666,6 +678,7 @@
   },
   {
     "name": "Letters from Blaine Winslow",
+    "author": "Blaine Winslow",
     "type": "paged",
     "authorComment": "How do we effectively insert the character name? Theoretically, we could pull a character from the API (if we have access).",
     "text": [
@@ -689,6 +702,7 @@
   },
   {
     "name": "Rose's Journal",
+    "author": "Rose",
     "type": "paged",
     "text": [
       {
@@ -723,6 +737,7 @@
   },
   {
     "name": "The Shining Blade Manual",
+    "author": "Master Exemplar Bartholos",
     "type": "paged",
     "text": [
       {
@@ -779,6 +794,7 @@
   },
   {
     "name": "E's Correspondence",
+    "author": "E",
     "type": "paged",
     "text": [
       {
@@ -855,10 +871,10 @@
       {
         "description": "Unrefined, Yet Effective",
         "page": 7,
-        "text": "My Lord,\nBig Nose Pete  got himself jailed again, along with more of your mutual acquaintances. If I hadn't gotten to them before Thackeray did, he'd be interrogating them right now.\nThey're becoming a liability. Are you quite sure I should release them again? Or should I make appropriate arrangements to prevent this from happening again?\n— Commander Serentine"
+        "text": "My Lord,\nBig Nose Pete got himself jailed again, along with more of your mutual acquaintances. If I hadn't gotten to them before Thackeray did, he'd be interrogating them right now.\nThey're becoming a liability. Are you quite sure I should release them again? Or should I make appropriate arrangements to prevent this from happening again?\n— Commander Serentine"
       },
       {
-        "description": " A New Protege",
+        "description": "A New Protege",
         "page": 8,
         "text": "Justiciar,\nI wanted to tell you again what a profound honor it has been to be invited into the fold. To tell the truth, I had thought the White Mantle were only a story told to scare children.\nTo discover that they not only that they existed, but that they possessed such an inspired vision for the future of Kryta—well, it's been a lot to absorb in a short amount of time.\nI have the feeling this is the beginning of a long and fruitful friendship.\n— Minister, or should I say Initiate, Zamon"
       },
@@ -1436,6 +1452,306 @@
         "description": "Further Studies",
         "page": 7,
         "text": "There are many additional questions we seek to answer, but these scientific pursuits have been delayed for a time as we seek to obtain our own warclaws for further study.\nShould the opportunity arise, the Priory highly recommends traversing the Mists to acquire a full set of this magical armor.\nBoth Tyria and the Mists are filled with surprises that defy our most informed expectations—but it's difficult to be upset about that with a loyal warclaw at your side."
+      }
+    ]
+  },
+  {
+    "name": "Discarded Legendary Relic Concepts",
+    "type": "book-paged",
+    "text": [
+      {
+        "page": 1,
+        "text": "(This appears to be a list that Zommoros wrote about ideas for legendary weaponry and other relics. There are many scribbles and crossed-out items)"
+      },
+      {
+        "description": "\"The Living One\"",
+        "page": 2,
+        "text": "Idea: A sentient, living rifle that shoots skeletal fists. Can talk to its owner, as it is sentient and made of organic material.\nPrototype: The Living One does nothing but scream in agony, fully aware of the futility of its existence. Not sure why I let it feel pain. Don't think I'll pursue this one."
+      },
+      {
+        "description": "\"Featherweight\"",
+        "page": 3,
+        "text": "Idea: A dagger imbued with powerful camouflaging magic and the ability to create three cloned versions of itself that fly in midair around its owner and attack all perceived threats.\nPrototype: Apparently I didn't think through the ramifications of having three invisible knives floating around my person at all times. The \"perceived threats\" bit has proven especially problematic, as any skritt that approaches with a question gets chased off by invisible knives. This is not conducive to an appropriate professional atmosphere. Going to call this one a lost cause for now."
+      },
+      {
+        "description": "\"Duoblade\"",
+        "page": 4,
+        "text": "Idea: An ultagreatsword that splits into two separate normal greatswords—one per pair of arms.\nPrototype: Two problems, actually. First, I forgot that while djinn have four arms, our target demographics tend to only have two, so they can really only wield ONE greatsword. Second, and perhaps more importantly, an ultragreatsword weighs a lot. And by \"a lot\" I mean the test subjects were falling onto their backs, pinned to the ground by the immense weight of the Duoblade, flailing around like a flipped tortoise. Funny, but impractical."
+      },
+      {
+        "description": "\"Cephalocus\"",
+        "page": 5,
+        "text": "Idea: a focus that takes the form of a living octopus, held aloft by the creature's actual functioning tentacles!\nPrototype: This worked—kind of. The problem was that everybody we tested this with got very uncomfortable having a magical, writhing octopus wrap itself around the wielder's arm. There were also at least two cases where the Cephalocus tried to eat its wielder, which focus groups described as \"not ideal\" and \"absolutely terrifying.\" I'll stick a pin in this one for now."
+      },
+      {
+        "description": "\"Syphon Engine\"",
+        "page": 6,
+        "text": "Idea: A staff that syphons expended life energy from defeated foes, creating a gorgeous aura of light around the weapon.\nPrototype: As I've said many a time, magic is not an exact science. I believe it's possible I missed something in my initial formulas, as the staff seems to be syphoning the life energy of the wielder instead of the defeated enemies. Immediately upon touching the Syphon Engine, my testers would feel weak, then collapse into a coma. Focus groups rated it very poorly as a result."
+      }
+    ]
+  },
+  {
+    "name": "On Elonian Wine",
+    "type": "book",
+    "text": "(This appears to be an excerpt from a larger journal that was written by Zommoros.)\nDjinnspit is the most popular vintage of wine in Elona. I take issue with that—not simply because it's a subpar wine manufactured by soulless husks of vintners who care more for money than the art of wine making. Quite simply, it's deceptive marketing.\nWhen it comes to proper Elonian wine, there are numerous alternatives to the run-of-the-mill Djinnspit (hereafter referred to as \"common swill\").\nA few years ago, some foolhardy adventurer tossed down four bottles of Seborhin 1071, a delightful and most unfortunately rare vintage with hints of jammy, but not overpowering, blackberry, anise, vanilla, and just the subtlest touch of licorice. However, that is not my favorite.\nNo, my favorite is, most surprisingly, something I'd consider a throwaway: Jackspruce Jacaranda. It is not made with jacaranda, of course, but seems to be a grape blend taken from all across the Crystal Oasis. The label is drawn with a most endearing style (showing a jacaranda summoning a lightning bolt into a wine glass), but it is the flavor combination that is most memorable, with a strong and ever-changing floral aroma that evokes the feeling of flying over the Crystal Oasis's most beautiful locales.\nMy wine collection has grown to a most absurd size, but due to the...UNIQUE conditions that exist within my realm, wine never seems to spoil. Therefore, it would seem I have plenty of time to sample the others to see where they fall in my ever-expanding list of favorites."
+  },
+  {
+    "name": "The Four Djinn",
+    "type": "book-paged",
+    "text": [
+      {
+        "page": 1,
+        "text": "A few days east of Amnoon, deep in that sea of sand, one would be lucky to find themselves faced with my predicament. A quartet of djinn hovered in their way, arguing at length about the nature of their elemental leanings.\nI stood there for quite some time, listening to their grand debate, and realized with a hint of fascination that these djinn had been arguing amongst themselves for months, never once breaking from their disagreement no matter the time of day, the weather, or passing company. Djinn, as I discovered, need not the sustenance required by other living beings of Tyria. Their connection to the world through their representative element seemed to be all they needed to persist in life.\nUnfortunately, as was the case for most visitors to that desolate sea of sand, I was in need of direction and had not the energy nor the provisions to seek out another means of acquiring it."
+      },
+      {
+        "page": 2,
+        "text": "When I approached the four djinn, they paid me little heed. The one of flame barely acknowledged my presence, snorting something obscene before returning to his debate. The air djinn ignored me entirely, looking through me as through I was made of naught but the element itself. The earth djinn broke away from its train of thought for but a moment to stare me down, but it was the water djinn that decided to offer voice to thought.\n\"Perhaps this one should decide!\" The djinn waved one of its arms in my general direction. \"A neutral party to break this horrid stalemate!\"\nThe other three finally stopped their arguing, all now staring at me from on high as one might evaluate a fly impeding on their breakfast. \"This one?\" The fire djinn's face wrinkled in disappointment. \"It's rather small, isn't it? How could it possibly know what's at stake?\"\n\"I think it's a novel idea,\" said the air djinn. \"But we must first explain the nature of this disagreement.\""
+      },
+      {
+        "page": 3,
+        "text": "\"There is no disagreement.\" The earth djinn was less than receptive, crossing both pairs of arms, doubly suspicious. \"You three have simply yet to accept that without the earth beneath us, your elements are useless.\"\nThe water djinn was resolute. \"Again, we get nowhere. But this one, this human, it lives on the earth, drinks of the water, breathes of the air, and uses fire to banish the darkness of night. It finds use in all of us.\"\n\"Perhaps so,\" said the earth djinn, unmoved. \"But again, without the earth, it cannot breathe, it cannot drink, and it most certainly cannot banish the darkness.\"\nThe other three djinn had grown tired of the stalemate, but evidently were not keen on ceding ground to the djinn representing it. They all turned to me, surrounding my person, hovering half my height from the sandy dunes. Unblinking eyes on me, they loomed with more than a hint of malice."
+      },
+      {
+        "page": 4,
+        "text": "\"Well then,\" the air djinn started, \"I believe an explanation is in order.\"\n\"We four represent the elements of nature.\" The fire djinn floated closer, perhaps as a means of intimidation. \"And one of us is clearly more powerful than the others.\"\nFinally, for the first time since I intruded on their debate, I spoke: \"Is there not balance to be found in nature?\"The djinn, all four, laughed. \"Balance is an illusion,\" said the earth djinn. \"Nature strives for balance but never finds it. Rain comes from an imbalance between water and air. Volcanoes, from earth and fire. Sandstorms, from air and earth. This is why we bicker endlessly.\"\n\"And also why you must tell us which element is greatest,\" said the air djinn. \"Now speak.\""
+      },
+      {
+        "page": 5,
+        "text": "I pondered this for a time, but could tell my hosts were not keen on waiting. I decided to explain my rationale aloud, though I knew that no matter what answer I came upon, the quartet would no doubt remain unsatisfied.\n\"Well, let us look at my situation,\" I started. \"Living creatures of Tyria must tread the ground, giving it inherent worth and value.\"\n\"As I expected,\" said the earth djinn, puffing out its chest. \"This debate will end shortly.\"\n\"But,\" I continued, much to the earth djinn's consternation, \"here we stand amongst the dunes. I have struggled to tread this ground, for it is pliable and unstable. I am exhausted from my travels, and the sands do little to ease it.\"\nI turned to the air djinn, who seemed initially pleased with my dismissal of the earth djinn. \"The air,\" I continued, \"though it is sweet and cool in the evenings of Crystal Oasis, it is here hot and dry, parching my throat.\""
+      },
+      {
+        "page": 6,
+        "text": "The air djinn squinted wordlessly, clearly disappointed.\nI turned to the fire djinn. \"And the baking hot sun offers little in the way of comfort. The heat is absorbed by the sand, coursing through the air. Earth, air, and fire conspire to end my life in the dry sands of Elona.\"\nThe three djinn I spoke of grumbled and turned expectantly toward the one remaining.\n\"There is, however, one element that could ease the discomfort of the other three,\" I said. The water djinn, pleased with my words, raised its arms and manifested a magnificent orb of pure, fresh water. It hovered before me, kept aloft by the djinn's will.\n\"Then consider your discomfort eased,\" said the water djinn. \"Drink, and let us speak of topics unrelated to the elements for a time.\""
+      },
+      {
+        "page": 7,
+        "text": "So it was that I came to befriend that water djinn, though at the expense of the other three. They were less than enthused to lose their months-long debate, and refused to speak with me ever again. Still, the water djinn was able to point me to my destination, and accompanied me in both company and conversation as far as its disposition would allow.\nMuch time has passed since that fateful encounter, and I have come to rely on this water djinn as much as it relies on me. We left the hot sands of Elona for the more temperate Kryta (both in temperature and disposition), but I have many times found myself thinking back to that meeting in the dunes. No matter what the circumstances, I arrive at the same conclusion as to which of the elements should earn humanity's favor: the earth is broad and awe inspiring, but it cares little for the comfort of its denizens; the air perpetuates life, but does not improve its quality; fire gives light, but burns hot in the skies of Elona. It is water and water alone that provides respite from the elements, and makes life in Tyria's harshest conditions even the slightest bit tolerable."
+      },
+      {
+        "page": 8,
+        "text": "The conversation is quite acceptable as well."
+      }
+    ]
+  },
+  {
+    "name": "Mystic Forge Contract",
+    "type": "book",
+    "text": "This nondisclosure and confidentiality contract (the \"contract\") is signed and sealed on this date by and between the Mystic Forge and its owners, inhabitants, and executors (\"Zommoros\") and the very, very small group of individuals deemed worthy of a tour of said Mystic Forge (\"you\").\nZommoros has indicated that a tour shall take place that encompasses the property, its denizens, locales, and any and all events that derive from Zommoros's imagination and/or previous arrangements (hereafter, the \"tour\").\nIn connection with the tour, it is more than expected that you will witness confidential and competitively sensitive material not generally known to the public and/or other djinn who many benefit from said material. This includes but is not limited to: architectural anomalies that exist wholly through the clever use of Zommoros's magical aptitude, the nature of the Mystic Forge's workforce, the exact nature of the submission and trade processes that underpin the Mystic Forge, the creation of relics deemed legendary, the storage and retrieval methods of items within the Mystic Forge, the materials used to make platforms that can be elevated through the use of decorative water fountains, and the precise quantity of alcoholic material allocated to the Mystic Forge.\nZommoros has decided that while you may witness these things as a result of the tour, such actions are deemed permissible only by the signing of this contract and the forfeiture of personal responsibility on Zommoros's behalf should any incident (physical or psychological) befall you. Signing the Contract will relieve Zommoros, his affiliates, officers, employees, partners, agents, friends, relatives, and people impersonating him as a means of getting him into trouble from any such claim of responsibility, liability, damage, cause of action, bet, wager, gamble, or deathly hazard, known or unknown, which could happen, might happen, or will happen as a result of the tour (hereafter referred to as the \"agreement,\" which is totally different from the contract).\nIn exchange for this release, Zommoros will provide you with a commemorative voucher of no material value that cannot be exchanged for any goods or services. By signing the agreement, you acknowledge this. This signature shall not in any way be interpreted as an admission of all the horrible, horrible things that could happen.\nBy signing this agreement and contract, you legally bind yourself to the terms of said agreement and contract on pain of death. You will become and remain, at your sole cost and expense and at Zommoros's request, a member in good standing of society (be that scholarly institution, military organization, guild, party, or other grouping of individuals in pursuit of a common societal goal) worthy of receiving the tour and appreciating all the wonderful things that you are about to see (hereafted referred to as \"things\").\nFurthermore, you acknowledge in signing this agreement and contract that...\n(The contract's text shrinks smaller and smaller, filling the space with countless legal terms, most of which you do not recognize in the slightest.)"
+  },
+  {
+    "name": "Zommoros's Journal",
+    "type": "book",
+    "text": "Now here is what I don't understand: why would anybody want to collect a living thing?\nLiving things NEED. Living things WANT. Living things REQUIRE. They ask for food. They make a mess. They are writhing, squirming things that don't serve any purpose beyond that which they make for themselves.\nQadim keeps referring to the skritt that work in the forge as my \"collection,\" but I despise the word. I do not own these creatures—I employ them! They are here of their own volition, some refugees from the destruction of Lion's Arch, some mere travelers referred here by others no longer in my employ.\nSkritt are, naturally, smarter in large groups, so I have been fortunate that they find collective value in working within the forge. The knowledge they gain here is of tremendous use to their scratches, as the Mystic Forge is in many ways a receptacle for items found all over the world. No matter where they come from, they will one day find their way down here.\nBut even though they dot the landscape of my domain, they are not here for display. They work, and they work hard! The mountains of sorted items parsed from those dropped in by the world above are a testament to their fastidiousness, and I would truly be at a loss without their help. Qadim, on the other hand, views living creatures as curiosities—things to be placed in a glass case and shown to passersby.\nSpeaking of which, I have no idea to whom he's showing off his menagerie. Is there some djinn cabal I'm unaware of that takes pleasure in the collective suffering of living things? More likely that wretched fire djinn is simply imprisoning these creatures for his own amusement.\nThe items I collect have historical relevance and value. Qadim's collection will grow old and die, yet mine will live forever.\nWell, I suppose that's not entirely true. Qadim's collection SHOULD be growing old and dying, but for some reason I cannot ascertain, it is not. The lifespans of his little subjects seem to have been altered, perhaps due to the strange nature of time within his domain, perhaps through some other magical influence. I've no idea. What I DO know is that for his captives, dying of old age is not the escape it used to be."
+  },
+  {
+    "name": "Zommoros's Research Notes",
+    "type": "book",
+    "text": "While I rarely leave the confines of my domain, I possess the finest and most robust collection of trinkets from around the world. Adventurers travel across Tyria, finding items of all sorts from locations multifarious, and toss them into my forge in the hopes of receiving something better in return.\nMost of the time, the skritt handle the method of compensation. I have to imagine that's working out just fine, considering I've yet to receive any complaints that I've read.\nStill, I admit that this system is not entirely perfect. For example, the wizard Isgarren came to my forge long ago seeking special compounds that I imagine were used for some magical purpose or another. I heard of this after the fact, and was most curious what one of his stature might want to get out of my collection! But upon closer investigation, I realized with a hint of despair that there was no record of what exactly Isgarren tossed into my forge, nor what he received in return, as the skritt are rather poor at maintaining proper documentation.\nAlso, their handwriting is quite terrible.\nThis has resulted in a much more robust plan to eventually implement a system that will record all of the items entering and exiting the forge. We've yet to put the plan into action, of course, as I like to give myself lots of time to stew over new ideas for the Mystic Forge operation before putting them in place. It's been a while, admittedly, but great ideas take time to perfect, and I have a lot of great ideas.\nI maintain hope that someday that curious wizard will return with need of my services. Should the situation arise, I plan to inquire at length about the nature of his work and just where he has been all this time. But, until then, all I can do is have Miyani keep an ear to the ground. It has been a very long time since Isgarren has been seen or heard from, so I have my concerns."
+  },
+  {
+    "name": "Cami's Journal",
+    "author": "Cami",
+    "type": "paged",
+    "text": [
+      {
+        "description": "Day 1. Cami of Krewe Taimi.",
+        "page": 1,
+        "text": "Stepping out of the Portal was like walking into a wall of hot brick. The air here is so thick and acrid. Not dangerous, just sulfurous—AKA stinky. It took the whole first day to setup the gate.\nThe gate remained unstable for hours, and Phlunt's people keep trying to run the show. I am not amused."
+      },
+      {
+        "description": "Day 2. Cami of Krewe Taimi.",
+        "page": 2,
+        "text": "I left the main camp today to undertake our first scouting mission. I wanted to get a look around before we sent out our best researchers.\nWhen I left Novus, Taimi said to me, \"Cami. You're in charge. I need you to make sure everyone comes home, OK?\"\nI won't let her down, but I've already been attacked twice, and I have to be especially careful to avoid roving bands of Destroyers."
+      },
+      {
+        "description": "Day 3. Cami of Krewe Taimi.",
+        "page": 3,
+        "text": "I found something interesting. These Destroyers don't look like the ones I saw in my textbooks. They have...different characteristics.\nSome have plantlike appendages, and some smell like death. I'm documenting everything for Taimi.\nWhile I hesitate to conjecture, I think it's safe to say that these aren't our ancestors' Destroyers."
+      },
+      {
+        "description": "Day 4. Cami of Krewe Taimi.",
+        "page": 4,
+        "text": "The island is unstable. The ground shakes quite often, and the local creatures seem upset by it. It's as if they're looking for a place to hide, but there is none.\nWe set up seismic tracking tech back at the camp. I'll be curious to see what they discover. I think it's clear that a volcanic eruption is imminent.\nMagic seems to play a role. My readings are off the charts. There's so much magic here, you can see the ley lines."
+      },
+      {
+        "description": "Day 5. Cami of Krewe Taimi.",
+        "page": 5,
+        "text": "I'm taking a short break. I get tired quickly. The air. The heat. It explains why the Fire Islands chain has been desolate for thousands of years.\nI'm actually surprised by how many creatures I've encountered that aren't Destroyers. For example, I met some skritt earlier. Skritt!\nOf course, skritt are not native to the islands. These stupid rodents seem to have chosen, on purpose, to make this their home. Stupid."
+      },
+      {
+        "description": "Day 6. Cami of Krewe Taimi.",
+        "page": 6,
+        "text": "I've been thinking a lot about the history of the islands. This isn't your standard group of volcanic outcrops.\nThe Ring of Fire Islands is known for its entrance to the Realm of Torment. That's on a different island—not this one, thank goodness. I wonder if it's still accessible. What a dig that would be!\nFurthermore, the island chain has changed over the centuries. The rise of Orr had a huge impact on the island's landscape.\nI see recent changes to the geo layering of the island. I believe Primordus and the Destroyers have raised core temperatures and caused increased volcanic activity."
+      },
+      {
+        "description": "Day 7. Cami of Krewe Taimi.",
+        "page": 7,
+        "text": "Taimi is going to flip when she gets this data. Nothing is as we expected. I'm starting to think we should evacuate soon or people could get killed.\nThis place has always had a reputation as a hive of evil and I still sense doom here. It's as if a pall of mursaat gloom hangs over the place.\nMursaat. Creepy beings from who knows where, who ruled human Kryta for a long time until the uprising. Wouldn't it be something if I ran into one?\nI'm heading back to rendezvous with the first raiding party. It would be tempting to cover every inch of the island, but I have to stay practical. I've felt like something was watching me.\nThis island creates paranoia. Maybe it wasn't so bright coming out here alone. If my calculations are correct, the raiding party should be camped just over the next ridge."
+      }
+    ]
+  },
+  {
+    "name": "The Founding",
+    "subtitle": "The Rise of Ebonhawke",
+    "author": "Kimmes the Historian",
+    "type": "book-paged",
+    "text": [
+      {
+        "description": "Volume I: The Recall",
+        "page": 1,
+        "text": "A messenger from Ascalon arrived today, bringing the first word from home since the Vanguard were tasked with slowing the charr offensive, years ago. The Vanguard's deeds reached the ears of the king.\nThe forces have been recalled. There's a quiet relief that can be felt throughout the unit. Their long, hard-fought struggle is coming to an end.\nAway from the troops, Captain Gwen Thackeray seems concerned, an unspoken question on her lips. Though Ascalon is telling them to return, is their mission really complete with charr still nearby?\nThe troops leave a skeleton force to protect the Eye of the North as they set out in the black of night on their return journey. The captain won't let the charr know that we've all but abandoned the north."
+      },
+      {
+        "description": "Volume II: Return to Ascalon",
+        "page": 2,
+        "text": "The fanfare upon returning to the ruined city of Ascalon was indescribable. The Vanguard has accomplished something the troops here in Ascalon have only dreamed of: victory against the charr in their own lands.\nKing Adelbern's speech commemorating the efforts of Captain Gwen Thackeray and the Vanguard moved both civilians and soldiers alike. The Vanguard's efforts bring hope to a war-torn land.\nA week has passed since the return of the vanguard to Ascalon, and still the hero worship continues. Children run through the streets playing Ebon Vanguard and charr."
+      },
+      {
+        "description": "Volume III: The New Assignment",
+        "page": 3,
+        "text": "King Adleburn has called the city together to make an announcement. The Vanguard are ordered to appear in full dress uniform. Uncertainty ripples through the unit, but this does not diminish their pride.\nThe Vanguard is being sent south, to the mouth of the Crystal Desert, where a dire threat is rising. They're charged with building fortifications to protect against an enemy the king warns is coming.\nCaptain Thackeray gracefully accepts the duty placed before her and the Vanguard. Civilians look confused and worried. This new threat was not expected."
+      },
+      {
+        "description": "Volume IV: A Question of Motive",
+        "page": 4,
+        "text": "Today, a weaponsmith questioned the king's decision to send the Vanguard back into harm's way so soon. In response, the king decreed that he should join the expedition—to keep the Vanguard properly armed.\nBefore long, a baker, a leather crafter, a tailor and their families had also been ordered to join the caravan. Is this a sign of support from the king or an act to remove opposition from sight? It's a question I dare not voice.\nRegardless, the Ebon Vanguard prepares to leave home once more, doing so without complaint and with their usual efficiency."
+      },
+      {
+        "description": "Volume V: Unexpected Joiners",
+        "page": 5,
+        "text": "The day the Vanguard left Ascalon, the second time, was sad but proud. Civilians lined the street to honor these heroes from the north.\nAt the city gates, dozens of civilians from various trades met the unit to unexpectedly join them on their journey. Additional supplies were packed to accommodate them.\nSo many people willing to leave with the Vanguard and abandon all they'd ever known—was it pride for the unit that spurred them on, or was it fear of their king?"
+      },
+      {
+        "description": "Volume VI: The Journey Begins",
+        "page": 6,
+        "text": "Days turned to weeks as the Vanguard marched south. Expected travel time to the destination had increased with the addition of the tradesmen and civilians, but no complaints were ever raised.\nI suspect that the Ebon Vanguard soldiers are happy to have actual professional chefs to prepare their meals and armorsmiths to keep their equipment in working order."
+      },
+      {
+        "description": "Volume VII: A Suspicious Discovery",
+        "page": 7,
+        "text": "Rigo Bolan of Lieutenant Keiran Thackeray's Ebon Falcons scout unit discovered an animal that had been torn to shreds by claws or teeth this morning. Not taking any chances, the Vanguard is now on high alert.\nCivilians are told only that traveling in a new land can be dangerous, and they must be prepared for anything. They've been ordered to stay close to the caravan and not wander off by themselves.\nSeveral days have passed since we first discovered the shredded animal remains. Off in the distance, I can make out blurs that seem to be moving with us. Is something really out there, or is the long trek making us paranoid?\nAnd more importantly, if something is out there, are we leading it, or are we being led? I guess only time will tell."
+      },
+      {
+        "description": "Volume VIII: Return of the Enemy",
+        "page": 8,
+        "text": "At dawn, our greatest fears were realized. A warband of charr ambushed us from the brush. The Vanguard always believed their battle would be against the charr, just not this far south.\nThough the Vanguard were used to the horrors of charr battles, the civilians traveling with them were not. Many broke off from the caravan, fleeing in terror as the monsters set upon us.\nWe struggled to maintain our defenses while returning those who had fled to the safety of the caravan.\nQuestions danced in my mind during the frey. What were these charr doing here? Were they leftovers from the failed assault against Orr? Were they a herald of tragedies to come?"
+      },
+      {
+        "description": "Volume IX: Death of a Hero",
+        "page": 9,
+        "text": "Corporal Dian Fermati pursued a young couple who had taken off. Unfortunately for them, the charr found them first.\nUnwilling to leave them to die, Dian rushed in against far greater numbers. Despite the odds, he kept the charr at bay and held out long enough for help to reach them. Sadly, the effort cost Dian his life.\nDian died a hero's death that day. We were by his side when he passed from this world into the Mists. He wore a smile on his face as he drifted off, eased by his dying wish: just one more drink of rum."
+      },
+      {
+        "description": "Volume X: Aftermath",
+        "page": 10,
+        "text": "The craftsmen are afraid. They were not prepared to be assaulted while we moved. Perhaps they thought the threat in the south was a passing madness from King Adelbern? Or did the king really know the horror that awaited us here?\nDid the civilians forget the terrible Searing and the pain that came with it? Had the return of the Ebon Vanguard lulled them into the false belief that they were safe? I pondered these questions as we continued to make our way south.\nGwen continues to lead the caravan with firm resolve. Her speeches and encouragement lift the spirits. She has come so far since first joining the Vanguard as a frail child. She is a true successor to Captain Langmar."
+      },
+      {
+        "description": "Volume XI: The Journey Continues",
+        "page": 11,
+        "text": "It has been more than a week since we first ran into the charr. Their attacks continue but at random intervals. Sometimes we have a day of peace, sometimes only hours.\nDefensive efforts are starting to take their toll, but the soldiers put up a brave front for those they are protecting.\nThis morning's attack took the lives of two more brave Vanguard soldiers. A small service was held for them, delaying our journey southward."
+      },
+      {
+        "description": "Volume XII: End in Sight",
+        "page": 12,
+        "text": "We can finally see our destination, the mountain range that separates Ascalon from the Crystal Desert. That's where we'll find our new home. The very thought lifts our spirits.\nKeiran suggests we make for a mountain slope to the southwest and Captain Gwen agrees. From there, we can move in and set up camp near the pass that leads through to the desert.\nThe trek will be dangerous. We must cross an open plain where we will be pounced upon by the charr. Will we survive ? Only the Six know."
+      },
+      {
+        "description": "Volume XIII: Fateful Night",
+        "page": 13,
+        "text": "As night fell on what was to be our last day upon the plains, the massive assault began. There seemed to be no end to the murderous charr. When one fell, two or three others were there to take its place.\nDawn was barely breaking when Koro Sagewind called for people to break for the hills. Lawrence Crafton and Rigo Bolan stood guard while Koro cast the greatest illusion I would ever witness in this lifetime.\nA mystical army arrived from the north. Most of the charr broke off and, in feral bloodlust, charged the illusion. Koro's trick bought us the time we needed to prepare for the next assault."
+      },
+      {
+        "description": "Volume XIV: Arrival",
+        "page": 14,
+        "text": "Gwen and Keiran led us into the mountain pass while Nola Sheppard led a detachment holding our flank. As the battle raged on before us, seconds turned to minutes, minutes turned to hours.\nAt a mountain clearing, we discovered an old, abandoned mining town. Its masters were long gone, but their possessions would aid us in our struggle against the charr.\nNo longer willing to stand idly by, our civilians took up discovered arms or built barricades against future charr attacks. Keiran spent the day teaching them to build traps that would litter the slope to the town."
+      },
+      {
+        "description": "Volume XV: Heart Loss",
+        "page": 15,
+        "text": "Koro approached the camp at dusk, her two defenders nowhere in sight. Her pace slowed and staggered. Blood dripped from her face and, blinded, she tripped over a rock. She fell before our makeshift camp.\nKoro had tapped her own life force so that we would make it. Keiran held her in his arms in her final moments. She reminded him of the last time she had created such an illusion to save her unit, years before.\nHer parting words bolstered our desire to survive. She truly was the heart of the Falcons, but the Vanguard would not let her death be in vain."
+      },
+      {
+        "description": "Volume XVI: The Future",
+        "page": 16,
+        "text": "Gwen stirred the hearts of the survivors once more with talk of brighter tomorrows. The charr feared the Ebon Vanguard in the north, and they would fear them in the south as well.\nThe worry she saw in the eyes of her people was replaced with hope. The Ebon Vanguard would no longer be protecting the people. It would be standing united with them to protect a common future."
+      },
+      {
+        "description": "Volume XVII: The Final Onslaught",
+        "page": 17,
+        "text": "Just as Koro foretold, the charr returned, furious at having been tricked into fighting an army that was never there. But the precious time she bought us had not been squandered. We stood ready for them.\nUnexpectedly, mad with grief, Nola raised an army of undead from beneath the earth, an army consisting of the town's previous occupants. Her forces created a wall against which the rushing waves of charr broke.\nIgnoring Keiran's order to fall back, she marched beyond our front lines. The lieutenant vaulted the barricade, attempting to reach her before the charr could.\nTo everyone's surprise, he hit her with his fist and knocked her out. Then, he picked her up and rushed her unconscious form back behind our defensive position."
+      },
+      {
+        "description": "Volume XVIII: Survival",
+        "page": 18,
+        "text": "The battle lasted for hours, and we suffered many losses. But for every human that fell, a dozen charr lay dead before them. We defined our existence on that day.\nWith the battle finally over, we accounted for the dead. The baker and her son, who had taken up arms along the front lines, were among those who did not live to see daybreak.\nThe charr have pulled back for now. We can still see them on the horizon, pacing and waiting. Captain Gwen has drawn the line, and we're not moving from this spot. But unlike before, we'll be ready for them, and we'll make them pay.\nThe quarry attached to the mining town is said to be rich and deep, or so one of the craftsman  tells us. He and a couple others are already preparing to retrieve stone to reinforce the town."
+      },
+      {
+        "description": "Volume XIX: Digging In",
+        "page": 19,
+        "text": "Private Casey Carpenter has joined the workers in the quarry, pulling up massive stones that are now being moved to replace our makeshift barricade at the front. The foundation for what will be a massive gate is being built.\nOther Vanguard soldiers have put down their arms, for the time being, to help the civilians reinforce our position. Slowly, our defenses are taking form.\nOur losses have been great, but now, we've all been forged in the crucible of battle. We are united under a singular purpose."
+      },
+      {
+        "description": "Volume XX: We Are Home",
+        "page": 20,
+        "text": "Gwen walks among the weary survivors, thanking them for their tireless efforts. She's beginning to re-organize soldiers and civilians alike into teams, each working to establish our residence in this mountain pass.\nThe look of uncertainty has all but vanished from everyone's eyes, replaced now with determinations. People have come to terms with their fears and now advance with a unified spirit.\nCaptain Gwen Thackeray tells us we are finally home, and we are ready to believe it. We won't flee from our home, our Ebonhawke. Come, charr, we will meet you on the battlefield, but we will not move from here. The final line has been drawn."
+      }
+    ]
+  },
+  {
+    "name": "The Writings of the Last Spearmarshal",
+    "author": "Tahlkora",
+    "type": "book-paged",
+    "text": [
+      {
+        "description": "Volume 1",
+        "page": 1,
+        "text": "My father loved Elona's history and culture. When I visited him in the great library as a little girl, I'd run to the history stacks first, and I'd usually find him there.\nIn his stories of the old days, he compared Elona to a flower. When he was young, it was in full bloom. But it first began as a single seed—a seed in a vast desert.\nTo grow, it needed care. The Sunspears were the gardeners—clearing the weeds, removing the pests, allowing the blossom to flourish. Now, however, I wonder if they were more than that. To extend his metaphor, were the Sunspears not also the soil, the rain, and the sun?"
+      },
+      {
+        "description": "Volume 2",
+        "page": 2,
+        "text": "Reflecting on my life with the Sunspears, I have to marvel at how my views have changed. As a child, I saw them as heroes sprung to life from a storybook page. As an old woman, I see them for what they truly are: men and women, full of potential to do great good or harm. Shepherds, tending to the flock of humankind.\nSome find that metaphor offensive, claiming it implies the Sunspears consider themselves above everyone else, and the rest are just sheep. But that's far from the case.\nIn all the years I served, I never knew a single Sunspear who looked down on those he or she swore to defend. We only want to keep our people safe from harm.\nIt breaks my heart that recent events have poisoned people against their longtime protectors, and the latest corruption now turns the Sunspears on themselves."
+      },
+      {
+        "description": "Volume 3",
+        "page": 3,
+        "text": "Since the time of the Scarab Plague, the Sunspears have defended Elona. They are allied to all, so when a crisis arises, no false friendships or misguided loyalties will stay their swords.\nWhen I was young, the Warmarshal of Kourna, Varesh Ossa, orchestrated such a crisis. She led her people to war, mobilizing the largest army in Elona.\nNo other nation dared oppose her. If not for the Sunspears, she would have plunged the world into darkness forever.\nThis is the necessary role of the Sunspears. Beholden to no one person, dedicated to the people as a whole, they have an obligation to oppose any tyrant.\nThey are the true defenders of life and liberty, and their light must not be lost from this world!"
+      },
+      {
+        "description": "Volume 4",
+        "page": 4,
+        "text": "Today, our king—our conqueror—feeds us lies and strikes us down. Those who speak against him are silenced. Those who bend the knee are richly rewarded.\nThe Sunspears try to resist, but they are only as strong as the people they protect. The armies of Istan and Kourna are no match for the lich's endless undead.\nThe Sunspears are spread thin. Are they to blame? No, the fault lies within all of us. We put too much hope in heroes and did not do enough ourselves.\nBut heroes fall, and few are brave enough to take their place. We resign ourselves to fate, never realizing it is our responsibility to take charge of the future."
+      },
+      {
+        "description": "Volume 5",
+        "page": 5,
+        "text": "A single despot has managed to diminish confidence in the Sunspears. Joko has shaken the people's faith in the one group meant to safeguard them from the very threat he represents.\nPalawa Joko is succeeding where others failed, but it is not because of the might of his army or the strength of his magic. He is striking at Elona's heart.\nAs our people are turned against each other, and our defenders are no longer trusted or respected, Joko is guiding us to destroy ourselves.\nThis is why I have committed myself to this crusade against him. Words are weapons anyone can wield. If he can use them to poison us, we can use them to fight back.\nI will speak for the people when they dare not. I will speak for the Sunspears when they cannot. I will fight until my voice is hoarse and my pen runs dry. We will take Elona back!"
+      },
+      {
+        "description": "Volume 6",
+        "page": 6,
+        "text": "Joko's armies have dammed streams and rivers, burned fields, and salted the earth. In many places, the common folk are starving or dying of thirst.\nHis minions post bounties promising gold, titles, or food in exchange for the whereabouts of Sunspears and their allies. His people are desperate enough to listen.\nOnce, these papers would have been immediately torn up or burned by enraged citizens, but now they flutter freely in the breeze, tempting all who pass them by.\nWe do what we must to survive. If we don't survive, we can't fight. But if the price of survival is to lay down arms and submit to a tyrant, is that a life worth living?\nWithout the Sunspears, we are lost. They are our last hope. If you dare not help, then please do not hinder. But if you can help, I beg you to join the fight!"
+      },
+      {
+        "description": "Volume 7",
+        "page": 7,
+        "text": "My father's library is no more. Palawa Joko's forces attacked the Halls of Chokhin, putting every tome and scroll to the torch. It's all gone.\nJoko is trying to destroy our history. He wants to erase the true Sunspear history from Elona's past. Soon, we will not be remembered at all, or remembered with lies.\nHe'll have us described in the same breath as bandits and barbarians. Kormir will be turned from a martyr hero into a blind fool. Our own people will not mourn us.\nIn time, the fiction will become the reality. Already, some of the weaker members of the Sunspear order have succumbed to their fears and resigned themselves to Joko's rule.\nThey call themselves the Mordant Crescent, and the threat they pose is as great as or greater than Joko himself. For, in them, the people see the ideals of the Sunspears cast down and made vulgar."
+      },
+      {
+        "description": "Volume 8",
+        "page": 8,
+        "text": "I believe in Elona. I believe in its people. We are stronger than any dictator or occupying army. Our culture has survived plagues and invasions. We will survive this as well.\nI have gone to the people. I have spoken before crowds of good, peace-loving Elonians who are ready to take back their homes from their undead liege.\nFor every Joko loyalist already cowed by his oppressive regime, there is a true citizen of Elona willing to listen. The world is still theirs for the taking.\nThe Sunspears will never be lost so long as brave men and women believe in the cause. They came to hear an old spearmarshal speak against Joko.\nInstead, they left with an idea: the idea of a free Elona. With that idea, they have found solidarity and purpose. Now, they are Sunspears. They may just not fully know it yet."
+      },
+      {
+        "description": "Volume 9",
+        "page": 9,
+        "text": "Joko likes to set examples. His power depends on no one questioning his strength. Any opposition is struck down swiftly.\nI used my words against him, and he took them away. For speaking out in defiance of his tyranny, I have forfeited my tongue.\nBut I can still write. He may next come for my hands, and I will learn to wield a quill with my toes. I may be an old woman, but I am still a Sunspear, and I will not stop fighting.\nThese writings will be my voice now. To all who read them, to all who believe, I ask you to carry my voice far and wide.\nLet all of Tyria know Elona's plight. Let them know we still fight. Let them know the spirit of the Sunspears is within all of us."
+      },
+      {
+        "description": "Volume 10",
+        "page": 10,
+        "text": "This may be my final entry. I have heard rumours that Joko's thugs are looking for me. They mean to silence me for good. My allies have urged me to flee, but I refuse.\nI was young when Kormir valiantly sacrificed herself to save Elona. Her actions changed my life. They taught me heroics come hand-in-hand with pain.\nIt has been years since I last held a sword. I have spent my old age as a librarian and teacher, but one does not cease to be a Sunspear when one's weapon is sheathed.\nI will always be a Sunspear, and I will die as one with no regrets. Let my example inspire the next generation. For the Sunspears! For Elona!"
       }
     ]
   }

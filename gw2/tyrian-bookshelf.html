@@ -167,7 +167,7 @@
 
           // TODO set active highlight somehow?
           return (
-            <a href="#" className={"list-group-item-" + context + " list-group-item d-flex justify-content-between align-items-center"}
+            <a href="#" className={"list-group-item-" + context + " list-group-item " + (this.props.filters[this.state.status] ? "d-flex" : "d-none") + " justify-content-between align-items-center"}
                 onClick={this.onClick}>
               {this.state.name}
               {(this.state.status == "partial") &&
@@ -176,6 +176,49 @@
                 </span>
               }
             </a>
+          );
+        }
+      }
+      
+      class Filter extends React.Component {
+        setValue(name, value) {
+          this.props.onSelectionChange(name, value);
+        }
+
+        render() {
+          var filterStates = this.props.filters;
+          // how do we fix this to the top?
+          console.log(filterStates.products);
+          return (
+            <div className="input-group mb-2">
+              <label className="my-1 mr-2">Show only</label>
+              <div className="btn-group-toggle mr-1">
+                {Object.keys(filterStates).map((name) => (
+                  <FilterSelection key={name}
+                    name={name}
+                    isChecked={filterStates[name]}
+                    onChange={(value) => this.setValue(name, value)} />
+                ))}
+              </div>
+            </div>
+          );
+        }
+      }
+      
+      class FilterSelection extends React.Component {
+        handleChange(event) {
+          this.props.onChange(event.target.checked);
+        }
+
+        render() {
+          return (
+            <label className={ "btn form-check-inline btn-outline-primary btn-sm " + (this.props.isChecked ? 'active' : 'disabled') }>
+              <input
+                type="checkbox"
+                checked={this.props.isChecked}
+                onChange={this.handleChange.bind(this)}
+                autoComplete="off" /> {this.props.name}
+            </label>
           );
         }
       }
@@ -294,7 +337,8 @@
             areBooksLoaded: false,
             books: null,
             areAchievementsLoaded: false,
-            achievements: null
+            achievements: null,
+            filters: {}
           };
           this.handleChange = this.handleChange.bind(this);
           this.handleSubmit = this.handleSubmit.bind(this);
@@ -356,7 +400,7 @@
           } else {
             return (
               <div>
-                <h1>Codex</h1>
+                <h1>Tyrian Bookshelf</h1>
                 <form onSubmit={this.handleSubmit}>
                   <div className="form-group">
                   <label htmlFor="api-key">
@@ -401,32 +445,35 @@
       class Shelf extends React.Component {
         constructor(props) {
           super(props);
-          this.apiKey = props.apiKey;
-          this.repository = props.repository;
 
           this.state = {
             achievements: [],
             isLoaded: false,
             error: null,
-            preview: null
+            preview: null,
+            filters: {
+              complete: true,
+              partial: true,
+              locked: true
+            }
           };
         }
         componentDidMount() {
-          if (this.apiKey == 'UNLOCK_ALL') {
-            const allUnlocked = this.repository.generateCompleteProgress();
+          if (this.props.apiKey == 'UNLOCK_ALL') {
+            const allUnlocked = this.props.repository.generateCompleteProgress();
             this.setState({
               achievements: allUnlocked,
               isLoaded: true
             });
             return;
-          } else if (this.apiKey == 'UNLOCK_NONE') {
+          } else if (this.props.apiKey == 'UNLOCK_NONE') {
             this.setState({
               achievements: [],
               isLoaded: true
             });
             return;
-          } else if (this.apiKey == 'UNLOCK_SOME') {
-            const someUnlocked = this.repository.generatePartialProgress();
+          } else if (this.props.apiKey == 'UNLOCK_SOME') {
+            const someUnlocked = this.props.repository.generatePartialProgress();
             this.setState({
               achievements: someUnlocked,
               isLoaded: true
@@ -435,7 +482,7 @@
           }
           // TODO wrap this in an API-centric class/module
           var url = "https://api.guildwars2.com/v2/account/achievements?"
-            + "access_token=" + this.apiKey;
+            + "access_token=" + this.props.apiKey;
           fetch(url)
             .then(res => res.json())
             .then(
@@ -458,23 +505,27 @@
         }
         
         previewBook(book) {
-          var newState = {
-            achievements: this.state.achievements,
-            isLoaded: this.state.isLoaded,
-            error: this.state.error,
+          this.setState({
             preview: book
-          };
-          this.setState(newState);
+          });
+        }
+
+        _onSelectionChange(filterName, value) {
+          var filterState = this.state.filters;
+          filterState[filterName] = value;
+          this.setState({
+            filters: filterState
+          });
         }
 
         render() {
-          const { error, isLoaded, achievements, preview } = this.state;
+          const { error, isLoaded, achievements, preview, filters } = this.state;
           if (error) {
             return <div>Error: {error.message}</div>;
           } else if (!isLoaded) {
             return <div>Loading achievement progress...</div>;
           } else {
-            var books = this.repository.mapAchievementsToBooks(achievements);
+            var books = this.props.repository.mapAchievementsToBooks(achievements);
             books.sort((x, y) => x["name"].localeCompare(y["name"]));
             return (
               <div className="codex container-fluid h-100">
@@ -482,17 +533,18 @@
                   <h2>Tyrian Bookshelf</h2>
                 </div>
                 <div className="row" style={{height: "90%"}}>
-                <div className="col-sm-4 h-100" style={{overflowY: "auto"}}>
-                  <div className="list-group">
-                    {books.map(book => (
-                      <Book key={book.name} value={book} onClick={() => this.previewBook(book)} />
-                    ))}
+                  <div className="col-sm-4 h-100" style={{overflowY: "auto"}}>
+                    <Filter filters={filters} onSelectionChange={this._onSelectionChange.bind(this)} />
+                    <div className="list-group">
+                      {books.map(book => (
+                        <Book key={book.name} value={book} onClick={() => this.previewBook(book)} filters={filters} />
+                      ))}
+                    </div>
+                  </div>
+                  <div className="col-sm-8 h-100" style={{overflowY: "auto"}}>
+                    <Preview book={preview} />
                   </div>
                 </div>
-                <div className="col-sm-8 h-100" style={{overflowY: "auto"}}>
-                  <Preview book={preview} />
-                </div>
-              </div>
               </div>
             );
           }

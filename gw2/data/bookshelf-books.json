@@ -1754,5 +1754,71 @@
         "text": "This may be my final entry. I have heard rumours that Joko's thugs are looking for me. They mean to silence me for good. My allies have urged me to flee, but I refuse.\nI was young when Kormir valiantly sacrificed herself to save Elona. Her actions changed my life. They taught me heroics come hand-in-hand with pain.\nIt has been years since I last held a sword. I have spent my old age as a librarian and teacher, but one does not cease to be a Sunspear when one's weapon is sheathed.\nI will always be a Sunspear, and I will die as one with no regrets. Let my example inspire the next generation. For the Sunspears! For Elona!"
       }
     ]
+  },
+  {
+    "name": "Naturalist's Journal",
+    "type": "paged",
+    "text": [
+      {
+        "page": 1,
+        "text": "Cymbel suggested that I restart at the beginning of my hunt to better understand what happened to the tigers. I'll return to Metrica Province and follow their trail backward into the jungle.\nMembers of the Aqualimit Krewe near Fisher's Beach Bend might be able to point me in the right direction."
+      },
+      {
+        "page": 2,
+        "text": "Memories of the tigers are still fresh here—a local asura recalled seeing the tigers pass through.\nIf I follow the river near Fisher's Beach toward the jungle, I should find more clues."
+      },
+      {
+        "page": 3,
+        "text": "I've found the trail! These cliffside tracks appear to lead to the SCAR Bivouac in Tangled Depths. The path is difficult, so I'll take an easier route."
+      },
+      {
+        "page": 4,
+        "text": "Tangled Depths is an extremely inhospitable place. While working with the Vigil to secure a foothold, I was able to find someone with a promising lead.\nAccording to Shrael Backstab, a pair of tigers passed through, hounded by a squad of Mordrem Guard. He first spotted them leaping down from the cliffs to the north.\nThere may be more clues to uncover in Cascade Descent."
+      },
+      {
+        "page": 5,
+        "text": "I discovered a tiger's den in ruins and found a Mordrem arrow among the wreckage.\nAre the Mordrem actively hunting tigers? Have other tigers been targeted? I remember seeing other tigers near Wyvern Cliffs in Verdant Brink, I should investigate there."
+      },
+      {
+        "page": 6,
+        "text": "A revelation? There's clear evidence at Wyvern Cliffs that Mordremoth is actively slaying tigers to strengthen his Mordrem army.\nThe Mordrem forced the tiger pair out of the jungle, but what caused their spree of violence? Other tigers I observed avoided interaction with intelligent races.\nAt Cymbel's suggestion, I'm retracing my steps. First stop: Oola's Lab in Metrica Province."
+      },
+      {
+        "page": 7,
+        "text": "I don't recall reports of violence from the tigers during their stay here. They caused fear and were a bit of a nuisance, but there weren't any attacks.\nThe nearby lab turrets are a real issue for me, and I suspect they were for the tigers as well.\nThe tigers were next spotted near Dreamdark Enclave in Caledon Forest. Maybe I'll find something on the cliffs near there."
+      },
+      {
+        "page": 8,
+        "text": "At Dreamdark Enclave, I found the beginnings of a small den, apparently abandoned before it was completed. What sort of predator did these two fierce animals fear?\nAs I recall, the tigers didn't commit any real violence here, either. Perhaps Southsun Cove will provide more answers.\nThe tracks I found at Southsun were on a sandbar below a plateau. I hear there's a path to get above."
+      },
+      {
+        "page": 9,
+        "text": "Another den, this one also abandoned. The tigers weren't here when I previously tracked them this far. Something else must have driven them away. I'll search for powerful creatures nearby."
+      },
+      {
+        "page": 10,
+        "text": "I found the creature that drove the tigers out. Could the powerful fauna and lack of weak prey be the reasons behind the tigers' hunting of settlers?\nEach step seems to bring more questions. I'll hunt for more answers in Verarium Delves in Sparkfly Fen."
+      },
+      {
+        "page": 11,
+        "text": "Another den, also clearly abandoned before completion. Is it normal for tigers to put such effort into their shelters?\nI think I caught up with them too quickly for them to leave any real clues here. On to my next destination, Twoheaded Meadows in Lornar's Pass."
+      },
+      {
+        "page": 12,
+        "text": "I ran across yet another den here, but it was barely started. It seems the ettins took an immediate interest in the tigers. Still, I feel like I'm on the edge of a discovery!\nRather than search the Shiverpeaks, I'm going to head quickly to the Crimson Plateau."
+      },
+      {
+        "page": 13,
+        "text": "Nestled within the roots of a large oak, I found yet another den, which they abandoned a day later. They were obviously set on finding shelter from something.\nI'm so close to a breakthrough! I think I'll skip camping tonight and head straight for Loreclaw Expanse."
+      },
+      {
+        "page": 14,
+        "text": "Each place they stopped was more remote than the last, yet nowhere seemed to provide the protection they sought.\nI hope to find an answer at Halkor Meadows, the last place the tiger stopped before I ended her rampage.\nI have no idea what to expect, but I'm ready for anything."
+      },
+      {
+        "page": 15,
+        "text": "The last piece of the puzzle has fallen into place. This wasn't the revelation I expected.\nI was wrong. I wasn't ready for anything. I was a fool.\nThis wasn't some mindless rampage. The tigers weren't bloodthirsty man-eaters, and they weren't hiding from some mysterious predator.\nMy pursuit left them no choice—here in the final den, barely clinging to life, are three tiny cubs. Their fates were sealed from the moment I saw their parents as trophies.\nWith the tree helpless cubs loaded in my pack, I'm returning to Cymbel as fast as possible. I hope she can save them!"
+      }
+    ]
   }
 ]

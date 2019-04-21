@@ -1741,5 +1741,90 @@
       },
       {}
     ]
+  },
+  {
+    "achievementId": 2946,
+    "name": "Chuka and Champawat III: Naturalist's Journal",
+    "bits": [
+      {
+        "id": 78290,
+        "authorComment": "The incomplete book gizmo."
+      },
+      {
+        "id": 78277,
+        "book": "Naturalist's Journal",
+        "page": 1
+      },
+      {
+        "id": 78510,
+        "book": "Naturalist's Journal",
+        "page": 2
+      },
+      {
+        "id": 78266,
+        "book": "Naturalist's Journal",
+        "page": 3
+      },
+      {
+        "id": 78587,
+        "book": "Naturalist's Journal",
+        "page": 4
+      },
+      {
+        "id": 78413,
+        "book": "Naturalist's Journal",
+        "page": 5
+      },
+      {
+        "id": 78607,
+        "book": "Naturalist's Journal",
+        "page": 6
+      },
+      {
+        "id": 78535,
+        "book": "Naturalist's Journal",
+        "page": 7
+      },
+      {
+        "id": 78646,
+        "book": "Naturalist's Journal",
+        "page": 8
+      },
+      {
+        "id": 78192,
+        "book": "Naturalist's Journal",
+        "page": 9
+      },
+      {
+        "id": 78633,
+        "book": "Naturalist's Journal",
+        "page": 10
+      },
+      {
+        "id": 78371,
+        "book": "Naturalist's Journal",
+        "page": 11
+      },
+      {
+        "id": 78541,
+        "book": "Naturalist's Journal",
+        "page": 12
+      },
+      {
+        "id": 78666,
+        "book": "Naturalist's Journal",
+        "page": 13
+      },
+      {
+        "id": 78513,
+        "book": "Naturalist's Journal",
+        "page": 14
+      },
+      {
+        "id": 78527,
+        "book": "Naturalist's Journal",
+        "page": 15
+      }
+    ]
   }
 ]
